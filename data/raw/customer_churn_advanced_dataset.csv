@@ -1,0 +1,1201 @@
+customer_id,age,tenure_months,contract_type,internet_service,region,monthly_charges,total_charges,payment_method,paperless_billing,dependents,support_plan,tech_support,complaints_last_12m,late_payments_last_12m,satisfaction_score,monthly_usage_gb,discount_pct,senior_citizen,churn
+CUST100001,23,64,One year,Fiber optic,Eastern,48.36,3082.83,Mailed check,No,No,No,No,0,0,6.2,16.4,5.61,0,1
+CUST100002,62,35,One year,DSL,Central,51.34,1585.19,Electronic check,Yes,No,Yes,No,1,1,7.4,38.1,0.0,0,1
+CUST100003,55,71,Month-to-month,DSL,North Central,130.98,8564.89,Bank transfer,No,No,No,No,0,1,8.2,,22.92,0,1
+CUST100004,43,55,Month-to-month,Fiber optic,Western,115.24,6390.85,Credit card,Yes,No,No,No,0,1,9.8,70.1,9.66,0,1
+CUST100005,43,47,Month-to-month,Fiber optic,Sabaragamuwa,62.12,2540.63,Electronic check,Yes,No,No,No,3,0,8.5,144.2,11.2,0,1
+CUST100006,67,66,Two year,Fiber optic,Central,,4716.63,Electronic check,No,No,No,No,2,2,8.2,63.4,5.04,1,1
+CUST100007,22,38,One year,Fiber optic,Eastern,,1497.45,Credit card,No,No,No,Yes,1,2,10.0,68.5,0.0,0,0
+CUST100008,58,52,Month-to-month,DSL,Uva,26.2,1239.19,Electronic check,No,Yes,No,No,0,1,6.8,84.3,7.42,0,1
+CUST100009,29,21,Month-to-month,Fiber optic,Eastern,,1568.75,Electronic check,Yes,No,Yes,No,1,1,6.1,60.9,5.74,0,1
+CUST100010,23,70,Two year,Fiber optic,North Central,48.05,2956.88,Bank transfer,No,Yes,Yes,No,2,2,6.9,77.8,12.97,0,1
+CUST100011,48,45,One year,Fiber optic,North Central,69.96,3526.43,Electronic check,No,Yes,No,No,0,1,5.0,78.7,14.34,0,1
+CUST100012,74,57,One year,Fiber optic,Sabaragamuwa,,2044.58,Mailed check,No,No,Yes,No,1,2,6.7,35.4,13.36,0,0
+CUST100013,60,34,Two year,DSL,Eastern,53.71,1589.89,Credit card,No,No,No,No,1,1,3.5,61.7,14.92,0,1
+CUST100014,62,63,One year,Fiber optic,Sabaragamuwa,75.57,5034.72,Credit card,Yes,Yes,Yes,No,0,2,5.6,91.0,20.63,0,1
+CUST100015,59,6,One year,Fiber optic,Eastern,80.79,503.88,Electronic check,Yes,Yes,No,Yes,1,1,6.4,97.5,10.73,0,1
+CUST100016,63,9,Month-to-month,No,Sabaragamuwa,82.02,795.16,Credit card,Yes,No,Yes,Yes,0,0,8.3,110.4,15.69,0,1
+CUST100017,47,37,Month-to-month,Fiber optic,North Central,40.31,1638.25,Credit card,Yes,Yes,No,Yes,0,0,8.6,76.7,11.46,0,1
+CUST100018,25,53,Two year,DSL,Central,92.51,5224.34,Electronic check,No,Yes,No,No,0,0,4.9,77.5,0.0,0,1
+CUST100019,66,59,One year,Fiber optic,North Western,52.79,3195.43,Mailed check,Yes,No,Yes,No,1,0,10.0,91.3,6.92,0,1
+CUST100020,44,32,Month-to-month,Fiber optic,Uva,87.19,2641.43,Bank transfer,Yes,No,No,No,0,1,6.9,44.2,1.93,0,1
+CUST100021,47,47,One year,DSL,Central,71.74,3571.56,Credit card,No,No,No,No,0,0,7.0,42.7,9.62,0,0
+CUST100022,39,40,Month-to-month,Fiber optic,Uva,38.97,1772.35,Electronic check,Yes,No,Yes,Yes,0,2,3.7,60.6,2.46,0,1
+CUST100023,28,70,One year,DSL,Western,185.81,4627.17,Electronic check,No,No,Yes,No,0,1,5.5,20.4,12.24,0,0
+CUST100024,71,48,Month-to-month,DSL,Uva,80.77,4068.04,Credit card,Yes,Yes,No,No,1,1,8.5,79.2,14.87,0,1
+CUST100025,63,31,One year,DSL,Uva,86.71,2637.35,Credit card,Yes,No,No,Yes,1,0,6.9,101.7,16.42,0,1
+CUST100026,55,70,Month-to-month,DSL,Central,68.62,5172.2,Bank transfer,Yes,No,Yes,Yes,0,0,6.8,40.1,19.33,0,0
+CUST100027,41,8,Month-to-month,No,North Central,108.76,1000.01,Electronic check,Yes,No,No,Yes,0,1,7.0,80.2,0.0,0,1
+CUST100028,65,71,Month-to-month,Fiber optic,Central,96.18,6133.06,Credit card,Yes,Yes,Yes,Yes,2,1,4.0,43.0,0.0,0,1
+CUST100029,49,12,One year,DSL,North Western,65.84,719.55,Electronic check,Yes,Yes,Yes,Yes,1,0,6.4,29.4,28.49,0,0
+CUST100030,43,21,Month-to-month,Fiber optic,Sabaragamuwa,90.0,1912.42,Electronic check,Yes,Yes,No,No,1,1,9.1,136.9,15.07,1,0
+CUST100031,44,60,Month-to-month,Fiber optic,Central,118.41,7064.97,Credit card,Yes,Yes,Yes,Yes,0,0,8.6,29.9,9.57,0,1
+CUST100032,31,53,One year,DSL,Central,119.05,6445.21,Electronic check,No,Yes,Yes,Yes,0,2,6.4,20.2,8.22,0,0
+CUST100033,23,70,Month-to-month,DSL,Northern,42.53,2574.24,Electronic check,Yes,No,No,Yes,0,0,9.4,72.5,7.6,1,1
+CUST100034,50,54,Month-to-month,Fiber optic,Northern,49.76,2610.04,Electronic check,Yes,Yes,Yes,No,1,0,4.3,74.4,0.0,0,1
+CUST100035,69,46,Month-to-month,DSL,Western,107.64,5074.61,Mailed check,Yes,No,Yes,No,1,2,4.9,88.4,2.59,0,1
+CUST100036,21,25,Two year,Fiber optic,Eastern,46.6,,Electronic check,No,No,No,No,1,1,10.0,135.0,7.22,0,1
+CUST100037,67,1,Month-to-month,DSL,Southern,40.26,42.16,Credit card,No,No,No,Yes,1,0,7.6,37.8,2.99,0,1
+CUST100038,66,9,Month-to-month,Fiber optic,Central,60.33,578.85,Mailed check,No,No,No,No,0,2,6.1,44.8,3.9,1,1
+CUST100039,34,22,Month-to-month,Fiber optic,Southern,82.09,1882.56,Credit card,No,No,No,No,0,1,6.5,121.3,25.91,0,1
+CUST100040,54,3,Month-to-month,DSL,Western,69.54,226.79,Bank transfer,Yes,Yes,No,No,1,2,5.1,97.9,6.24,1,1
+CUST100041,27,37,Month-to-month,DSL,Sabaragamuwa,56.39,2164.39,Bank transfer,No,No,Yes,No,2,1,7.1,93.0,9.95,0,1
+CUST100042,61,56,Month-to-month,No,Sabaragamuwa,55.82,3161.03,Bank transfer,Yes,Yes,No,No,0,1,7.0,44.4,9.7,0,1
+CUST100043,58,70,Month-to-month,Fiber optic,Northern,54.9,3965.72,Credit card,No,Yes,Yes,No,0,0,6.6,104.4,12.13,0,1
+CUST100044,38,36,Month-to-month,Fiber optic,Uva,50.89,1612.91,Mailed check,Yes,Yes,Yes,No,0,0,4.5,93.1,4.66,0,1
+CUST100045,21,64,Two year,DSL,Eastern,126.76,7560.5,Credit card,Yes,No,No,Yes,0,3,7.1,71.6,16.73,0,1
+CUST100046,74,71,Month-to-month,DSL,Sabaragamuwa,79.14,5665.15,Bank transfer,No,Yes,No,No,1,1,5.6,44.5,11.1,1,1
+CUST100047,43,62,Month-to-month,Fiber optic,Central,93.28,6430.65,Electronic check,No,No,No,No,0,0,4.8,68.7,0.0,0,1
+CUST100048,69,34,Two year,No,Southern,60.26,2158.97,Mailed check,No,No,Yes,No,1,0,8.9,122.7,7.25,1,1
+CUST100049,57,24,Two year,DSL,North Central,67.54,1421.72,Electronic check,Yes,No,Yes,No,2,1,10.0,26.7,6.79,0,0
+CUST100050,63,71,One year,Fiber optic,Central,,4003.96,Credit card,Yes,Yes,No,No,1,0,10.0,37.0,6.47,0,0
+CUST100051,62,18,Month-to-month,Fiber optic,Uva,20.0,329.95,Electronic check,Yes,No,No,Yes,2,0,7.8,43.0,11.57,0,1
+CUST100052,29,30,Month-to-month,DSL,Northern,38.93,1249.82,Credit card,Yes,No,No,No,1,1,6.1,50.6,12.44,0,1
+CUST100053,39,6,Month-to-month,DSL,Northern,28.55,188.1,Credit card,Yes,No,Yes,Yes,2,1,6.5,64.4,11.62,0,1
+CUST100054,45,58,Month-to-month,DSL,Eastern,20.0,1192.52,Bank transfer,Yes,No,Yes,No,0,0,7.3,98.5,10.37,1,1
+CUST100055,46,47,Month-to-month,Fiber optic,Uva,43.31,2091.43,Electronic check,No,No,No,No,1,0,5.8,81.1,8.6,1,1
+CUST100056,20,7,One year,Fiber optic,Western,103.8,691.41,Credit card,Yes,No,No,Yes,0,1,9.0,67.1,0.0,0,0
+CUST100057,49,16,Month-to-month,Fiber optic,North Central,70.93,1116.64,Bank transfer,No,No,Yes,Yes,0,0,2.9,74.7,13.45,0,1
+CUST100058,26,40,One year,DSL,Uva,102.97,4568.86,Electronic check,No,No,Yes,Yes,0,1,6.1,86.8,11.42,0,1
+CUST100059,61,39,Month-to-month,Fiber optic,Uva,81.86,3406.58,Bank transfer,Yes,Yes,Yes,No,1,1,8.0,6.1,1.11,0,1
+CUST100060,57,58,Month-to-month,Fiber optic,Sabaragamuwa,90.78,5296.52,Bank transfer,Yes,Yes,Yes,No,1,1,5.1,102.5,9.96,0,1
+CUST100061,71,20,One year,Fiber optic,Uva,50.38,967.74,Credit card,Yes,Yes,No,No,0,1,6.2,36.1,12.54,0,1
+CUST100062,61,67,Two year,Fiber optic,Eastern,84.57,4902.18,Electronic check,Yes,Yes,Yes,Yes,0,2,,49.5,16.2,0,1
+CUST100063,39,33,Month-to-month,DSL,Eastern,89.49,2636.87,Bank transfer,No,Yes,No,No,1,0,9.3,76.9,11.57,0,1
+CUST100064,74,60,One year,Fiber optic,Northern,58.16,3168.26,Mailed check,Yes,No,No,No,0,2,4.3,62.4,10.25,1,1
+CUST100065,41,18,Month-to-month,Fiber optic,Uva,85.43,1479.31,Electronic check,Yes,No,No,Yes,0,1,4.1,82.0,14.63,0,1
+CUST100066,36,3,Month-to-month,Fiber optic,Northern,85.59,290.98,Bank transfer,No,No,No,Yes,0,3,4.9,70.0,5.85,1,1
+CUST100067,70,4,One year,DSL,North Western,58.81,235.61,Credit card,No,No,Yes,No,0,1,3.8,54.9,10.88,0,1
+CUST100068,39,27,Month-to-month,Fiber optic,Western,45.05,1119.68,Mailed check,No,No,Yes,Yes,0,0,4.0,118.5,3.65,0,1
+CUST100069,22,69,Month-to-month,Fiber optic,Southern,,2651.42,Credit card,Yes,Yes,Yes,Yes,1,2,4.8,89.8,15.77,0,1
+CUST100070,45,4,Month-to-month,Fiber optic,Southern,74.08,281.93,Credit card,No,No,No,Yes,0,1,8.8,75.6,0.0,1,1
+CUST100071,64,27,Month-to-month,Fiber optic,Northern,79.85,2360.11,Electronic check,Yes,Yes,Yes,Yes,2,0,6.0,,13.72,0,1
+CUST100072,28,8,Month-to-month,Fiber optic,Eastern,52.98,409.0,Bank transfer,Yes,No,Yes,Yes,2,1,6.7,40.3,8.12,0,1
+CUST100073,44,68,Month-to-month,DSL,North Central,72.64,5343.19,Mailed check,No,No,Yes,Yes,0,1,4.9,141.1,14.76,0,1
+CUST100074,25,49,Two year,Fiber optic,Northern,85.69,4580.26,Mailed check,No,No,Yes,No,3,1,7.7,26.9,2.54,0,1
+CUST100075,57,55,One year,Fiber optic,Central,86.84,4218.39,Bank transfer,Yes,Yes,No,No,1,1,10.0,69.0,8.63,0,1
+CUST100076,45,52,Month-to-month,No,Eastern,109.25,5865.93,Bank transfer,Yes,No,No,No,2,1,5.0,55.0,8.42,0,1
+CUST100077,37,48,Month-to-month,DSL,Western,102.65,5605.68,Bank transfer,Yes,Yes,No,No,0,0,,53.6,11.04,1,1
+CUST100078,31,56,One year,DSL,Uva,47.97,2607.4,Electronic check,No,Yes,No,No,1,1,7.3,49.1,0.67,1,0
+CUST100079,50,1,Month-to-month,Fiber optic,North Central,112.41,97.26,Mailed check,No,Yes,Yes,Yes,0,2,6.6,38.0,12.45,0,1
+CUST100080,56,63,Month-to-month,DSL,Southern,59.26,4207.24,Credit card,Yes,Yes,Yes,Yes,1,0,7.3,106.6,0.0,0,1
+CUST100081,72,54,One year,Fiber optic,Southern,97.08,5845.53,Bank transfer,Yes,No,Yes,Yes,0,1,7.3,22.8,3.33,0,1
+CUST100082,43,54,Month-to-month,Fiber optic,Western,73.63,4002.52,Electronic check,Yes,No,No,No,0,1,9.9,99.4,0.0,0,1
+CUST100083,27,29,Month-to-month,DSL,Northern,62.11,1829.38,Bank transfer,No,Yes,No,No,1,2,7.5,87.7,13.8,0,1
+CUST100084,66,58,Month-to-month,Fiber optic,Western,28.62,1516.16,Electronic check,Yes,No,Yes,Yes,1,0,7.6,51.7,10.8,0,1
+CUST100085,54,28,Month-to-month,No,Sabaragamuwa,67.88,2082.86,Credit card,Yes,No,No,No,2,1,5.8,83.6,11.19,0,1
+CUST100086,58,4,Month-to-month,Fiber optic,Central,34.57,138.24,Bank transfer,No,No,Yes,No,0,2,8.1,,18.31,0,1
+CUST100087,23,66,Two year,Fiber optic,North Western,95.22,5405.44,Electronic check,Yes,No,Yes,Yes,0,1,4.9,26.5,5.79,0,1
+CUST100088,36,17,Month-to-month,DSL,North Western,108.4,1944.03,Credit card,Yes,No,No,No,0,1,6.8,26.8,12.27,0,1
+CUST100089,62,8,One year,DSL,Southern,52.87,480.16,Mailed check,Yes,No,No,No,1,1,10.0,87.9,8.46,1,1
+CUST100090,66,45,One year,No,Uva,79.25,3918.27,Electronic check,Yes,No,No,No,0,0,2.1,86.1,7.4,0,1
+CUST100091,43,17,Month-to-month,Fiber optic,Western,54.59,866.01,Bank transfer,No,No,No,No,1,0,7.0,73.5,17.15,0,1
+CUST100092,64,62,Month-to-month,Fiber optic,Uva,56.92,3055.94,Bank transfer,Yes,No,Yes,No,0,0,7.1,51.3,22.57,0,1
+CUST100093,66,32,Month-to-month,No,North Central,90.59,3281.76,Electronic check,Yes,No,No,Yes,0,1,6.2,58.3,4.98,0,1
+CUST100094,40,1,One year,DSL,North Western,,80.39,Bank transfer,Yes,Yes,No,No,0,0,6.2,53.6,13.84,0,1
+CUST100095,70,69,Month-to-month,Fiber optic,Uva,113.75,7925.18,Credit card,No,No,No,No,1,0,6.8,3.9,10.23,0,1
+CUST100096,34,38,One year,DSL,Northern,60.43,2394.24,Electronic check,Yes,No,Yes,Yes,1,0,6.1,67.1,10.32,0,0
+CUST100097,31,19,Two year,DSL,Southern,95.98,1803.24,Electronic check,Yes,Yes,No,No,1,0,7.0,83.3,9.73,0,1
+CUST100098,57,49,One year,Fiber optic,Central,74.34,3554.88,Credit card,Yes,No,Yes,Yes,0,0,5.7,67.4,5.67,0,1
+CUST100099,54,39,Two year,Fiber optic,Sabaragamuwa,91.1,3147.24,Electronic check,Yes,No,Yes,No,0,1,10.0,126.9,0.0,0,1
+CUST100100,26,3,One year,No,Northern,61.27,161.57,Credit card,No,Yes,No,No,0,1,6.1,29.8,18.74,0,1
+CUST100101,66,55,Two year,DSL,Uva,70.81,3582.31,Credit card,No,Yes,No,No,0,2,7.6,41.9,3.14,1,1
+CUST100102,29,29,Two year,Fiber optic,Southern,69.23,2210.37,Credit card,No,No,No,No,0,0,5.4,69.7,6.31,1,1
+CUST100103,64,51,One year,Fiber optic,Sabaragamuwa,51.93,2367.24,Credit card,Yes,No,No,Yes,1,0,8.3,73.5,6.46,1,1
+CUST100104,18,65,One year,Fiber optic,Uva,87.89,5244.45,Credit card,Yes,No,Yes,No,1,1,7.9,2.0,2.51,1,1
+CUST100105,64,44,Two year,No,Southern,87.61,3910.88,Credit card,No,Yes,No,No,1,1,7.4,86.1,9.68,0,1
+CUST100106,63,49,Month-to-month,Fiber optic,Eastern,86.25,3864.86,Bank transfer,Yes,No,No,No,0,0,4.8,73.7,7.69,0,1
+CUST100107,63,19,One year,Fiber optic,Uva,108.89,1859.82,Bank transfer,No,No,No,No,2,0,5.2,2.0,2.98,0,0
+CUST100108,56,18,Month-to-month,DSL,Southern,106.78,1958.63,Bank transfer,Yes,Yes,Yes,No,0,0,9.6,60.9,9.05,0,1
+CUST100109,45,30,Two year,DSL,Western,63.0,1815.25,Bank transfer,Yes,No,No,No,1,0,5.2,36.7,7.77,1,1
+CUST100110,58,62,Month-to-month,No,Southern,80.95,5209.06,Electronic check,Yes,Yes,No,Yes,0,0,7.8,49.1,14.49,0,1
+CUST100111,34,38,One year,Fiber optic,North Western,57.03,2435.29,Bank transfer,Yes,No,No,No,0,1,4.9,18.2,0.0,0,1
+CUST100112,63,26,One year,Fiber optic,Central,72.56,1689.05,Bank transfer,Yes,No,Yes,No,0,2,8.4,79.6,2.36,0,1
+CUST100113,50,57,Two year,DSL,Northern,57.61,3690.8,Electronic check,Yes,Yes,Yes,Yes,2,1,5.4,126.7,13.08,1,1
+CUST100114,44,62,Month-to-month,Fiber optic,Sabaragamuwa,110.88,7704.76,Electronic check,Yes,No,No,No,1,2,4.9,74.3,3.52,0,1
+CUST100115,47,65,One year,Fiber optic,Western,80.73,5765.42,Credit card,Yes,No,Yes,Yes,2,0,5.3,2.0,1.68,0,1
+CUST100116,50,22,One year,DSL,Western,66.77,1526.73,Bank transfer,No,No,No,No,0,1,5.6,75.0,3.87,0,1
+CUST100117,20,52,Two year,Fiber optic,Northern,100.65,5422.28,Credit card,Yes,No,Yes,Yes,1,1,7.3,58.2,7.29,0,1
+CUST100118,26,43,Two year,Fiber optic,Western,20.0,895.92,Bank transfer,No,Yes,No,No,3,0,6.7,26.5,7.32,0,0
+CUST100119,32,33,One year,Fiber optic,Western,23.66,825.45,Credit card,Yes,Yes,Yes,No,1,2,4.6,77.4,6.53,0,1
+CUST100120,24,29,One year,DSL,Central,91.1,2258.68,Credit card,Yes,No,Yes,No,0,2,6.5,95.8,0.8,0,1
+CUST100121,43,9,Month-to-month,Fiber optic,Western,73.45,751.91,Electronic check,Yes,Yes,No,Yes,0,1,4.5,41.6,13.41,0,1
+CUST100122,56,20,Two year,DSL,Uva,78.01,1600.28,Mailed check,No,Yes,Yes,No,0,0,7.8,7.5,17.28,0,0
+CUST100123,55,40,Month-to-month,Fiber optic,Central,40.17,1742.33,Electronic check,Yes,No,Yes,No,0,1,8.1,2.0,0.0,1,0
+CUST100124,45,64,One year,Fiber optic,Eastern,71.44,4403.98,Credit card,No,Yes,Yes,No,2,1,6.6,41.7,0.0,0,1
+CUST100125,67,63,One year,Fiber optic,North Central,120.08,6458.65,Credit card,Yes,No,Yes,Yes,1,0,7.1,59.6,15.02,0,1
+CUST100126,50,14,Month-to-month,DSL,North Western,91.78,1288.68,Electronic check,No,No,No,Yes,0,0,9.8,46.9,18.99,0,0
+CUST100127,22,49,Month-to-month,Fiber optic,North Western,76.07,3735.62,Credit card,No,No,Yes,No,0,2,6.3,41.1,0.0,1,1
+CUST100128,62,7,Month-to-month,DSL,Northern,61.46,422.11,Bank transfer,No,Yes,Yes,No,1,0,4.9,84.9,13.71,0,1
+CUST100129,51,49,Two year,Fiber optic,Uva,62.53,2916.65,Electronic check,Yes,No,No,Yes,2,0,7.6,81.2,19.47,0,1
+CUST100130,54,25,Month-to-month,No,Western,20.9,483.27,Electronic check,No,No,No,No,1,0,4.6,72.0,1.96,1,1
+CUST100131,50,33,Month-to-month,Fiber optic,Western,78.18,2601.37,Electronic check,Yes,No,No,Yes,0,1,6.2,93.6,19.06,0,1
+CUST100132,50,52,One year,Fiber optic,Uva,92.29,4619.59,Electronic check,No,No,Yes,No,1,0,5.5,42.0,6.75,0,1
+CUST100133,23,31,Month-to-month,Fiber optic,Western,34.19,1209.14,Credit card,Yes,No,No,Yes,0,0,5.3,26.7,10.2,0,1
+CUST100134,50,59,Two year,Fiber optic,Central,56.13,2986.51,Bank transfer,Yes,No,Yes,No,0,1,6.1,46.7,2.97,0,0
+CUST100135,64,39,Month-to-month,Fiber optic,Central,44.22,1631.31,Bank transfer,Yes,Yes,Yes,Yes,0,0,8.2,44.3,15.01,1,0
+CUST100136,35,72,Month-to-month,Fiber optic,Western,48.83,3298.55,Credit card,No,No,No,Yes,1,1,8.6,2.0,13.84,0,1
+CUST100137,52,46,Month-to-month,DSL,Central,73.28,3414.84,Electronic check,Yes,Yes,No,Yes,2,0,8.3,,20.07,1,1
+CUST100138,19,22,Month-to-month,Fiber optic,North Western,21.97,483.33,Electronic check,Yes,No,No,Yes,0,0,7.2,103.7,18.08,1,1
+CUST100139,38,56,Month-to-month,DSL,North Western,86.74,5067.05,Credit card,Yes,No,No,No,1,1,6.1,93.0,7.94,0,1
+CUST100140,43,30,One year,No,Western,90.09,3067.65,Mailed check,No,Yes,Yes,No,0,1,2.4,83.4,29.76,0,1
+CUST100141,74,39,Month-to-month,DSL,Sabaragamuwa,65.97,2407.18,Bank transfer,Yes,No,No,No,1,1,7.3,69.6,17.46,0,1
+CUST100142,30,10,Month-to-month,DSL,Western,20.0,211.57,Electronic check,No,No,No,No,1,0,2.5,115.7,11.78,0,1
+CUST100143,34,9,Month-to-month,Fiber optic,North Central,48.09,371.11,Credit card,Yes,Yes,Yes,No,1,0,3.1,27.9,1.02,0,1
+CUST100144,41,42,Month-to-month,DSL,Uva,101.59,3962.62,Mailed check,Yes,No,Yes,Yes,1,0,6.3,31.2,0.0,0,1
+CUST100145,75,14,Two year,Fiber optic,Eastern,20.0,276.95,Bank transfer,No,No,Yes,Yes,0,1,7.1,104.4,0.0,1,1
+CUST100146,67,72,Month-to-month,Fiber optic,Eastern,63.66,3938.58,Electronic check,No,No,No,No,2,1,5.8,66.0,1.46,0,1
+CUST100147,20,62,Two year,DSL,Western,43.68,2803.76,Electronic check,No,No,Yes,Yes,0,0,9.4,41.5,17.64,1,0
+CUST100148,31,51,Month-to-month,DSL,Southern,,4905.9,Credit card,Yes,No,Yes,No,1,0,7.4,84.3,11.41,0,1
+CUST100149,65,53,Month-to-month,Fiber optic,Uva,55.8,3176.15,Mailed check,Yes,No,No,No,2,0,6.2,49.7,3.71,0,1
+CUST100150,21,43,Month-to-month,DSL,Northern,81.69,3530.35,Credit card,No,Yes,No,No,0,1,9.1,35.7,7.05,0,0
+CUST100151,67,5,Month-to-month,DSL,Western,85.57,441.2,Electronic check,Yes,Yes,Yes,No,2,1,9.4,34.7,6.2,0,1
+CUST100152,34,29,One year,DSL,North Central,116.07,3261.06,Credit card,Yes,No,No,No,1,1,7.5,76.3,13.6,0,1
+CUST100153,71,36,Month-to-month,Fiber optic,North Central,67.13,2084.07,Credit card,No,No,No,No,0,1,,72.2,1.85,0,1
+CUST100154,35,66,Month-to-month,DSL,Western,81.03,4705.86,Bank transfer,Yes,No,No,Yes,1,2,5.6,118.1,10.45,0,1
+CUST100155,43,16,One year,DSL,Western,36.36,608.79,Credit card,Yes,No,Yes,Yes,0,0,4.0,54.8,10.1,1,1
+CUST100156,56,36,One year,Fiber optic,Central,100.57,4158.77,Bank transfer,No,No,Yes,Yes,1,1,6.5,,2.06,0,0
+CUST100157,25,25,Two year,Fiber optic,Western,53.75,1148.51,Bank transfer,Yes,No,No,Yes,0,0,4.7,,19.12,0,1
+CUST100158,50,10,Two year,DSL,North Western,58.54,595.53,Credit card,Yes,No,Yes,No,1,1,6.0,99.5,5.93,0,1
+CUST100159,47,8,One year,DSL,Central,71.47,614.78,Bank transfer,Yes,No,No,Yes,1,0,7.1,70.1,1.05,0,1
+CUST100160,63,27,One year,No,North Western,34.49,1022.54,Mailed check,Yes,No,Yes,Yes,0,2,3.0,10.4,13.97,0,1
+CUST100161,75,6,One year,Fiber optic,Central,77.49,,Bank transfer,No,No,No,No,1,0,4.3,36.6,8.38,0,1
+CUST100162,56,5,Month-to-month,Fiber optic,Sabaragamuwa,,493.22,Bank transfer,No,Yes,No,No,3,1,5.7,28.1,10.86,0,1
+CUST100163,41,26,One year,Fiber optic,North Central,79.03,2176.06,Bank transfer,Yes,No,No,No,0,0,6.5,66.3,0.0,0,1
+CUST100164,41,15,Month-to-month,DSL,Northern,33.87,562.7,Bank transfer,Yes,Yes,No,No,1,0,5.7,47.2,13.69,0,1
+CUST100165,42,40,One year,Fiber optic,Northern,69.03,2448.27,Bank transfer,Yes,No,No,No,2,1,6.1,121.1,23.21,1,1
+CUST100166,65,2,Two year,No,Western,89.81,202.58,Credit card,Yes,No,No,Yes,0,0,5.3,10.0,0.0,0,0
+CUST100167,36,22,Month-to-month,No,Western,26.93,508.18,Bank transfer,No,No,Yes,No,1,0,4.0,24.4,10.48,0,1
+CUST100168,27,33,Two year,DSL,Eastern,46.21,1678.58,Bank transfer,Yes,No,No,Yes,0,0,5.6,73.6,2.5,0,1
+CUST100169,37,70,Two year,DSL,Western,93.04,,Credit card,Yes,No,No,No,1,2,6.2,83.3,26.83,0,1
+CUST100170,19,46,Month-to-month,DSL,North Western,78.48,3279.45,Electronic check,No,No,No,No,0,1,6.0,2.0,16.68,0,1
+CUST100171,24,64,Month-to-month,DSL,Northern,81.89,4460.79,Credit card,No,No,No,No,0,3,6.8,4.3,9.97,0,1
+CUST100172,23,25,Two year,DSL,Central,116.63,2867.81,Bank transfer,Yes,No,Yes,No,3,0,7.4,55.8,0.0,0,1
+CUST100173,62,33,Two year,Fiber optic,Eastern,83.25,2610.58,Bank transfer,Yes,No,No,No,2,1,7.8,112.5,1.1,0,1
+CUST100174,59,31,Month-to-month,DSL,Eastern,87.79,2448.77,Credit card,Yes,Yes,No,No,0,1,,131.1,13.22,0,1
+CUST100175,58,64,Month-to-month,No,North Central,137.06,8643.0,Credit card,Yes,Yes,No,No,0,2,3.8,50.5,0.0,0,1
+CUST100176,44,70,One year,DSL,Central,66.87,4543.71,Credit card,Yes,Yes,No,No,1,0,8.9,59.0,0.0,0,1
+CUST100177,59,70,Month-to-month,DSL,Eastern,52.85,3996.63,Bank transfer,No,No,No,No,0,2,7.3,35.7,8.06,0,0
+CUST100178,27,55,Month-to-month,Fiber optic,Uva,82.27,5058.33,Electronic check,No,Yes,No,Yes,1,3,4.9,87.2,8.93,1,1
+CUST100179,70,37,Month-to-month,Fiber optic,Southern,82.54,3193.6,Credit card,Yes,No,Yes,No,1,1,7.1,118.5,10.66,0,1
+CUST100180,47,39,Month-to-month,Fiber optic,Uva,59.36,2054.15,Credit card,Yes,No,No,Yes,1,1,8.5,109.0,4.92,0,1
+CUST100181,72,71,One year,Fiber optic,North Central,47.22,3146.99,Credit card,Yes,No,Yes,No,1,0,9.7,64.0,14.44,0,1
+CUST100182,26,21,One year,DSL,Northern,127.44,3007.99,Bank transfer,Yes,Yes,Yes,Yes,1,0,7.1,35.7,1.97,1,0
+CUST100183,46,25,One year,DSL,Uva,79.84,1749.83,Credit card,Yes,No,Yes,No,0,2,8.5,65.3,12.39,0,0
+CUST100184,58,65,One year,Fiber optic,Sabaragamuwa,54.43,3438.78,Electronic check,Yes,No,No,Yes,1,0,4.4,113.3,9.5,0,1
+CUST100185,46,28,Month-to-month,Fiber optic,Southern,93.98,2980.84,Bank transfer,No,No,Yes,Yes,1,0,6.5,,12.2,0,1
+CUST100186,43,17,Month-to-month,Fiber optic,Sabaragamuwa,69.38,1338.93,Electronic check,No,Yes,No,No,0,1,6.0,2.0,16.27,0,0
+CUST100187,27,41,Month-to-month,DSL,Western,65.93,2631.15,Bank transfer,No,No,No,Yes,1,0,7.2,52.4,4.81,0,1
+CUST100188,40,24,Month-to-month,Fiber optic,Central,85.49,2154.91,Credit card,Yes,Yes,No,No,1,0,9.5,55.2,3.37,1,1
+CUST100189,31,65,Month-to-month,Fiber optic,Western,40.99,2630.09,Bank transfer,Yes,Yes,Yes,No,2,1,7.0,2.0,0.0,0,1
+CUST100190,35,66,Month-to-month,DSL,Northern,80.46,,Bank transfer,Yes,No,Yes,Yes,0,0,4.9,73.1,0.0,0,1
+CUST100191,57,23,Month-to-month,DSL,Sabaragamuwa,117.91,2330.85,Mailed check,Yes,Yes,No,Yes,0,0,4.3,82.7,6.77,0,1
+CUST100192,54,39,Month-to-month,Fiber optic,North Western,83.19,2898.0,Credit card,Yes,Yes,No,No,1,1,9.6,130.1,7.25,0,1
+CUST100193,53,71,One year,Fiber optic,North Western,62.97,4624.11,Bank transfer,No,No,No,No,1,0,7.5,18.4,0.4,1,0
+CUST100194,38,54,One year,Fiber optic,Western,59.83,2971.57,Mailed check,No,No,No,No,2,0,7.4,90.6,1.9,0,1
+CUST100195,73,16,Two year,Fiber optic,Eastern,62.15,1043.97,Bank transfer,Yes,Yes,No,Yes,0,0,6.0,98.8,18.66,0,1
+CUST100196,23,43,One year,Fiber optic,Northern,65.9,2707.42,Credit card,Yes,Yes,No,No,0,2,,83.2,14.13,0,1
+CUST100197,37,45,One year,DSL,Eastern,62.93,3160.46,Electronic check,Yes,Yes,No,No,1,1,4.8,29.8,0.0,0,1
+CUST100198,24,48,Month-to-month,Fiber optic,Southern,93.99,4943.7,Electronic check,Yes,No,No,Yes,1,1,7.3,27.7,4.9,1,0
+CUST100199,37,2,One year,DSL,Central,30.4,60.68,Electronic check,Yes,Yes,No,Yes,0,0,4.5,68.4,10.84,0,1
+CUST100200,73,22,Month-to-month,Fiber optic,Sabaragamuwa,92.69,2206.08,Electronic check,Yes,No,Yes,Yes,0,3,6.0,68.2,3.61,1,1
+CUST100201,39,62,Month-to-month,DSL,North Western,62.89,3631.32,Bank transfer,Yes,No,Yes,Yes,1,2,5.4,45.4,2.34,0,1
+CUST100202,70,18,Month-to-month,DSL,Northern,81.05,1456.33,Electronic check,No,Yes,Yes,No,0,1,1.0,110.2,5.63,1,1
+CUST100203,46,22,Month-to-month,Fiber optic,Western,44.95,899.2,Credit card,Yes,No,No,No,0,2,6.0,51.0,15.63,0,1
+CUST100204,58,24,Month-to-month,Fiber optic,North Central,103.89,2763.23,Electronic check,Yes,Yes,No,No,0,0,5.0,2.0,16.27,0,1
+CUST100205,44,13,One year,Fiber optic,Eastern,101.9,1453.02,Electronic check,Yes,Yes,Yes,No,2,0,6.2,57.2,2.85,0,1
+CUST100206,33,12,Two year,Fiber optic,Northern,95.03,1277.94,Mailed check,No,Yes,No,Yes,1,1,6.6,81.8,11.22,0,1
+CUST100207,62,25,One year,No,North Central,35.65,992.06,Credit card,Yes,No,Yes,No,1,1,9.8,77.0,7.96,0,1
+CUST100208,74,63,One year,Fiber optic,Central,91.9,6587.9,Mailed check,Yes,No,Yes,Yes,1,0,7.1,76.7,0.94,0,1
+CUST100209,33,1,Month-to-month,No,Eastern,81.72,75.06,Bank transfer,Yes,No,No,Yes,0,1,7.2,117.3,5.92,0,1
+CUST100210,63,21,Month-to-month,Fiber optic,Uva,33.47,794.01,Electronic check,Yes,No,Yes,No,0,1,7.5,26.0,0.0,1,1
+CUST100211,33,5,One year,Fiber optic,Eastern,71.42,364.71,Bank transfer,Yes,No,Yes,Yes,0,1,8.2,50.2,16.14,0,0
+CUST100212,59,41,Month-to-month,Fiber optic,Western,80.75,3233.72,Bank transfer,Yes,No,No,No,0,1,7.4,119.1,18.87,1,1
+CUST100213,63,19,Month-to-month,Fiber optic,Southern,85.35,1650.94,Electronic check,Yes,Yes,Yes,No,0,0,7.1,2.0,5.13,0,1
+CUST100214,44,58,Month-to-month,DSL,Western,76.25,4213.91,Credit card,No,No,No,No,2,4,7.9,63.1,3.46,0,1
+CUST100215,60,43,Two year,Fiber optic,Eastern,78.99,3181.09,Credit card,Yes,No,No,No,0,2,2.2,108.0,15.38,0,1
+CUST100216,33,57,One year,DSL,Northern,107.37,5644.96,Credit card,Yes,No,No,No,1,3,10.0,107.5,16.51,0,1
+CUST100217,22,46,Month-to-month,DSL,Central,101.42,4081.08,Bank transfer,Yes,No,No,Yes,0,0,9.5,88.1,0.2,0,1
+CUST100218,23,32,One year,Fiber optic,North Central,20.0,639.34,Credit card,Yes,No,Yes,No,1,2,7.0,89.0,6.96,0,1
+CUST100219,43,62,Month-to-month,DSL,Central,64.38,4455.99,Electronic check,Yes,Yes,No,No,0,1,4.1,28.6,7.59,1,0
+CUST100220,70,35,Month-to-month,Fiber optic,Northern,68.05,2474.69,Mailed check,Yes,Yes,Yes,No,1,2,8.8,113.1,2.6,0,1
+CUST100221,25,69,Month-to-month,Fiber optic,Sabaragamuwa,29.95,2079.53,Bank transfer,Yes,No,Yes,Yes,0,1,5.4,23.0,10.7,0,0
+CUST100222,44,72,Month-to-month,DSL,Western,74.26,5232.21,Electronic check,No,No,No,Yes,2,1,7.6,25.1,3.1,0,1
+CUST100223,58,43,One year,No,Southern,101.97,4337.89,Electronic check,Yes,No,No,Yes,1,1,4.3,78.6,4.22,0,1
+CUST100224,29,49,Month-to-month,DSL,Southern,,2053.94,Credit card,No,No,No,No,0,1,10.0,47.7,7.29,0,1
+CUST100225,59,19,One year,No,Eastern,80.07,1668.79,Mailed check,No,No,Yes,No,0,1,4.0,72.2,0.0,1,1
+CUST100226,35,59,Month-to-month,Fiber optic,Southern,50.02,2684.15,Mailed check,Yes,No,No,No,0,0,6.7,80.1,0.0,0,1
+CUST100227,64,49,One year,DSL,Sabaragamuwa,55.87,2915.75,Credit card,Yes,No,Yes,Yes,0,0,2.8,127.2,14.43,0,1
+CUST100228,51,65,One year,DSL,Western,107.46,7529.51,Mailed check,Yes,Yes,Yes,No,1,1,6.5,80.2,2.82,0,1
+CUST100229,49,20,One year,DSL,Sabaragamuwa,58.98,1206.07,Credit card,No,No,No,Yes,1,1,5.8,43.4,22.94,1,1
+CUST100230,28,57,One year,Fiber optic,Eastern,83.09,5251.99,Electronic check,Yes,No,No,Yes,1,1,8.6,88.7,21.8,0,1
+CUST100231,44,34,Two year,DSL,Western,27.09,863.35,Credit card,Yes,No,No,Yes,0,1,5.8,35.9,4.45,0,1
+CUST100232,67,14,Month-to-month,No,Central,116.7,1820.78,Electronic check,Yes,Yes,Yes,No,2,1,8.6,97.0,24.37,0,1
+CUST100233,19,13,One year,DSL,Western,86.46,1201.39,Electronic check,No,No,No,No,0,1,,67.3,14.56,0,1
+CUST100234,61,41,One year,Fiber optic,Southern,67.62,3020.9,Bank transfer,Yes,No,No,Yes,1,2,6.1,79.0,3.48,0,1
+CUST100235,46,24,Month-to-month,DSL,Southern,85.81,2161.2,Electronic check,Yes,No,No,No,0,1,6.1,2.7,0.0,0,1
+CUST100236,59,8,Month-to-month,No,North Western,38.16,337.04,Mailed check,Yes,No,No,No,1,1,7.5,2.0,12.82,0,0
+CUST100237,56,31,Month-to-month,DSL,Southern,100.38,3572.13,Mailed check,Yes,No,Yes,Yes,0,1,7.3,12.5,8.22,0,1
+CUST100238,43,48,Month-to-month,Fiber optic,North Central,64.22,3008.93,Bank transfer,No,No,No,Yes,2,1,7.9,126.1,11.02,1,1
+CUST100239,35,23,Month-to-month,Fiber optic,Southern,67.1,1688.7,Credit card,No,No,No,No,0,0,7.1,24.8,6.4,1,1
+CUST100240,54,69,Month-to-month,DSL,Southern,60.2,4458.6,Bank transfer,Yes,No,No,No,0,1,7.8,90.6,0.0,0,1
+CUST100241,26,57,One year,Fiber optic,Southern,58.06,3262.87,Electronic check,Yes,Yes,No,No,1,0,5.0,42.5,5.01,0,1
+CUST100242,51,37,Month-to-month,DSL,Southern,88.67,3701.1,Electronic check,No,No,No,Yes,0,1,7.3,56.6,12.95,1,1
+CUST100243,23,68,One year,Fiber optic,Uva,78.14,5145.35,Electronic check,Yes,No,No,No,0,0,9.5,63.4,5.52,0,1
+CUST100244,55,32,Month-to-month,Fiber optic,Southern,87.64,2859.62,Electronic check,Yes,No,Yes,No,1,0,3.6,122.5,5.48,1,1
+CUST100245,54,11,One year,Fiber optic,Southern,71.79,696.32,Electronic check,Yes,Yes,No,No,1,2,7.5,85.5,0.0,0,1
+CUST100246,22,3,Month-to-month,DSL,Sabaragamuwa,84.32,232.14,Electronic check,Yes,No,No,No,0,1,7.8,78.5,8.64,0,1
+CUST100247,61,68,Month-to-month,DSL,North Western,61.95,4642.99,Electronic check,No,No,No,No,0,1,9.2,110.4,0.22,0,1
+CUST100248,42,70,Month-to-month,DSL,Central,125.51,8513.28,Mailed check,Yes,No,Yes,Yes,0,0,7.9,42.8,14.43,1,1
+CUST100249,63,54,One year,DSL,Uva,34.37,1796.99,Electronic check,Yes,No,No,No,0,0,6.8,102.4,2.86,0,1
+CUST100250,20,8,Month-to-month,DSL,Central,102.26,755.76,Electronic check,No,No,No,No,0,1,7.4,96.5,5.93,0,1
+CUST100251,28,22,Two year,No,Central,104.83,2300.45,Bank transfer,Yes,No,No,Yes,0,1,5.3,96.1,23.15,0,1
+CUST100252,46,3,Month-to-month,Fiber optic,Eastern,51.55,168.83,Bank transfer,No,No,Yes,No,0,2,5.9,59.6,5.85,1,1
+CUST100253,28,4,One year,Fiber optic,North Central,125.5,561.52,Bank transfer,Yes,No,Yes,No,0,0,4.2,49.7,4.92,0,1
+CUST100254,37,18,Month-to-month,Fiber optic,Central,95.89,1503.45,Electronic check,Yes,No,Yes,No,0,0,9.3,34.6,12.1,1,1
+CUST100255,56,42,One year,DSL,North Central,95.31,4092.76,Credit card,Yes,No,Yes,No,0,1,7.4,36.7,0.0,0,0
+CUST100256,26,5,Month-to-month,Fiber optic,Central,,359.8,Bank transfer,Yes,No,No,No,0,1,5.0,32.9,16.76,1,1
+CUST100257,57,71,Month-to-month,DSL,Uva,66.79,4904.42,Credit card,Yes,No,No,Yes,2,1,7.1,77.8,14.96,0,1
+CUST100258,23,33,Month-to-month,Fiber optic,Western,66.97,2175.19,Bank transfer,Yes,No,No,No,0,0,,57.0,11.67,0,1
+CUST100259,28,19,Month-to-month,Fiber optic,Eastern,81.37,1499.07,Bank transfer,No,No,Yes,No,2,0,8.4,80.1,0.0,0,1
+CUST100260,52,38,Month-to-month,Fiber optic,North Western,105.63,3980.02,Bank transfer,No,No,No,No,0,1,4.9,82.1,6.18,0,1
+CUST100261,64,57,Two year,No,Southern,76.35,4459.1,Electronic check,Yes,Yes,No,No,3,2,1.0,27.9,0.0,0,1
+CUST100262,27,23,Month-to-month,DSL,North Western,50.13,1153.22,Bank transfer,Yes,Yes,No,Yes,2,1,7.3,26.9,15.87,0,1
+CUST100263,35,4,Month-to-month,Fiber optic,North Central,91.79,364.08,Electronic check,Yes,Yes,Yes,No,0,0,5.0,57.0,15.37,0,1
+CUST100264,71,4,Two year,DSL,North Western,94.11,412.32,Electronic check,Yes,No,Yes,Yes,1,2,7.7,37.9,10.72,0,1
+CUST100265,75,62,Month-to-month,Fiber optic,Northern,87.71,5838.89,Credit card,Yes,No,No,Yes,0,1,8.3,34.2,0.0,0,0
+CUST100266,51,9,Month-to-month,Fiber optic,North Central,89.89,770.53,Electronic check,No,No,No,No,0,2,8.6,124.3,18.46,1,1
+CUST100267,43,46,One year,DSL,North Central,65.5,3284.58,Electronic check,No,No,Yes,No,0,2,9.7,11.3,6.16,0,0
+CUST100268,38,28,Two year,Fiber optic,Southern,49.7,1539.37,Credit card,Yes,No,No,No,0,0,8.8,135.8,20.64,0,1
+CUST100269,53,56,One year,Fiber optic,North Central,51.16,2567.31,Bank transfer,No,No,Yes,No,1,1,9.7,75.1,9.86,0,1
+CUST100270,52,5,Month-to-month,DSL,Sabaragamuwa,32.75,167.81,Credit card,Yes,No,No,Yes,1,0,9.1,99.5,11.55,0,1
+CUST100271,35,65,Two year,No,Uva,77.69,4724.41,Mailed check,Yes,No,Yes,No,3,0,9.2,95.4,4.78,0,1
+CUST100272,19,51,Month-to-month,Fiber optic,North Central,70.0,3826.0,Mailed check,Yes,No,No,Yes,0,1,6.5,86.6,17.85,0,1
+CUST100273,26,33,Two year,Fiber optic,North Central,61.44,1868.64,Bank transfer,Yes,Yes,No,No,2,1,4.3,123.2,12.26,0,1
+CUST100274,73,15,Two year,Fiber optic,Uva,20.0,315.43,Electronic check,Yes,Yes,Yes,No,1,0,10.0,27.1,18.1,0,1
+CUST100275,42,71,Two year,No,Southern,42.06,2767.17,Credit card,No,No,No,No,0,1,6.7,59.5,9.24,1,1
+CUST100276,45,22,Month-to-month,DSL,North Central,98.9,2183.08,Credit card,Yes,No,Yes,Yes,1,1,8.8,,7.67,1,0
+CUST100277,45,36,Month-to-month,Fiber optic,Central,56.05,2289.34,Credit card,Yes,Yes,Yes,No,0,1,5.6,5.6,12.17,0,1
+CUST100278,63,29,One year,Fiber optic,Northern,80.65,2255.69,Electronic check,Yes,No,Yes,No,1,1,8.3,41.9,18.1,0,1
+CUST100279,21,17,Month-to-month,Fiber optic,Sabaragamuwa,38.62,730.61,Electronic check,No,Yes,Yes,No,3,1,2.2,130.5,15.12,0,1
+CUST100280,22,30,Month-to-month,Fiber optic,Southern,106.53,3662.73,Electronic check,Yes,Yes,No,Yes,0,0,5.9,58.9,8.97,0,1
+CUST100281,33,11,Two year,No,Uva,68.54,838.77,Electronic check,No,No,Yes,Yes,0,1,6.4,134.4,0.0,0,1
+CUST100282,46,1,One year,Fiber optic,Northern,78.96,71.05,Electronic check,No,No,No,No,1,1,7.4,138.0,13.67,0,1
+CUST100283,56,21,Month-to-month,Fiber optic,Central,127.82,2941.6,Mailed check,Yes,No,Yes,Yes,1,3,8.5,169.8,0.0,0,1
+CUST100284,46,9,Month-to-month,Fiber optic,Western,108.39,838.63,Electronic check,No,No,No,No,0,0,4.6,131.7,8.25,0,1
+CUST100285,43,30,Month-to-month,Fiber optic,Eastern,64.64,1877.2,Credit card,Yes,No,No,No,2,1,7.8,147.5,7.19,0,1
+CUST100286,72,63,Month-to-month,No,Eastern,57.76,4043.79,Mailed check,No,No,No,Yes,1,0,8.8,76.4,0.0,0,1
+CUST100287,27,12,Month-to-month,Fiber optic,Eastern,64.19,813.86,Bank transfer,Yes,No,Yes,No,1,0,10.0,73.0,10.61,0,1
+CUST100288,51,1,One year,DSL,Western,84.24,85.06,Bank transfer,Yes,No,Yes,Yes,1,0,,75.3,23.08,0,1
+CUST100289,49,8,One year,DSL,Southern,69.47,537.1,Credit card,Yes,Yes,No,Yes,0,0,5.8,65.0,5.81,0,1
+CUST100290,45,37,Month-to-month,Fiber optic,Western,62.51,2529.73,Electronic check,Yes,No,No,No,1,0,4.3,70.2,13.36,0,1
+CUST100291,64,20,Month-to-month,Fiber optic,Southern,107.21,2279.05,Bank transfer,No,Yes,No,Yes,0,1,9.9,91.3,24.49,0,1
+CUST100292,33,36,One year,Fiber optic,Sabaragamuwa,69.26,2469.69,Credit card,No,No,Yes,No,0,1,7.9,48.7,14.04,0,1
+CUST100293,73,3,One year,DSL,Central,127.19,426.5,Credit card,Yes,No,Yes,No,0,0,6.6,16.8,3.49,0,0
+CUST100294,37,24,Two year,DSL,North Central,74.18,1636.04,Credit card,Yes,Yes,No,No,1,1,3.7,77.7,9.66,0,1
+CUST100295,49,30,Month-to-month,Fiber optic,Western,114.85,3104.74,Mailed check,Yes,No,No,Yes,2,0,4.9,40.8,11.37,0,1
+CUST100296,48,32,One year,Fiber optic,North Western,80.58,2688.88,Bank transfer,No,No,No,No,1,2,7.7,44.4,18.04,0,1
+CUST100297,67,40,Month-to-month,DSL,Sabaragamuwa,95.11,4343.14,Credit card,Yes,No,Yes,Yes,0,1,7.2,60.0,16.5,0,1
+CUST100298,43,57,Month-to-month,Fiber optic,Northern,54.61,2876.72,Credit card,No,Yes,Yes,No,0,1,3.1,52.0,0.0,0,1
+CUST100299,34,34,Two year,Fiber optic,Central,51.51,1619.81,Credit card,Yes,Yes,No,Yes,0,2,7.7,103.9,2.01,0,1
+CUST100300,19,61,Month-to-month,No,North Western,83.03,4517.23,Credit card,Yes,No,No,No,0,1,3.8,59.2,7.51,0,1
+CUST100301,39,39,Month-to-month,DSL,Southern,95.73,4137.11,Credit card,No,No,Yes,Yes,0,0,9.0,105.6,0.89,0,1
+CUST100302,65,19,Month-to-month,No,Sabaragamuwa,72.97,1272.56,Mailed check,Yes,No,No,No,1,1,7.0,72.2,0.0,0,1
+CUST100303,18,17,Month-to-month,Fiber optic,Uva,41.13,699.82,Bank transfer,Yes,No,No,No,2,1,5.8,61.9,2.92,0,1
+CUST100304,69,24,Month-to-month,Fiber optic,North Western,39.35,1083.58,Credit card,Yes,No,Yes,Yes,0,1,8.4,70.5,7.97,0,1
+CUST100305,49,44,One year,DSL,North Western,37.75,1417.85,Electronic check,Yes,No,Yes,No,1,1,7.2,19.8,4.32,0,0
+CUST100306,26,18,Month-to-month,Fiber optic,North Western,29.58,541.41,Credit card,No,No,No,Yes,2,1,9.0,76.8,1.02,1,1
+CUST100307,35,66,Month-to-month,Fiber optic,North Central,74.63,4943.58,Credit card,No,Yes,Yes,No,1,0,6.7,94.7,8.29,0,1
+CUST100308,50,35,Two year,DSL,Eastern,99.0,3784.63,Credit card,No,No,No,Yes,1,0,6.8,99.7,10.4,0,1
+CUST100309,36,63,Month-to-month,Fiber optic,Sabaragamuwa,71.68,4319.66,Bank transfer,Yes,No,No,Yes,2,1,6.1,17.7,4.72,0,1
+CUST100310,24,50,Two year,Fiber optic,Northern,20.0,973.1,Bank transfer,Yes,No,Yes,No,1,2,7.1,11.8,17.6,0,0
+CUST100311,56,25,Month-to-month,Fiber optic,Western,67.42,1517.63,Electronic check,No,Yes,No,No,1,0,9.7,46.2,8.4,0,1
+CUST100312,56,17,One year,DSL,North Central,68.09,1241.21,Electronic check,Yes,Yes,Yes,No,0,1,5.7,113.5,1.9,0,1
+CUST100313,24,54,Month-to-month,Fiber optic,North Western,122.3,7168.52,Electronic check,No,No,Yes,No,0,2,7.8,72.7,0.13,1,1
+CUST100314,34,24,One year,DSL,Sabaragamuwa,37.03,791.82,Mailed check,Yes,No,No,Yes,2,1,5.0,37.9,6.51,1,1
+CUST100315,32,18,Month-to-month,No,Northern,62.62,1091.2,Electronic check,Yes,No,No,Yes,0,2,2.9,14.1,15.79,0,0
+CUST100316,56,67,Two year,No,Northern,112.94,8458.95,Mailed check,Yes,Yes,No,No,1,4,7.0,41.1,2.23,0,0
+CUST100317,60,35,Month-to-month,DSL,North Western,,2465.64,Electronic check,No,No,No,No,0,1,7.3,38.7,12.17,0,1
+CUST100318,60,4,One year,DSL,Northern,85.52,321.43,Credit card,Yes,No,No,Yes,1,1,6.4,97.7,8.66,0,1
+CUST100319,72,36,Month-to-month,DSL,Uva,74.75,2735.44,Bank transfer,Yes,No,No,Yes,1,1,3.9,100.4,21.95,0,1
+CUST100320,62,34,Month-to-month,Fiber optic,Northern,79.92,2581.99,Credit card,No,Yes,No,No,2,0,7.1,28.3,10.73,0,1
+CUST100321,36,63,Month-to-month,No,Uva,90.66,5321.14,Credit card,Yes,No,Yes,No,2,0,7.1,91.4,3.11,0,1
+CUST100322,24,52,Month-to-month,Fiber optic,Northern,52.57,2700.99,Credit card,Yes,No,Yes,No,0,1,5.0,87.8,13.15,0,1
+CUST100323,53,14,Month-to-month,DSL,Southern,93.07,1178.53,Mailed check,No,No,No,No,0,0,4.2,23.7,13.39,0,1
+CUST100324,71,11,One year,DSL,Sabaragamuwa,39.05,433.34,Bank transfer,No,No,Yes,No,1,0,6.1,62.1,5.22,0,1
+CUST100325,74,44,Month-to-month,DSL,Eastern,79.88,3732.7,Electronic check,Yes,No,No,No,0,0,7.8,76.9,0.0,0,1
+CUST100326,31,4,Month-to-month,Fiber optic,North Central,76.29,312.05,Electronic check,No,No,Yes,Yes,0,2,7.3,70.7,11.75,0,1
+CUST100327,31,23,Month-to-month,Fiber optic,North Western,57.21,1155.19,Credit card,No,No,Yes,Yes,1,0,5.0,5.1,8.44,0,0
+CUST100328,20,10,Month-to-month,Fiber optic,Northern,71.46,788.39,Bank transfer,Yes,No,Yes,Yes,0,0,6.8,69.6,0.0,0,1
+CUST100329,26,2,Month-to-month,DSL,Sabaragamuwa,57.06,102.99,Bank transfer,Yes,No,Yes,No,1,0,8.2,87.3,9.78,0,1
+CUST100330,50,67,One year,No,Northern,46.28,,Credit card,No,Yes,Yes,Yes,0,0,,120.3,3.54,1,1
+CUST100331,49,7,Month-to-month,DSL,Sabaragamuwa,63.51,426.0,Bank transfer,Yes,No,No,No,0,0,6.7,41.6,0.0,0,1
+CUST100332,39,1,Two year,Fiber optic,Northern,45.5,49.36,Credit card,No,No,No,No,0,0,9.0,45.9,5.54,0,1
+CUST100333,35,68,Month-to-month,No,Western,79.75,4944.96,Credit card,Yes,Yes,Yes,No,1,0,4.3,57.7,16.98,0,1
+CUST100334,66,14,Month-to-month,Fiber optic,Western,44.4,563.14,Credit card,Yes,Yes,Yes,No,1,1,8.7,75.2,16.46,0,1
+CUST100335,44,59,Two year,No,Sabaragamuwa,89.09,5251.47,Credit card,Yes,No,No,No,0,1,9.5,68.4,14.63,0,0
+CUST100336,64,3,Month-to-month,DSL,Eastern,43.64,112.59,Mailed check,Yes,No,Yes,Yes,0,1,6.2,86.2,9.88,0,1
+CUST100337,73,12,Month-to-month,Fiber optic,Northern,58.41,643.14,Credit card,No,No,No,No,1,4,6.0,25.6,12.17,0,1
+CUST100338,36,8,Two year,DSL,Uva,57.01,486.73,Mailed check,Yes,Yes,No,No,0,2,8.5,78.9,8.69,0,1
+CUST100339,29,51,Two year,Fiber optic,North Western,103.8,5829.81,Electronic check,No,No,No,Yes,1,0,6.3,39.0,0.26,0,0
+CUST100340,73,45,One year,DSL,North Western,79.93,3144.37,Credit card,Yes,No,No,No,1,1,2.4,,1.66,0,1
+CUST100341,54,35,Month-to-month,DSL,North Central,66.92,,Credit card,No,No,No,No,0,1,6.4,124.8,3.75,0,1
+CUST100342,34,18,One year,DSL,Central,83.97,1646.35,Bank transfer,No,No,No,Yes,1,1,7.4,16.1,17.81,0,1
+CUST100343,54,7,Two year,DSL,Western,21.43,166.63,Electronic check,Yes,No,No,No,0,1,7.9,,15.54,0,1
+CUST100344,47,41,Two year,Fiber optic,North Central,70.96,3082.76,Bank transfer,Yes,No,Yes,No,0,1,5.0,20.4,0.44,1,0
+CUST100345,70,17,Month-to-month,Fiber optic,Western,119.94,2145.51,Bank transfer,No,Yes,Yes,No,0,0,6.1,70.4,8.37,0,1
+CUST100346,32,43,Month-to-month,DSL,North Central,75.18,3256.92,Mailed check,No,No,Yes,Yes,1,0,8.4,101.7,5.18,0,1
+CUST100347,75,50,Month-to-month,No,Central,73.63,3850.24,Bank transfer,Yes,No,Yes,Yes,1,0,6.5,70.9,6.91,0,1
+CUST100348,72,62,Month-to-month,No,Southern,85.16,5943.44,Electronic check,Yes,No,No,No,0,1,3.8,60.9,4.25,0,1
+CUST100349,28,36,One year,DSL,North Central,93.49,2962.43,Bank transfer,No,Yes,Yes,No,0,0,8.8,111.5,17.84,0,1
+CUST100350,27,1,Month-to-month,Fiber optic,North Western,24.06,22.73,Bank transfer,Yes,Yes,Yes,No,1,1,6.2,76.6,7.87,0,1
+CUST100351,48,21,Month-to-month,Fiber optic,Uva,31.62,578.93,Electronic check,Yes,No,Yes,No,1,0,8.6,93.7,9.51,0,1
+CUST100352,20,62,Month-to-month,Fiber optic,North Western,77.05,5414.35,Bank transfer,Yes,Yes,No,Yes,0,1,4.1,90.0,9.57,0,1
+CUST100353,35,39,Month-to-month,Fiber optic,Western,54.84,2103.75,Bank transfer,Yes,No,No,No,1,2,6.4,2.0,0.81,1,1
+CUST100354,43,45,Month-to-month,Fiber optic,Uva,103.49,4901.96,Electronic check,No,No,No,No,1,2,,62.3,8.76,0,1
+CUST100355,74,33,Month-to-month,DSL,Central,64.44,2343.99,Credit card,Yes,Yes,Yes,No,0,1,6.4,27.3,15.44,0,0
+CUST100356,75,12,Month-to-month,DSL,Central,25.57,352.05,Bank transfer,No,Yes,Yes,No,0,1,4.5,36.0,18.31,0,1
+CUST100357,26,65,Two year,Fiber optic,Uva,41.57,2427.75,Credit card,Yes,No,No,No,0,0,2.3,116.6,0.0,0,1
+CUST100358,69,56,Month-to-month,Fiber optic,Central,20.0,1220.64,Bank transfer,Yes,No,No,Yes,1,1,9.3,51.9,0.0,0,0
+CUST100359,23,72,Month-to-month,Fiber optic,Eastern,66.38,5334.93,Electronic check,Yes,No,No,No,2,1,7.0,131.2,8.43,0,1
+CUST100360,61,62,Month-to-month,DSL,Eastern,67.48,3617.48,Mailed check,Yes,No,No,No,0,0,8.7,15.7,15.76,0,0
+CUST100361,67,21,Month-to-month,DSL,North Central,217.83,1397.02,Bank transfer,No,Yes,Yes,No,0,0,8.3,27.1,10.52,0,0
+CUST100362,69,19,Month-to-month,DSL,Western,97.89,1778.91,Electronic check,No,Yes,No,Yes,1,1,7.7,91.7,12.76,1,1
+CUST100363,30,18,Month-to-month,DSL,Western,100.76,1894.62,Credit card,No,Yes,No,No,2,0,6.0,53.1,0.0,0,1
+CUST100364,69,67,Month-to-month,DSL,Northern,67.91,4569.19,Electronic check,Yes,No,No,Yes,1,0,7.5,75.8,4.0,0,1
+CUST100365,24,41,Month-to-month,Fiber optic,Eastern,20.77,790.09,Credit card,Yes,No,No,Yes,1,1,9.2,61.1,0.0,0,1
+CUST100366,48,33,One year,Fiber optic,Uva,86.81,2551.37,Credit card,Yes,No,Yes,Yes,0,2,6.7,60.0,7.0,0,1
+CUST100367,45,70,Month-to-month,Fiber optic,North Western,85.33,5286.61,Mailed check,No,Yes,Yes,No,1,1,10.0,54.4,0.0,0,0
+CUST100368,36,44,Month-to-month,Fiber optic,Central,79.43,3078.84,Mailed check,Yes,No,No,No,1,0,3.9,71.3,17.33,1,1
+CUST100369,19,66,One year,DSL,Sabaragamuwa,95.56,6567.36,Electronic check,Yes,No,No,No,0,1,3.7,87.5,18.88,0,1
+CUST100370,62,71,Month-to-month,Fiber optic,Eastern,44.04,2987.74,Credit card,Yes,No,Yes,No,1,2,8.4,121.5,8.98,1,1
+CUST100371,37,6,Month-to-month,DSL,Sabaragamuwa,120.21,659.95,Electronic check,Yes,No,Yes,No,1,2,,57.9,0.0,0,1
+CUST100372,56,27,Month-to-month,No,Sabaragamuwa,48.97,1398.41,Credit card,No,Yes,No,No,1,2,10.0,51.2,10.63,0,1
+CUST100373,41,53,Month-to-month,DSL,Western,89.98,5036.34,Credit card,Yes,No,Yes,No,0,0,9.0,46.7,21.01,0,0
+CUST100374,39,59,Month-to-month,Fiber optic,Eastern,31.5,1880.56,Electronic check,No,No,Yes,No,0,1,9.5,116.4,11.33,1,1
+CUST100375,69,11,Two year,No,Northern,49.67,617.71,Electronic check,Yes,No,No,Yes,1,0,8.2,89.2,16.29,0,1
+CUST100376,23,23,Two year,Fiber optic,Eastern,108.39,2407.34,Electronic check,Yes,Yes,No,Yes,0,2,4.9,2.0,4.6,0,1
+CUST100377,60,40,Two year,Fiber optic,Southern,65.74,2894.49,Electronic check,Yes,No,No,No,0,0,3.6,2.0,1.9,0,0
+CUST100378,61,58,Month-to-month,Fiber optic,North Western,92.16,4663.89,Electronic check,No,No,No,No,0,0,9.3,35.9,7.5,0,0
+CUST100379,40,9,Month-to-month,DSL,Eastern,77.69,749.49,Mailed check,Yes,No,Yes,No,1,0,3.9,73.1,0.0,1,1
+CUST100380,33,44,Month-to-month,Fiber optic,Central,69.48,3505.14,Bank transfer,Yes,Yes,No,Yes,0,0,9.5,63.8,23.85,0,1
+CUST100381,18,22,Month-to-month,No,Southern,104.73,2543.69,Credit card,No,No,No,No,2,1,7.8,83.0,8.98,1,1
+CUST100382,72,16,Month-to-month,No,Central,66.32,1086.48,Credit card,Yes,No,No,No,1,1,6.5,58.9,14.07,0,1
+CUST100383,72,38,Month-to-month,Fiber optic,Uva,29.26,1154.25,Credit card,Yes,No,No,No,1,2,7.4,113.9,4.77,0,1
+CUST100384,31,30,Month-to-month,Fiber optic,North Central,52.72,1512.05,Bank transfer,Yes,No,Yes,No,0,2,7.4,92.0,0.0,0,1
+CUST100385,19,46,Month-to-month,Fiber optic,Northern,85.23,4131.62,Credit card,Yes,Yes,No,No,0,0,6.2,67.7,17.98,0,1
+CUST100386,25,23,Month-to-month,Fiber optic,Northern,81.49,2026.36,Credit card,No,Yes,Yes,No,1,0,9.2,105.1,0.13,0,1
+CUST100387,21,60,One year,DSL,Western,34.39,2371.85,Credit card,No,No,Yes,No,0,1,,7.3,10.44,1,0
+CUST100388,66,6,Month-to-month,DSL,Southern,54.62,326.95,Mailed check,No,No,No,No,1,1,6.9,62.0,11.1,1,1
+CUST100389,69,63,Two year,DSL,Sabaragamuwa,58.04,3175.22,Credit card,No,No,Yes,No,1,1,5.5,69.8,8.52,1,1
+CUST100390,26,3,Month-to-month,Fiber optic,Western,63.23,195.14,Bank transfer,No,No,No,No,0,1,9.0,86.1,2.51,0,1
+CUST100391,61,53,Month-to-month,DSL,Central,38.98,1829.73,Mailed check,Yes,No,Yes,No,0,0,3.0,5.0,6.95,0,1
+CUST100392,28,25,Month-to-month,DSL,Uva,56.92,1314.02,Bank transfer,Yes,No,Yes,No,0,1,7.4,55.9,1.35,1,1
+CUST100393,39,28,Month-to-month,DSL,Eastern,54.51,1447.97,Credit card,Yes,No,Yes,No,0,0,7.9,79.0,13.66,0,1
+CUST100394,52,2,Month-to-month,No,Western,90.52,193.58,Electronic check,No,No,Yes,Yes,1,2,5.1,81.7,12.0,0,1
+CUST100395,59,51,Month-to-month,DSL,Eastern,91.42,4220.1,Electronic check,No,Yes,No,No,0,1,8.4,106.5,7.85,0,1
+CUST100396,68,12,One year,DSL,North Central,68.5,739.58,Bank transfer,No,No,No,No,0,0,6.6,91.7,4.02,1,1
+CUST100397,20,48,Month-to-month,Fiber optic,Northern,62.59,2594.24,Electronic check,Yes,No,No,Yes,1,1,5.6,62.9,22.75,0,1
+CUST100398,29,53,Month-to-month,DSL,Northern,75.36,4441.2,Mailed check,Yes,No,No,Yes,2,1,8.3,88.6,0.0,0,1
+CUST100399,34,61,Two year,No,North Western,52.4,3382.1,Electronic check,No,No,No,Yes,2,2,4.6,58.0,0.0,0,1
+CUST100400,35,51,Month-to-month,No,North Western,44.48,1955.22,Credit card,Yes,No,No,No,1,2,8.2,70.1,7.43,0,1
+CUST100401,75,22,One year,Fiber optic,Sabaragamuwa,49.43,933.66,Electronic check,Yes,No,Yes,No,1,1,3.0,92.8,6.19,0,1
+CUST100402,63,54,Month-to-month,Fiber optic,Southern,56.76,3119.24,Mailed check,Yes,No,Yes,No,0,0,7.1,63.4,15.68,0,1
+CUST100403,36,60,Month-to-month,Fiber optic,Southern,44.08,2472.07,Bank transfer,Yes,No,No,No,1,0,6.7,77.7,12.52,0,1
+CUST100404,74,23,Month-to-month,DSL,Central,,1796.11,Electronic check,No,Yes,No,No,4,0,5.6,98.6,8.21,0,1
+CUST100405,46,9,Month-to-month,DSL,North Western,89.51,789.81,Electronic check,No,Yes,Yes,No,2,1,7.3,89.9,11.5,0,0
+CUST100406,47,65,One year,DSL,Eastern,33.91,2484.04,Bank transfer,No,No,No,No,1,1,6.5,108.2,11.38,0,1
+CUST100407,43,11,Month-to-month,DSL,Northern,72.6,747.8,Mailed check,Yes,No,Yes,Yes,0,0,8.5,146.5,22.72,1,1
+CUST100408,26,43,Month-to-month,Fiber optic,North Central,66.72,3023.22,Mailed check,Yes,No,No,Yes,0,0,7.6,89.6,9.77,0,1
+CUST100409,72,18,Month-to-month,DSL,Northern,80.2,1250.41,Electronic check,No,No,Yes,No,0,0,7.4,48.9,3.23,0,1
+CUST100410,18,10,Two year,DSL,Central,71.69,814.94,Bank transfer,Yes,No,No,Yes,0,3,7.1,82.9,9.39,0,1
+CUST100411,28,56,One year,Fiber optic,Eastern,37.11,2378.12,Electronic check,Yes,No,Yes,No,1,0,5.8,81.4,0.0,1,1
+CUST100412,31,11,Two year,Fiber optic,Northern,41.7,491.63,Bank transfer,No,Yes,Yes,No,4,0,6.1,86.5,7.77,0,1
+CUST100413,34,49,One year,DSL,Northern,72.71,3525.42,Credit card,Yes,No,No,Yes,0,0,7.0,117.3,15.65,0,1
+CUST100414,25,50,One year,DSL,Eastern,96.69,4428.43,Electronic check,Yes,Yes,Yes,No,1,1,6.3,6.1,12.22,0,0
+CUST100415,19,5,Month-to-month,DSL,Sabaragamuwa,20.0,109.38,Credit card,No,Yes,No,No,0,0,8.6,118.0,10.09,0,1
+CUST100416,57,13,Two year,DSL,Central,80.3,1117.88,Mailed check,Yes,Yes,No,No,0,1,6.8,129.8,12.54,0,1
+CUST100417,74,58,Month-to-month,Fiber optic,Southern,100.55,5345.49,Electronic check,Yes,Yes,Yes,No,1,1,7.3,84.9,15.72,1,1
+CUST100418,25,37,Month-to-month,No,North Western,68.33,2491.11,Electronic check,Yes,Yes,Yes,Yes,0,1,4.1,85.7,17.98,0,1
+CUST100419,35,9,One year,Fiber optic,Western,85.2,758.29,Electronic check,No,No,No,No,1,2,8.3,56.5,11.13,1,1
+CUST100420,47,72,Month-to-month,Fiber optic,Central,55.13,4357.76,Electronic check,Yes,No,No,No,0,2,5.6,65.2,5.79,0,1
+CUST100421,71,20,Month-to-month,Fiber optic,North Western,69.14,1458.97,Electronic check,Yes,Yes,No,No,0,2,4.7,89.4,0.0,0,1
+CUST100422,58,1,Month-to-month,Fiber optic,Eastern,33.1,34.52,Credit card,Yes,No,Yes,No,0,0,9.6,87.2,14.85,0,1
+CUST100423,62,67,Month-to-month,DSL,North Western,20.0,1400.23,Electronic check,No,No,No,Yes,1,0,7.9,90.2,11.61,0,1
+CUST100424,51,2,Two year,DSL,Central,94.63,176.22,Credit card,No,No,No,No,0,2,8.4,86.9,9.07,0,1
+CUST100425,42,40,Month-to-month,Fiber optic,Uva,48.36,1859.96,Mailed check,Yes,No,No,No,0,0,7.4,353.3,3.18,0,1
+CUST100426,29,72,One year,Fiber optic,Eastern,61.07,3797.55,Mailed check,Yes,Yes,Yes,Yes,3,2,6.4,92.5,14.76,0,1
+CUST100427,68,42,Month-to-month,DSL,Central,38.73,1766.48,Credit card,No,No,Yes,No,1,1,6.1,29.1,6.2,0,0
+CUST100428,64,43,One year,DSL,Southern,38.16,1607.93,Electronic check,No,No,No,No,0,1,8.0,94.1,7.76,1,1
+CUST100429,19,28,Month-to-month,DSL,Southern,67.83,1863.99,Electronic check,No,No,No,No,1,1,8.6,130.1,7.61,0,1
+CUST100430,59,10,Two year,DSL,Eastern,54.49,503.27,Electronic check,No,No,Yes,Yes,0,0,6.5,64.1,11.15,0,1
+CUST100431,22,42,Month-to-month,Fiber optic,Eastern,81.07,3108.18,Mailed check,Yes,No,No,No,0,2,10.0,117.5,0.0,0,1
+CUST100432,60,65,Month-to-month,Fiber optic,Northern,82.86,5527.86,Mailed check,Yes,No,Yes,Yes,0,0,6.2,32.9,11.94,0,0
+CUST100433,65,7,Month-to-month,Fiber optic,Eastern,79.7,513.14,Bank transfer,Yes,No,Yes,No,0,2,4.1,64.0,2.95,1,1
+CUST100434,25,64,Month-to-month,DSL,Sabaragamuwa,77.73,4324.14,Electronic check,No,No,Yes,No,0,0,3.5,42.6,3.2,0,1
+CUST100435,43,30,Month-to-month,DSL,Sabaragamuwa,109.87,3560.5,Bank transfer,Yes,Yes,Yes,Yes,0,1,3.6,113.3,14.2,0,1
+CUST100436,25,39,One year,Fiber optic,Eastern,46.38,1741.7,Electronic check,Yes,Yes,Yes,Yes,2,1,5.9,,1.03,0,1
+CUST100437,50,12,Two year,Fiber optic,Sabaragamuwa,70.68,817.7,Mailed check,No,Yes,Yes,No,0,0,6.2,61.5,14.18,0,1
+CUST100438,71,45,One year,DSL,Uva,99.18,4371.34,Electronic check,Yes,Yes,Yes,Yes,0,1,7.8,106.0,8.71,0,1
+CUST100439,22,14,Month-to-month,DSL,Uva,102.35,1568.31,Bank transfer,No,No,No,No,0,1,6.5,122.8,0.0,0,1
+CUST100440,41,20,Month-to-month,Fiber optic,Southern,37.88,716.84,Bank transfer,Yes,No,No,No,0,0,8.1,63.8,17.55,0,1
+CUST100441,74,52,One year,Fiber optic,Northern,64.5,3613.83,Electronic check,Yes,Yes,No,No,0,0,,69.5,10.17,0,1
+CUST100442,35,4,Two year,No,Northern,104.59,473.55,Bank transfer,Yes,No,Yes,Yes,3,0,6.6,90.7,10.76,0,1
+CUST100443,25,33,Month-to-month,Fiber optic,Western,84.19,2912.49,Credit card,No,Yes,No,Yes,2,0,5.6,,15.05,0,1
+CUST100444,46,43,Two year,Fiber optic,Western,76.69,3229.93,Electronic check,No,No,Yes,Yes,2,2,9.2,68.9,18.49,1,1
+CUST100445,47,10,Month-to-month,Fiber optic,North Western,66.78,717.39,Credit card,Yes,No,No,No,1,1,3.8,140.0,9.41,0,1
+CUST100446,56,22,One year,DSL,Northern,62.79,1363.91,Bank transfer,Yes,No,No,No,0,1,7.1,47.5,12.32,0,0
+CUST100447,36,25,Two year,Fiber optic,Uva,78.92,1922.28,Electronic check,Yes,No,Yes,No,0,0,6.3,94.9,10.6,0,1
+CUST100448,73,48,One year,Fiber optic,North Central,65.94,3189.27,Electronic check,No,No,Yes,Yes,0,0,,83.3,5.6,1,1
+CUST100449,48,71,Month-to-month,DSL,Western,70.98,4763.87,Electronic check,No,No,No,Yes,0,0,6.6,59.3,0.0,1,1
+CUST100450,34,61,One year,No,Uva,73.89,3971.97,Electronic check,No,No,No,Yes,0,1,6.6,72.8,9.5,0,1
+CUST100451,73,14,Month-to-month,Fiber optic,Eastern,55.73,760.24,Bank transfer,Yes,No,No,No,0,0,6.1,126.3,17.65,1,1
+CUST100452,71,2,One year,DSL,North Western,84.77,150.41,Credit card,Yes,No,No,Yes,1,1,9.1,84.4,12.08,0,1
+CUST100453,46,4,Month-to-month,DSL,Sabaragamuwa,141.94,552.51,Credit card,Yes,No,No,Yes,0,1,,89.8,0.53,0,1
+CUST100454,19,43,One year,No,North Western,29.35,1283.71,Mailed check,Yes,No,Yes,No,0,2,10.0,121.0,15.68,1,1
+CUST100455,52,12,Two year,No,Western,79.78,1081.01,Bank transfer,Yes,Yes,No,No,0,1,7.1,54.9,5.83,0,1
+CUST100456,50,17,Month-to-month,Fiber optic,Central,53.76,786.7,Credit card,Yes,Yes,Yes,Yes,1,0,6.6,28.4,0.0,0,1
+CUST100457,26,62,Month-to-month,No,Northern,85.86,5517.14,Credit card,Yes,Yes,No,No,0,2,6.3,126.9,15.13,0,1
+CUST100458,54,63,One year,No,Western,73.12,4547.99,Electronic check,No,No,Yes,Yes,1,0,7.6,69.8,1.38,1,1
+CUST100459,66,61,Month-to-month,Fiber optic,Central,90.28,4714.73,Electronic check,Yes,No,No,Yes,3,0,5.5,96.3,20.47,0,1
+CUST100460,24,19,Month-to-month,Fiber optic,Uva,100.21,1760.97,Bank transfer,No,Yes,No,Yes,3,2,6.9,38.3,16.03,0,1
+CUST100461,59,45,Month-to-month,Fiber optic,Central,76.62,3053.2,Credit card,No,No,Yes,Yes,0,1,6.6,78.6,6.41,0,1
+CUST100462,26,44,Month-to-month,Fiber optic,Central,99.17,3992.72,Bank transfer,Yes,No,Yes,No,0,3,7.2,26.6,11.22,0,1
+CUST100463,61,14,One year,Fiber optic,Eastern,20.0,261.06,Electronic check,Yes,No,No,No,0,0,7.2,67.2,24.97,0,1
+CUST100464,42,40,One year,Fiber optic,Western,110.17,4276.36,Mailed check,No,Yes,No,No,1,0,7.3,42.3,15.0,0,1
+CUST100465,18,38,Month-to-month,DSL,Southern,81.0,3104.87,Electronic check,Yes,Yes,No,Yes,0,2,6.8,34.3,9.67,0,1
+CUST100466,74,29,Month-to-month,Fiber optic,Sabaragamuwa,97.87,2413.3,Mailed check,Yes,No,Yes,No,1,0,9.4,54.4,28.22,0,1
+CUST100467,27,55,Month-to-month,No,North Western,42.72,2111.41,Credit card,Yes,No,No,No,4,0,7.4,2.0,8.82,1,0
+CUST100468,52,49,Month-to-month,DSL,Sabaragamuwa,,2239.97,Credit card,No,No,No,Yes,0,1,10.0,,12.07,0,0
+CUST100469,28,39,One year,No,Northern,75.5,2988.48,Credit card,No,No,Yes,No,1,0,6.7,92.4,1.45,0,1
+CUST100470,72,53,Month-to-month,Fiber optic,North Western,71.59,3599.76,Electronic check,No,No,No,No,0,1,8.3,77.2,0.0,0,1
+CUST100471,60,55,Month-to-month,DSL,Southern,,4396.57,Credit card,No,No,Yes,No,1,1,5.3,27.4,5.99,0,1
+CUST100472,64,41,Two year,DSL,Northern,98.03,3683.75,Credit card,Yes,No,Yes,Yes,0,0,9.1,84.2,8.27,0,1
+CUST100473,43,20,Month-to-month,Fiber optic,Central,29.63,508.1,Credit card,No,No,Yes,No,0,1,5.3,34.3,10.3,0,1
+CUST100474,45,55,One year,Fiber optic,Uva,95.37,5939.99,Electronic check,No,Yes,No,No,0,0,7.4,90.3,0.0,0,1
+CUST100475,54,52,Month-to-month,DSL,Central,72.2,3313.17,Electronic check,Yes,No,Yes,No,1,1,6.1,61.0,12.62,0,1
+CUST100476,63,71,Month-to-month,Fiber optic,Central,67.11,4231.38,Electronic check,No,Yes,Yes,No,0,0,7.4,53.6,2.19,0,1
+CUST100477,67,11,Month-to-month,DSL,Eastern,36.69,360.83,Bank transfer,No,No,No,No,0,2,6.2,61.8,12.26,0,1
+CUST100478,19,31,One year,Fiber optic,Northern,84.07,2982.57,Bank transfer,Yes,Yes,No,No,1,2,5.2,154.6,14.54,0,1
+CUST100479,56,67,Two year,No,Southern,20.0,1387.3,Credit card,Yes,No,No,No,0,1,6.1,38.4,5.23,1,0
+CUST100480,24,38,Month-to-month,Fiber optic,Northern,87.56,3437.43,Credit card,Yes,No,Yes,No,1,2,9.4,,1.25,0,1
+CUST100481,34,68,Month-to-month,Fiber optic,Southern,36.19,2820.2,Credit card,No,Yes,No,Yes,1,1,7.4,92.3,18.81,0,1
+CUST100482,66,1,Month-to-month,Fiber optic,Sabaragamuwa,73.28,64.23,Electronic check,Yes,Yes,Yes,Yes,0,1,4.3,31.3,14.11,0,1
+CUST100483,32,3,One year,No,North Western,69.14,236.95,Bank transfer,Yes,No,No,Yes,0,0,8.6,9.2,9.06,0,0
+CUST100484,64,58,One year,DSL,Sabaragamuwa,100.07,5288.63,Electronic check,Yes,Yes,Yes,Yes,1,1,,44.0,18.28,0,1
+CUST100485,44,26,One year,DSL,Sabaragamuwa,67.71,1825.52,Electronic check,No,No,Yes,No,0,2,7.9,91.6,8.58,0,1
+CUST100486,31,38,Two year,DSL,North Western,55.34,2052.53,Electronic check,No,No,Yes,Yes,1,0,7.6,53.0,3.66,0,0
+CUST100487,37,31,Month-to-month,Fiber optic,Uva,59.84,1790.5,Electronic check,No,Yes,No,No,2,1,7.7,56.9,0.99,0,1
+CUST100488,48,30,One year,Fiber optic,Western,102.55,3474.49,Electronic check,Yes,No,Yes,No,0,1,9.9,96.9,7.25,0,1
+CUST100489,62,68,Month-to-month,Fiber optic,Sabaragamuwa,84.87,5163.92,Bank transfer,Yes,No,Yes,No,0,1,5.1,36.8,13.4,0,1
+CUST100490,53,7,Month-to-month,DSL,Eastern,62.74,504.71,Electronic check,Yes,Yes,No,Yes,1,0,7.7,61.9,17.73,0,1
+CUST100491,72,56,Two year,DSL,North Central,66.33,3579.53,Electronic check,Yes,Yes,No,No,0,1,8.9,12.0,8.16,0,0
+CUST100492,68,65,Month-to-month,Fiber optic,Southern,34.39,2334.97,Electronic check,Yes,No,Yes,No,2,3,5.4,76.2,16.49,0,1
+CUST100493,61,48,One year,No,Western,81.32,4451.47,Credit card,No,No,No,No,0,2,5.3,73.0,6.5,1,1
+CUST100494,52,29,One year,DSL,Uva,29.76,748.61,Bank transfer,Yes,No,No,Yes,2,0,6.1,92.8,2.53,0,1
+CUST100495,34,12,Two year,DSL,Eastern,90.04,1217.59,Electronic check,Yes,No,Yes,No,0,0,7.2,24.9,0.0,0,0
+CUST100496,41,50,Month-to-month,DSL,Central,75.09,3830.72,Electronic check,No,No,No,Yes,0,0,4.1,58.3,4.46,0,1
+CUST100497,24,34,Month-to-month,Fiber optic,North Western,129.29,4665.3,Mailed check,No,No,No,No,0,1,7.6,20.3,0.0,1,1
+CUST100498,39,11,One year,DSL,Western,45.6,448.78,Credit card,Yes,No,Yes,No,0,1,4.1,56.4,22.07,0,0
+CUST100499,71,26,One year,Fiber optic,Eastern,69.54,1826.05,Credit card,Yes,No,Yes,Yes,1,0,8.9,116.9,11.08,0,1
+CUST100500,42,70,Month-to-month,Fiber optic,North Central,115.16,8480.74,Bank transfer,Yes,Yes,Yes,No,0,1,7.5,53.8,7.33,0,1
+CUST100501,24,20,One year,Fiber optic,North Central,100.59,1985.46,Credit card,Yes,No,Yes,Yes,1,1,10.0,17.2,20.05,0,1
+CUST100502,55,13,Month-to-month,Fiber optic,Eastern,55.29,644.38,Mailed check,Yes,No,No,No,0,0,7.8,41.2,0.0,0,0
+CUST100503,73,50,One year,DSL,Northern,77.38,3571.78,Bank transfer,Yes,No,No,No,1,0,6.1,8.6,7.04,0,1
+CUST100504,68,15,Two year,No,Uva,72.05,1195.62,Credit card,No,No,No,Yes,1,1,5.2,19.6,22.0,0,0
+CUST100505,33,67,Month-to-month,Fiber optic,Central,78.77,4540.35,Electronic check,Yes,No,Yes,Yes,0,2,,88.5,6.99,0,1
+CUST100506,44,62,Month-to-month,DSL,Western,55.23,3638.93,Credit card,Yes,No,No,Yes,1,0,6.5,14.4,25.13,0,0
+CUST100507,48,71,Two year,DSL,Central,69.86,5702.86,Bank transfer,Yes,No,Yes,No,1,0,8.7,75.9,13.5,1,1
+CUST100508,32,66,One year,Fiber optic,Uva,33.65,1892.57,Electronic check,Yes,No,No,No,1,1,4.9,65.9,17.14,0,1
+CUST100509,33,18,Two year,No,Eastern,75.24,1216.65,Mailed check,Yes,No,Yes,Yes,1,0,10.0,46.4,17.34,1,0
+CUST100510,31,16,Month-to-month,DSL,Western,82.8,1394.02,Credit card,Yes,No,No,No,0,1,8.9,73.0,8.01,0,1
+CUST100511,75,25,Two year,DSL,Central,66.54,1443.96,Electronic check,No,Yes,No,Yes,0,1,6.2,32.2,4.58,0,0
+CUST100512,61,34,Month-to-month,DSL,Western,33.24,1160.56,Mailed check,No,No,Yes,No,1,0,9.8,94.4,7.19,0,1
+CUST100513,66,64,Month-to-month,Fiber optic,Uva,95.72,6464.56,Electronic check,No,No,No,No,0,0,5.2,40.6,1.09,0,1
+CUST100514,65,53,Month-to-month,No,Eastern,80.75,4392.85,Bank transfer,Yes,No,No,Yes,1,2,,51.5,7.54,0,1
+CUST100515,73,47,One year,Fiber optic,Western,54.58,2461.31,Credit card,No,No,No,No,0,0,4.3,47.3,7.97,0,1
+CUST100516,24,64,Two year,Fiber optic,Central,65.27,4424.21,Electronic check,No,No,No,Yes,1,1,9.9,89.1,19.82,0,1
+CUST100517,69,47,One year,Fiber optic,North Western,35.98,1739.09,Bank transfer,Yes,No,Yes,No,0,1,3.6,84.1,12.15,0,1
+CUST100518,21,28,One year,Fiber optic,North Western,47.39,1210.54,Credit card,Yes,No,No,No,1,0,4.0,2.0,24.54,0,0
+CUST100519,45,30,Month-to-month,DSL,Uva,59.09,,Electronic check,No,Yes,Yes,No,0,1,5.5,73.9,0.0,0,1
+CUST100520,52,38,Month-to-month,DSL,Western,101.48,4298.15,Bank transfer,No,No,No,No,0,1,9.0,3.9,0.0,1,0
+CUST100521,38,7,Month-to-month,Fiber optic,Western,56.65,416.41,Electronic check,Yes,No,Yes,No,0,0,8.3,53.1,5.51,0,1
+CUST100522,26,54,Month-to-month,Fiber optic,Western,87.37,4677.79,Credit card,Yes,No,No,Yes,1,1,6.8,61.2,18.45,0,1
+CUST100523,29,47,Month-to-month,Fiber optic,Northern,59.08,2628.15,Electronic check,Yes,No,No,No,1,2,8.4,52.7,7.23,0,1
+CUST100524,65,53,Two year,Fiber optic,North Central,77.95,3618.13,Electronic check,Yes,No,Yes,Yes,1,0,6.4,82.5,0.0,0,1
+CUST100525,36,39,One year,Fiber optic,North Western,68.61,2470.67,Credit card,No,No,Yes,No,0,0,7.4,90.2,6.28,1,1
+CUST100526,35,57,One year,DSL,Central,92.95,4521.37,Electronic check,Yes,No,No,Yes,0,0,9.6,37.9,0.0,0,1
+CUST100527,71,69,Month-to-month,DSL,North Western,59.16,4678.33,Bank transfer,No,No,Yes,No,0,1,6.2,36.7,0.0,1,1
+CUST100528,26,42,Month-to-month,DSL,North Western,34.26,1319.1,Credit card,No,No,No,No,0,0,5.2,63.7,21.99,1,1
+CUST100529,71,32,Month-to-month,No,Central,38.83,1360.05,Credit card,Yes,Yes,No,No,1,1,7.4,11.0,5.54,0,0
+CUST100530,71,8,Month-to-month,Fiber optic,North Central,59.23,426.77,Electronic check,No,Yes,Yes,No,0,1,7.9,48.3,9.21,0,1
+CUST100531,52,57,Month-to-month,DSL,Northern,42.02,2239.78,Credit card,No,Yes,No,No,2,2,6.8,112.2,7.35,0,1
+CUST100532,27,66,Month-to-month,DSL,Western,81.85,5269.34,Credit card,Yes,No,No,Yes,2,1,8.4,12.3,6.24,0,0
+CUST100533,27,51,Month-to-month,Fiber optic,Northern,60.82,2938.5,Electronic check,Yes,Yes,No,No,1,0,6.2,53.1,2.12,1,1
+CUST100534,34,63,One year,Fiber optic,North Central,128.99,8853.76,Credit card,No,No,Yes,No,0,3,6.8,44.3,5.83,0,0
+CUST100535,51,63,Month-to-month,Fiber optic,North Central,30.29,2170.64,Credit card,Yes,No,Yes,No,0,0,7.3,135.2,10.36,1,1
+CUST100536,26,58,Month-to-month,DSL,Southern,76.89,4961.54,Credit card,Yes,No,Yes,Yes,0,0,7.1,46.2,17.93,0,1
+CUST100537,44,37,Month-to-month,No,North Central,44.93,1489.61,Bank transfer,Yes,No,No,No,2,0,9.5,48.2,14.63,0,0
+CUST100538,24,8,Month-to-month,Fiber optic,Northern,60.16,521.22,Credit card,Yes,No,No,Yes,1,0,,28.9,0.0,0,1
+CUST100539,49,1,Month-to-month,Fiber optic,Eastern,75.39,67.43,Mailed check,No,Yes,No,No,0,0,,65.3,14.92,0,1
+CUST100540,19,15,Month-to-month,Fiber optic,Western,20.0,337.2,Bank transfer,Yes,No,Yes,Yes,1,0,7.6,74.5,11.33,0,1
+CUST100541,59,32,One year,No,Sabaragamuwa,77.68,,Credit card,Yes,No,No,Yes,1,0,8.4,34.0,3.63,0,1
+CUST100542,21,54,Month-to-month,No,Uva,117.67,6042.27,Credit card,Yes,No,No,Yes,1,1,8.0,99.6,9.27,0,1
+CUST100543,29,33,Two year,Fiber optic,Central,61.12,1809.36,Credit card,No,No,No,Yes,0,1,,74.5,12.01,1,1
+CUST100544,28,2,Month-to-month,Fiber optic,North Western,78.24,133.55,Mailed check,Yes,Yes,Yes,No,1,1,3.9,94.8,8.33,0,1
+CUST100545,66,16,Month-to-month,Fiber optic,Uva,96.6,1428.7,Electronic check,No,No,No,No,0,2,2.1,53.5,11.36,0,1
+CUST100546,21,71,Month-to-month,Fiber optic,Eastern,68.07,5432.86,Electronic check,No,Yes,Yes,No,1,0,8.9,73.5,1.96,0,1
+CUST100547,42,72,Month-to-month,Fiber optic,Central,58.06,4552.88,Credit card,Yes,No,Yes,No,0,0,7.4,57.5,21.95,0,1
+CUST100548,52,28,Month-to-month,DSL,Sabaragamuwa,20.0,638.93,Bank transfer,No,Yes,No,Yes,0,1,,116.0,0.0,0,1
+CUST100549,47,58,Two year,DSL,Southern,87.38,4461.23,Bank transfer,Yes,No,No,Yes,1,2,7.8,69.1,12.04,0,1
+CUST100550,57,52,Month-to-month,No,Northern,69.28,3702.4,Credit card,No,Yes,Yes,No,1,3,10.0,65.3,10.57,0,1
+CUST100551,64,68,One year,No,Northern,47.7,3007.01,Mailed check,Yes,Yes,No,No,0,0,9.1,49.0,12.5,0,0
+CUST100552,40,64,Month-to-month,No,Sabaragamuwa,75.04,4864.32,Bank transfer,Yes,Yes,No,No,0,3,8.3,46.9,3.04,0,1
+CUST100553,66,46,Month-to-month,Fiber optic,Eastern,57.99,2523.93,Credit card,Yes,No,Yes,Yes,0,0,5.0,73.3,16.18,0,1
+CUST100554,36,29,Month-to-month,Fiber optic,North Central,59.32,1608.47,Electronic check,Yes,Yes,No,No,1,1,5.2,93.7,7.24,0,1
+CUST100555,75,46,Month-to-month,Fiber optic,Sabaragamuwa,86.55,4069.55,Bank transfer,No,No,Yes,Yes,1,1,2.3,41.0,0.0,0,1
+CUST100556,47,23,Month-to-month,DSL,Sabaragamuwa,39.88,830.07,Electronic check,No,No,Yes,No,1,0,,69.4,0.34,0,1
+CUST100557,60,26,Two year,DSL,Uva,97.14,2502.14,Bank transfer,Yes,No,No,Yes,0,0,8.6,71.4,8.87,0,1
+CUST100558,68,44,One year,No,Sabaragamuwa,38.46,1768.6,Bank transfer,Yes,Yes,No,No,2,1,8.7,77.5,0.0,0,1
+CUST100559,63,42,Two year,DSL,Sabaragamuwa,56.1,2093.2,Credit card,Yes,No,Yes,No,2,2,7.8,5.2,20.6,0,0
+CUST100560,67,42,Month-to-month,Fiber optic,Sabaragamuwa,118.15,5603.35,Credit card,Yes,No,Yes,No,1,0,6.3,32.6,15.34,0,1
+CUST100561,49,28,One year,Fiber optic,North Western,99.06,2778.35,Bank transfer,Yes,Yes,No,Yes,1,0,5.6,17.2,20.79,1,1
+CUST100562,20,30,Month-to-month,Fiber optic,Central,74.34,2444.07,Electronic check,Yes,Yes,No,No,0,1,5.1,66.2,20.05,1,0
+CUST100563,46,1,One year,DSL,Central,49.43,51.71,Electronic check,No,Yes,No,Yes,0,0,6.3,33.5,5.54,0,0
+CUST100564,28,44,Two year,Fiber optic,Uva,59.3,,Mailed check,Yes,No,No,No,2,1,4.8,47.6,1.91,0,0
+CUST100565,69,42,One year,DSL,Southern,73.76,3298.72,Mailed check,No,Yes,Yes,Yes,0,0,9.8,23.2,0.0,0,0
+CUST100566,31,68,Two year,Fiber optic,Uva,72.9,,Electronic check,Yes,No,No,Yes,0,1,4.3,50.9,5.16,0,1
+CUST100567,31,37,One year,DSL,Sabaragamuwa,69.82,2671.35,Electronic check,Yes,No,No,No,0,0,6.2,25.7,20.36,0,0
+CUST100568,32,34,Month-to-month,Fiber optic,North Western,71.26,2261.64,Bank transfer,Yes,Yes,No,Yes,1,0,3.1,91.5,2.21,0,1
+CUST100569,55,5,One year,Fiber optic,North Central,66.85,294.11,Credit card,Yes,No,Yes,Yes,2,4,7.1,81.8,6.53,0,1
+CUST100570,51,15,Month-to-month,DSL,Southern,37.39,578.77,Bank transfer,Yes,Yes,Yes,No,2,1,6.6,70.3,4.12,0,1
+CUST100571,73,25,Two year,DSL,Northern,59.6,1296.24,Electronic check,No,Yes,Yes,No,1,2,,54.4,10.62,0,1
+CUST100572,42,28,One year,Fiber optic,Sabaragamuwa,93.95,2426.46,Bank transfer,No,No,Yes,No,0,2,4.9,2.0,17.0,0,1
+CUST100573,34,27,Month-to-month,DSL,Uva,39.16,917.98,Electronic check,No,Yes,No,Yes,1,2,6.6,49.0,0.0,0,1
+CUST100574,20,29,Month-to-month,DSL,Central,67.45,1984.76,Electronic check,Yes,Yes,No,No,1,0,5.6,38.3,0.0,1,1
+CUST100575,18,56,Month-to-month,Fiber optic,Sabaragamuwa,52.33,2631.66,Electronic check,Yes,No,No,No,0,1,6.4,73.7,18.41,0,1
+CUST100576,39,10,Month-to-month,No,Eastern,74.67,771.46,Credit card,Yes,No,No,Yes,0,0,10.0,86.7,13.13,1,1
+CUST100577,71,24,Month-to-month,Fiber optic,Uva,62.67,1635.4,Bank transfer,No,No,No,No,0,1,6.9,76.4,6.18,0,1
+CUST100578,48,12,One year,Fiber optic,Eastern,107.46,1414.01,Electronic check,No,Yes,No,Yes,1,0,7.6,109.2,19.95,1,1
+CUST100579,69,23,Month-to-month,No,North Western,84.16,,Bank transfer,Yes,No,No,No,0,0,5.8,45.1,0.0,1,1
+CUST100580,23,50,Two year,Fiber optic,Central,40.52,2055.59,Bank transfer,No,No,No,No,2,1,5.2,43.7,14.52,0,0
+CUST100581,23,4,Month-to-month,Fiber optic,Northern,88.11,359.1,Credit card,Yes,Yes,Yes,No,1,2,6.6,101.3,7.52,0,1
+CUST100582,66,25,Month-to-month,Fiber optic,North Central,53.41,1324.35,Mailed check,Yes,No,No,No,2,3,10.0,70.8,12.25,0,1
+CUST100583,24,2,Month-to-month,DSL,Uva,58.15,121.72,Electronic check,Yes,Yes,No,Yes,0,0,6.1,56.4,0.0,0,1
+CUST100584,21,69,Two year,DSL,Western,79.53,5010.4,Mailed check,Yes,No,No,Yes,0,3,7.3,129.6,6.18,0,1
+CUST100585,41,53,Month-to-month,Fiber optic,Western,60.2,3649.2,Credit card,No,No,No,No,1,1,5.1,85.2,13.16,0,1
+CUST100586,71,18,Month-to-month,DSL,North Central,93.43,1478.94,Credit card,No,No,No,No,2,3,1.6,58.3,7.56,0,1
+CUST100587,57,15,Month-to-month,Fiber optic,Eastern,53.41,880.31,Bank transfer,Yes,No,No,No,2,1,5.2,41.0,16.79,0,1
+CUST100588,23,8,One year,DSL,Uva,57.15,470.07,Bank transfer,Yes,No,Yes,Yes,0,1,10.0,443.3,16.55,1,1
+CUST100589,66,35,Month-to-month,Fiber optic,Western,56.25,1817.96,Electronic check,Yes,Yes,No,No,1,1,7.7,72.2,1.29,1,1
+CUST100590,66,55,One year,DSL,Northern,58.42,3450.19,Mailed check,Yes,No,No,No,0,1,9.6,65.9,13.77,0,0
+CUST100591,64,43,One year,Fiber optic,Western,98.38,3703.03,Credit card,Yes,Yes,No,Yes,1,0,6.0,,1.05,0,1
+CUST100592,70,64,One year,Fiber optic,North Central,87.09,6032.7,Bank transfer,Yes,Yes,No,No,0,1,2.4,95.8,8.38,0,1
+CUST100593,31,25,Month-to-month,Fiber optic,Uva,113.04,2902.25,Bank transfer,Yes,Yes,Yes,No,1,1,4.6,84.2,12.59,0,1
+CUST100594,74,21,Month-to-month,DSL,Central,126.42,2344.87,Electronic check,Yes,No,No,No,1,0,7.3,95.9,2.15,1,1
+CUST100595,36,35,Month-to-month,DSL,Southern,47.26,1445.52,Electronic check,Yes,No,No,No,0,1,7.0,80.8,13.51,1,1
+CUST100596,64,15,Month-to-month,Fiber optic,Uva,73.69,1188.53,Credit card,No,No,No,Yes,0,1,6.6,84.4,4.46,0,1
+CUST100597,51,71,One year,DSL,Western,43.77,2914.7,Bank transfer,Yes,No,No,No,0,0,5.6,39.4,3.94,0,0
+CUST100598,63,14,Month-to-month,Fiber optic,Sabaragamuwa,53.34,833.93,Credit card,Yes,Yes,No,No,0,0,8.3,128.4,12.95,0,1
+CUST100599,54,35,Month-to-month,DSL,Uva,56.88,2147.25,Credit card,Yes,No,No,No,1,0,5.7,21.8,2.15,0,1
+CUST100600,55,38,Month-to-month,DSL,Central,46.63,1877.23,Credit card,No,Yes,Yes,Yes,1,1,7.2,75.8,1.79,0,1
+CUST100601,53,5,One year,Fiber optic,Central,46.75,218.25,Credit card,Yes,No,Yes,Yes,0,0,,18.2,15.29,0,1
+CUST100602,63,34,Month-to-month,Fiber optic,North Central,68.54,2476.33,Electronic check,Yes,Yes,No,No,1,1,5.9,,8.76,0,1
+CUST100603,60,33,One year,DSL,Western,42.8,1602.24,Credit card,No,No,No,Yes,1,1,5.0,45.0,0.0,0,1
+CUST100604,25,19,Month-to-month,No,Eastern,92.21,1537.33,Credit card,No,No,No,Yes,1,0,5.8,69.8,13.99,1,1
+CUST100605,65,10,Two year,DSL,Western,193.06,473.68,Electronic check,Yes,No,Yes,No,0,0,10.0,77.0,5.15,0,1
+CUST100606,49,4,One year,Fiber optic,Eastern,139.43,513.33,Electronic check,Yes,Yes,Yes,No,1,1,8.6,31.5,0.0,0,0
+CUST100607,36,1,Month-to-month,Fiber optic,Northern,61.17,59.21,Electronic check,No,Yes,Yes,Yes,1,2,8.4,64.0,0.0,0,1
+CUST100608,47,35,Month-to-month,Fiber optic,North Central,73.73,2768.1,Electronic check,Yes,No,No,No,1,1,5.2,113.8,14.32,0,1
+CUST100609,74,7,Month-to-month,Fiber optic,Uva,40.91,284.17,Bank transfer,Yes,No,No,No,1,1,4.0,19.1,1.98,0,1
+CUST100610,67,70,Month-to-month,DSL,Eastern,112.95,8074.0,Electronic check,Yes,Yes,No,No,1,0,8.6,35.1,0.0,1,1
+CUST100611,66,18,Month-to-month,No,North Western,98.87,1680.4,Credit card,Yes,No,Yes,No,0,2,8.2,95.1,12.48,0,1
+CUST100612,44,47,Two year,Fiber optic,North Western,79.13,3318.72,Electronic check,Yes,No,No,No,1,0,6.8,67.7,13.64,1,1
+CUST100613,63,49,One year,No,Sabaragamuwa,39.68,1808.22,Electronic check,No,No,No,Yes,0,1,5.9,70.3,2.49,0,1
+CUST100614,40,36,Month-to-month,Fiber optic,Southern,77.06,3073.34,Electronic check,Yes,No,Yes,Yes,2,0,4.0,100.8,14.39,0,1
+CUST100615,57,64,Month-to-month,No,Southern,45.09,2974.14,Electronic check,Yes,No,No,No,1,1,8.2,37.2,22.38,0,1
+CUST100616,55,8,Month-to-month,Fiber optic,Northern,107.1,825.41,Mailed check,Yes,No,No,No,0,1,8.7,46.8,17.43,0,1
+CUST100617,32,17,Two year,Fiber optic,North Central,91.42,1689.32,Electronic check,No,Yes,Yes,No,0,1,5.4,42.5,16.34,0,1
+CUST100618,33,19,Month-to-month,Fiber optic,Uva,74.29,1227.09,Electronic check,Yes,No,Yes,No,1,3,5.2,52.8,10.2,0,1
+CUST100619,21,10,One year,Fiber optic,Southern,,185.23,Electronic check,Yes,No,No,Yes,0,0,8.8,111.9,4.89,0,1
+CUST100620,26,22,One year,Fiber optic,Western,48.4,978.54,Bank transfer,No,Yes,No,Yes,1,1,5.4,5.5,7.61,0,1
+CUST100621,43,23,Month-to-month,Fiber optic,North Western,88.51,2332.05,Credit card,Yes,No,No,No,0,1,9.8,23.2,11.09,0,0
+CUST100622,45,56,Month-to-month,DSL,North Western,101.11,6012.2,Credit card,Yes,No,No,Yes,0,2,6.4,17.2,0.0,0,1
+CUST100623,27,22,Month-to-month,Fiber optic,Northern,,2246.31,Bank transfer,Yes,No,No,No,1,0,5.9,114.1,2.61,0,1
+CUST100624,42,64,Two year,DSL,Central,33.79,1841.5,Credit card,No,No,No,No,1,4,6.7,43.5,0.0,1,1
+CUST100625,53,56,Month-to-month,No,Uva,79.24,4017.04,Bank transfer,Yes,No,No,No,0,0,5.9,53.6,9.65,0,1
+CUST100626,31,65,One year,DSL,Uva,96.37,6518.92,Credit card,No,No,Yes,Yes,1,0,8.6,8.5,8.58,0,0
+CUST100627,37,8,One year,DSL,North Central,32.2,248.3,Bank transfer,No,Yes,No,No,0,1,8.2,55.8,3.43,1,1
+CUST100628,39,71,One year,Fiber optic,North Western,71.81,5747.49,Electronic check,Yes,No,Yes,Yes,0,0,8.6,95.3,13.74,0,1
+CUST100629,47,45,Month-to-month,Fiber optic,Southern,78.57,3816.55,Credit card,Yes,No,Yes,No,0,1,6.9,73.9,0.69,0,1
+CUST100630,39,71,Month-to-month,Fiber optic,Northern,64.78,4526.9,Credit card,No,Yes,Yes,Yes,0,1,5.8,61.2,3.17,0,1
+CUST100631,60,26,One year,No,Western,27.55,769.87,Bank transfer,Yes,Yes,No,No,1,0,6.6,10.2,13.46,0,0
+CUST100632,36,69,Month-to-month,DSL,Southern,,5060.26,Mailed check,No,No,Yes,No,1,0,,53.5,14.5,0,1
+CUST100633,43,43,Two year,Fiber optic,Eastern,64.14,2725.93,Mailed check,No,No,No,No,1,2,9.2,70.1,2.43,0,1
+CUST100634,40,6,Month-to-month,Fiber optic,Northern,68.45,428.24,Electronic check,Yes,No,No,No,1,1,8.4,30.3,9.62,0,1
+CUST100635,28,30,Month-to-month,Fiber optic,Western,58.48,1974.64,Credit card,No,No,Yes,Yes,1,0,6.4,87.9,2.55,0,1
+CUST100636,57,10,One year,Fiber optic,Sabaragamuwa,235.01,567.41,Credit card,Yes,No,No,No,2,1,4.9,96.0,6.62,0,1
+CUST100637,31,68,Month-to-month,DSL,Southern,71.05,5391.46,Bank transfer,Yes,No,No,No,3,2,9.4,46.5,9.01,0,1
+CUST100638,35,22,Month-to-month,Fiber optic,Eastern,82.62,1598.16,Bank transfer,Yes,Yes,Yes,No,0,1,6.8,90.4,11.92,0,1
+CUST100639,63,17,Month-to-month,Fiber optic,Eastern,64.69,1148.77,Credit card,Yes,Yes,Yes,Yes,2,2,6.4,61.2,10.22,0,1
+CUST100640,73,40,Month-to-month,DSL,Eastern,62.17,2697.74,Credit card,No,No,No,No,0,1,9.4,105.1,9.91,0,1
+CUST100641,56,31,Two year,No,Uva,74.22,2379.81,Bank transfer,No,No,Yes,No,1,3,5.7,,0.45,1,1
+CUST100642,71,7,Month-to-month,Fiber optic,North Central,25.9,181.04,Electronic check,Yes,No,Yes,No,0,1,6.0,26.7,10.72,0,1
+CUST100643,67,59,Month-to-month,DSL,Uva,83.45,5096.81,Bank transfer,Yes,No,No,No,0,0,6.2,,11.86,0,1
+CUST100644,45,61,Month-to-month,Fiber optic,Northern,71.99,3932.29,Mailed check,No,No,No,Yes,0,1,,110.7,12.82,0,1
+CUST100645,62,54,Two year,DSL,Southern,72.95,3603.29,Credit card,No,No,No,No,1,0,7.2,31.0,2.96,0,0
+CUST100646,37,45,Month-to-month,DSL,Northern,95.06,3982.31,Electronic check,Yes,No,No,No,0,0,5.2,44.9,14.41,0,1
+CUST100647,44,29,Two year,Fiber optic,North Western,25.13,750.22,Mailed check,Yes,Yes,No,Yes,1,2,5.6,44.5,0.0,0,1
+CUST100648,49,40,Two year,DSL,Northern,24.63,967.95,Credit card,No,No,No,No,0,0,5.3,60.4,4.98,0,0
+CUST100649,73,38,Month-to-month,DSL,Eastern,78.57,2756.83,Bank transfer,Yes,No,No,Yes,0,1,5.5,52.5,6.07,0,1
+CUST100650,67,12,One year,Fiber optic,Central,71.83,960.94,Electronic check,Yes,No,No,No,0,3,5.1,58.1,0.0,0,1
+CUST100651,46,6,One year,DSL,North Western,203.65,439.24,Bank transfer,Yes,No,No,Yes,1,2,7.0,94.3,5.97,0,1
+CUST100652,55,19,Month-to-month,Fiber optic,North Central,60.91,1138.53,Electronic check,Yes,No,No,No,0,1,6.3,2.0,9.55,0,1
+CUST100653,29,33,Month-to-month,Fiber optic,Eastern,87.94,2823.55,Electronic check,Yes,Yes,Yes,No,0,2,6.7,30.9,0.0,0,1
+CUST100654,64,12,One year,DSL,Uva,94.38,1024.53,Credit card,Yes,No,No,No,0,1,10.0,88.4,5.24,0,1
+CUST100655,50,8,One year,Fiber optic,Sabaragamuwa,83.62,715.41,Mailed check,No,Yes,No,No,0,0,6.3,84.3,0.0,0,1
+CUST100656,48,62,One year,DSL,Sabaragamuwa,65.74,4012.86,Bank transfer,No,No,Yes,No,0,1,7.7,28.0,22.29,0,0
+CUST100657,62,27,Two year,Fiber optic,Western,21.42,494.3,Credit card,Yes,No,No,Yes,0,1,7.9,84.6,9.49,0,1
+CUST100658,54,43,Month-to-month,DSL,Uva,90.46,4431.34,Mailed check,Yes,Yes,No,No,0,2,6.5,111.4,8.88,0,1
+CUST100659,22,38,One year,No,Northern,101.32,4214.94,Electronic check,No,No,Yes,No,1,3,7.1,63.3,9.62,0,1
+CUST100660,34,53,Two year,DSL,Eastern,87.47,4946.8,Electronic check,Yes,Yes,Yes,No,0,0,6.6,29.7,12.23,1,0
+CUST100661,28,54,Month-to-month,Fiber optic,Northern,50.89,3052.26,Credit card,No,No,Yes,No,1,0,7.0,95.6,14.85,0,1
+CUST100662,60,22,Month-to-month,DSL,Southern,88.17,2176.5,Credit card,Yes,No,Yes,Yes,1,0,5.5,125.3,0.0,0,1
+CUST100663,20,62,Month-to-month,DSL,Uva,92.65,5464.41,Bank transfer,Yes,No,No,No,0,2,5.7,34.0,17.17,0,1
+CUST100664,29,27,Two year,Fiber optic,North Western,109.41,3052.45,Credit card,Yes,No,No,No,1,1,6.6,66.4,16.72,0,1
+CUST100665,52,61,Month-to-month,Fiber optic,Sabaragamuwa,50.97,3210.87,Credit card,Yes,Yes,Yes,No,0,1,3.1,103.2,7.54,0,1
+CUST100666,58,30,One year,No,Sabaragamuwa,66.57,1857.55,Credit card,No,No,No,No,2,0,9.3,69.0,7.17,0,1
+CUST100667,47,8,Month-to-month,DSL,Northern,89.93,659.46,Credit card,Yes,No,Yes,No,1,1,10.0,3.8,0.0,0,0
+CUST100668,67,55,Month-to-month,DSL,North Central,73.38,3568.33,Electronic check,No,No,Yes,Yes,1,2,6.9,80.5,0.0,0,1
+CUST100669,71,3,One year,Fiber optic,Eastern,45.18,142.03,Electronic check,No,No,No,No,1,0,7.8,30.7,11.63,0,0
+CUST100670,25,56,Month-to-month,Fiber optic,Eastern,81.95,4976.01,Electronic check,No,No,No,Yes,1,0,8.5,20.5,16.4,0,0
+CUST100671,73,4,Two year,No,North Central,85.89,370.45,Mailed check,No,No,No,Yes,2,0,4.2,4.5,13.1,0,0
+CUST100672,53,15,Month-to-month,No,North Central,74.11,1050.39,Mailed check,Yes,No,No,Yes,1,1,8.3,106.7,7.47,0,1
+CUST100673,54,44,Two year,No,Sabaragamuwa,77.27,3099.26,Credit card,Yes,No,No,No,1,0,5.8,35.8,21.48,0,0
+CUST100674,23,68,Month-to-month,DSL,North Central,65.79,4411.54,Electronic check,No,Yes,Yes,No,2,3,10.0,76.7,15.04,0,1
+CUST100675,54,30,Two year,Fiber optic,North Western,107.48,3269.64,Bank transfer,Yes,Yes,No,Yes,0,1,6.3,466.9,5.24,0,1
+CUST100676,60,9,One year,Fiber optic,Sabaragamuwa,50.38,510.46,Electronic check,Yes,No,No,Yes,3,0,8.2,70.7,23.27,1,1
+CUST100677,51,17,Month-to-month,DSL,Western,57.9,1095.06,Bank transfer,Yes,No,Yes,No,0,0,6.3,75.4,0.33,0,1
+CUST100678,22,65,Month-to-month,Fiber optic,North Central,72.26,5283.42,Electronic check,Yes,Yes,No,Yes,2,2,10.0,78.3,0.0,0,1
+CUST100679,48,53,Month-to-month,DSL,Northern,93.09,5452.49,Credit card,No,Yes,Yes,No,1,2,5.7,69.8,5.05,0,1
+CUST100680,72,8,One year,DSL,Northern,36.06,328.71,Electronic check,Yes,No,No,Yes,1,1,8.7,38.4,2.69,0,1
+CUST100681,59,28,One year,No,Uva,40.55,1123.73,Credit card,No,No,No,No,2,0,,35.3,5.45,0,0
+CUST100682,25,20,Month-to-month,DSL,Southern,23.09,399.19,Mailed check,No,No,No,Yes,0,1,7.3,61.3,13.59,0,1
+CUST100683,73,13,Month-to-month,No,Uva,72.78,827.99,Credit card,Yes,No,Yes,No,1,1,7.0,60.6,7.76,1,1
+CUST100684,73,61,One year,DSL,Eastern,45.16,2664.12,Electronic check,No,Yes,No,No,1,1,5.4,80.0,7.94,0,1
+CUST100685,27,45,Month-to-month,DSL,Northern,62.77,2619.35,Mailed check,Yes,No,No,Yes,0,3,1.9,451.3,8.41,0,1
+CUST100686,64,13,One year,DSL,Southern,87.87,1029.24,Credit card,Yes,No,Yes,Yes,0,0,8.5,77.0,0.0,0,1
+CUST100687,41,47,Month-to-month,DSL,Northern,56.6,3022.04,Bank transfer,Yes,Yes,Yes,Yes,2,1,5.7,36.6,0.0,0,1
+CUST100688,52,30,One year,Fiber optic,Sabaragamuwa,77.55,2113.94,Credit card,Yes,No,No,Yes,0,0,8.7,2.0,5.3,0,0
+CUST100689,43,5,Two year,DSL,Western,64.82,368.74,Mailed check,Yes,No,Yes,No,0,1,7.2,38.1,2.1,1,0
+CUST100690,63,33,Month-to-month,Fiber optic,Eastern,88.13,3135.89,Bank transfer,Yes,No,No,Yes,0,0,8.8,17.9,6.38,0,1
+CUST100691,75,14,Month-to-month,No,Uva,83.4,1217.02,Bank transfer,Yes,No,No,Yes,1,2,8.0,39.4,17.83,0,1
+CUST100692,64,18,Month-to-month,Fiber optic,Eastern,55.39,1049.74,Bank transfer,Yes,No,Yes,Yes,0,0,2.2,73.5,7.48,0,1
+CUST100693,72,64,Month-to-month,DSL,North Western,67.95,4129.08,Electronic check,No,No,No,No,1,0,7.7,68.0,0.0,0,1
+CUST100694,72,52,Month-to-month,Fiber optic,Northern,97.05,5268.28,Credit card,Yes,Yes,Yes,No,1,1,6.0,,2.45,1,1
+CUST100695,23,10,Two year,Fiber optic,Central,81.44,737.86,Electronic check,No,No,No,No,0,1,8.7,81.9,19.97,0,1
+CUST100696,32,62,One year,Fiber optic,North Western,38.47,2698.54,Bank transfer,No,Yes,No,No,0,0,,131.8,18.73,0,0
+CUST100697,59,42,Month-to-month,DSL,Sabaragamuwa,87.73,3465.75,Bank transfer,No,No,Yes,No,1,0,7.7,90.0,12.17,0,1
+CUST100698,52,63,One year,Fiber optic,Eastern,45.97,2683.37,Electronic check,Yes,No,No,No,1,0,,103.0,0.0,0,1
+CUST100699,20,54,Month-to-month,Fiber optic,Northern,105.9,6080.88,Bank transfer,Yes,No,No,No,1,0,5.0,52.4,10.15,0,1
+CUST100700,23,25,One year,DSL,Central,96.58,2527.78,Credit card,Yes,Yes,No,No,0,1,5.8,27.4,10.69,0,0
+CUST100701,48,39,Month-to-month,DSL,Sabaragamuwa,78.96,3034.34,Electronic check,No,No,Yes,Yes,1,0,3.4,49.3,8.18,0,1
+CUST100702,53,39,One year,No,Uva,75.77,3072.59,Electronic check,No,No,No,No,1,1,5.5,64.6,4.01,0,1
+CUST100703,27,52,Two year,DSL,Sabaragamuwa,66.98,3127.32,Credit card,Yes,No,No,Yes,2,0,4.0,43.0,5.46,0,0
+CUST100704,27,18,One year,DSL,Northern,88.28,1671.75,Mailed check,Yes,No,Yes,Yes,2,2,4.0,30.0,3.52,0,1
+CUST100705,25,24,Two year,DSL,North Western,63.1,1410.21,Bank transfer,No,Yes,No,No,0,0,6.8,79.6,0.0,1,1
+CUST100706,50,18,Month-to-month,Fiber optic,Northern,77.65,1302.51,Electronic check,Yes,No,Yes,Yes,0,0,7.6,29.8,17.56,0,1
+CUST100707,18,22,One year,Fiber optic,Southern,92.93,1837.19,Electronic check,Yes,No,No,No,1,1,6.5,11.3,14.18,0,1
+CUST100708,51,12,Month-to-month,DSL,Central,58.52,666.89,Electronic check,Yes,No,Yes,No,1,2,5.7,25.7,6.01,1,1
+CUST100709,45,3,One year,Fiber optic,Northern,57.21,162.95,Bank transfer,No,Yes,No,No,1,1,4.9,56.8,10.47,1,1
+CUST100710,45,68,Month-to-month,Fiber optic,Eastern,43.34,2906.29,Mailed check,Yes,No,Yes,Yes,1,0,6.0,30.3,10.73,0,1
+CUST100711,57,6,Month-to-month,DSL,Central,46.45,252.83,Credit card,Yes,No,Yes,No,0,0,5.1,57.0,24.4,0,1
+CUST100712,48,64,Month-to-month,No,North Central,28.12,1633.85,Bank transfer,Yes,No,No,No,0,1,6.5,86.0,14.11,1,1
+CUST100713,60,1,Month-to-month,DSL,Eastern,89.52,90.64,Mailed check,Yes,Yes,No,Yes,1,2,3.9,85.1,13.84,0,1
+CUST100714,62,56,One year,DSL,Uva,115.41,5743.59,Bank transfer,No,No,No,Yes,1,1,7.9,41.9,8.27,0,1
+CUST100715,71,24,Two year,No,Southern,106.21,,Electronic check,No,Yes,No,No,1,1,5.6,19.4,4.96,0,1
+CUST100716,64,38,Two year,Fiber optic,Western,32.97,1419.89,Bank transfer,Yes,No,Yes,No,0,0,7.3,44.9,17.68,0,0
+CUST100717,48,21,Month-to-month,Fiber optic,Southern,89.4,1836.1,Electronic check,Yes,No,No,Yes,0,1,8.2,87.9,12.57,0,1
+CUST100718,46,36,Two year,Fiber optic,Sabaragamuwa,106.13,4280.45,Mailed check,No,Yes,Yes,Yes,0,0,7.2,96.1,2.19,0,1
+CUST100719,31,33,Month-to-month,Fiber optic,Southern,61.04,1771.48,Bank transfer,No,No,Yes,No,2,1,8.0,77.4,11.18,1,1
+CUST100720,52,39,Month-to-month,Fiber optic,North Central,74.43,2504.92,Credit card,Yes,No,No,Yes,1,0,2.9,107.1,13.86,0,1
+CUST100721,26,29,Two year,Fiber optic,Uva,23.81,736.36,Bank transfer,Yes,No,No,Yes,1,0,5.7,125.5,0.0,0,1
+CUST100722,72,39,Month-to-month,Fiber optic,Southern,78.4,3297.1,Mailed check,Yes,No,Yes,No,1,1,8.6,48.1,1.54,0,1
+CUST100723,67,60,Month-to-month,DSL,North Western,46.47,3075.46,Credit card,No,No,Yes,Yes,1,0,7.5,117.0,10.54,0,1
+CUST100724,24,32,Month-to-month,Fiber optic,Central,,2130.61,Bank transfer,Yes,No,No,Yes,3,1,9.9,55.9,0.0,0,1
+CUST100725,63,27,Month-to-month,Fiber optic,Northern,34.53,1009.79,Electronic check,Yes,No,Yes,No,1,1,9.7,100.7,0.0,0,1
+CUST100726,24,10,One year,DSL,Southern,85.03,818.79,Mailed check,No,No,Yes,No,1,1,7.1,89.8,6.11,0,1
+CUST100727,59,26,Month-to-month,No,North Central,96.59,2363.13,Bank transfer,Yes,No,Yes,No,1,2,6.1,2.0,11.44,1,1
+CUST100728,23,10,Month-to-month,Fiber optic,Uva,53.2,479.85,Electronic check,No,No,Yes,Yes,0,1,4.9,31.2,11.76,0,1
+CUST100729,46,14,One year,Fiber optic,Southern,44.71,,Mailed check,Yes,No,Yes,No,0,1,5.7,22.3,19.08,0,1
+CUST100730,56,69,Month-to-month,Fiber optic,Southern,20.26,1214.68,Electronic check,Yes,Yes,No,No,0,0,5.9,2.6,8.58,0,1
+CUST100731,60,7,One year,Fiber optic,Uva,65.61,504.3,Electronic check,No,No,Yes,No,0,0,5.5,,5.39,0,1
+CUST100732,42,35,Two year,DSL,Eastern,58.04,2116.47,Bank transfer,No,Yes,No,No,2,0,4.9,137.4,0.0,0,1
+CUST100733,71,61,One year,No,Eastern,34.78,2270.91,Electronic check,No,No,No,No,1,2,7.3,56.0,5.31,0,1
+CUST100734,62,69,Two year,Fiber optic,North Central,82.87,6081.39,Bank transfer,No,No,No,No,1,1,,94.9,12.95,0,1
+CUST100735,30,11,Month-to-month,Fiber optic,Central,61.2,745.6,Electronic check,Yes,Yes,No,No,0,0,8.3,117.0,13.27,0,1
+CUST100736,56,12,Two year,Fiber optic,Uva,46.18,501.62,Electronic check,Yes,No,No,Yes,1,0,6.0,72.3,9.85,0,1
+CUST100737,60,27,Month-to-month,DSL,Northern,58.69,1347.33,Electronic check,Yes,Yes,No,No,1,1,,64.1,11.83,0,1
+CUST100738,37,40,Month-to-month,DSL,North Western,97.71,4023.98,Electronic check,No,No,No,No,0,1,7.2,56.4,16.93,0,1
+CUST100739,60,70,One year,Fiber optic,Northern,86.47,5787.56,Mailed check,Yes,No,No,Yes,1,0,6.5,83.8,8.53,0,1
+CUST100740,70,15,Month-to-month,DSL,North Central,68.88,916.58,Bank transfer,No,No,No,Yes,1,3,6.4,95.6,17.57,1,1
+CUST100741,65,12,Two year,Fiber optic,North Western,86.86,944.16,Bank transfer,No,No,No,No,0,3,6.2,81.2,2.91,0,1
+CUST100742,62,19,One year,No,Central,44.14,796.29,Bank transfer,No,Yes,Yes,No,0,4,7.8,80.0,7.49,0,1
+CUST100743,54,63,Two year,DSL,Central,72.78,3993.81,Credit card,No,No,No,No,0,2,6.9,63.2,4.63,0,1
+CUST100744,33,3,Month-to-month,DSL,Uva,75.54,196.49,Electronic check,Yes,No,No,No,0,0,5.3,9.2,13.55,0,0
+CUST100745,64,28,Month-to-month,Fiber optic,Eastern,60.72,1912.48,Electronic check,Yes,Yes,Yes,Yes,0,0,5.2,96.4,0.9,1,1
+CUST100746,39,9,One year,DSL,Southern,82.45,700.23,Credit card,No,No,No,Yes,2,1,7.2,20.0,5.75,0,1
+CUST100747,48,12,Month-to-month,No,Central,53.27,731.71,Bank transfer,Yes,Yes,Yes,No,1,0,7.4,86.7,0.0,1,1
+CUST100748,36,67,Month-to-month,Fiber optic,Central,84.24,6430.03,Credit card,Yes,No,Yes,Yes,0,1,6.0,91.5,12.16,1,1
+CUST100749,36,1,One year,DSL,Sabaragamuwa,85.24,76.1,Mailed check,No,Yes,No,No,1,2,4.6,25.1,16.73,1,1
+CUST100750,27,24,Two year,DSL,Sabaragamuwa,20.0,510.95,Credit card,No,No,Yes,Yes,0,0,8.9,43.7,14.37,0,0
+CUST100751,73,66,One year,No,Northern,100.57,6838.17,Electronic check,Yes,Yes,Yes,No,0,2,8.5,139.3,13.69,1,1
+CUST100752,26,44,Month-to-month,DSL,Central,20.0,930.33,Electronic check,Yes,Yes,Yes,No,0,0,3.0,62.2,13.88,0,1
+CUST100753,23,6,Month-to-month,Fiber optic,Northern,57.21,301.7,Electronic check,Yes,No,No,Yes,2,3,9.0,22.3,12.9,0,1
+CUST100754,72,34,One year,DSL,Central,96.61,2977.79,Credit card,No,No,No,No,1,2,6.2,93.0,12.3,0,1
+CUST100755,50,70,Month-to-month,DSL,Eastern,64.39,3934.54,Mailed check,Yes,Yes,No,No,0,4,6.9,38.0,12.75,0,1
+CUST100756,43,29,Month-to-month,No,North Western,36.81,1100.88,Mailed check,Yes,No,No,Yes,2,1,8.6,2.0,3.41,1,0
+CUST100757,60,39,Month-to-month,DSL,Sabaragamuwa,45.75,2044.72,Electronic check,Yes,No,No,Yes,0,1,9.6,83.2,6.6,0,1
+CUST100758,40,39,Month-to-month,DSL,Southern,96.65,3963.66,Credit card,No,No,No,No,0,0,8.4,32.9,8.49,0,0
+CUST100759,25,48,Month-to-month,Fiber optic,Central,25.88,1320.98,Bank transfer,No,Yes,No,No,0,1,7.0,76.2,5.65,0,1
+CUST100760,60,14,Month-to-month,No,Central,99.1,1589.03,Credit card,Yes,No,Yes,No,1,1,4.1,36.6,0.0,0,1
+CUST100761,28,61,One year,DSL,Northern,70.68,4541.57,Bank transfer,Yes,No,No,No,1,0,3.0,89.8,0.0,0,1
+CUST100762,50,72,Month-to-month,DSL,North Western,43.38,2692.66,Electronic check,Yes,No,No,Yes,0,0,8.2,71.4,9.61,0,1
+CUST100763,73,11,One year,No,Western,58.01,708.31,Electronic check,Yes,No,Yes,Yes,0,0,9.0,2.0,14.34,0,0
+CUST100764,72,59,Month-to-month,Fiber optic,North Central,47.59,2693.63,Mailed check,Yes,No,Yes,No,1,1,5.1,78.4,8.07,0,1
+CUST100765,38,59,Two year,Fiber optic,Eastern,92.79,4660.56,Bank transfer,Yes,No,No,No,3,1,6.1,54.9,27.35,0,1
+CUST100766,63,54,Month-to-month,Fiber optic,Uva,89.58,4847.72,Bank transfer,Yes,No,Yes,No,3,0,5.6,114.6,1.56,0,1
+CUST100767,53,27,Month-to-month,Fiber optic,Eastern,30.74,,Bank transfer,Yes,No,No,Yes,0,0,5.5,78.8,11.11,0,1
+CUST100768,45,34,Month-to-month,Fiber optic,Central,62.31,1964.43,Bank transfer,Yes,No,Yes,No,1,0,8.5,91.5,17.04,0,1
+CUST100769,26,61,Month-to-month,DSL,Western,51.28,3120.33,Mailed check,Yes,No,No,No,0,0,7.0,40.1,15.46,1,1
+CUST100770,39,12,Month-to-month,Fiber optic,North Western,103.04,,Electronic check,Yes,No,Yes,Yes,0,0,6.2,37.3,12.59,1,1
+CUST100771,55,60,Two year,Fiber optic,Eastern,39.6,2060.6,Electronic check,No,No,No,No,1,2,10.0,64.1,15.49,1,1
+CUST100772,75,67,Two year,No,Uva,,6471.96,Credit card,Yes,No,Yes,No,1,1,4.0,52.4,8.39,1,1
+CUST100773,18,50,Month-to-month,Fiber optic,Uva,71.2,3802.5,Bank transfer,Yes,Yes,Yes,Yes,1,0,7.6,111.8,19.64,0,1
+CUST100774,59,25,Month-to-month,DSL,Central,44.11,1223.29,Electronic check,No,Yes,No,Yes,1,0,4.7,59.6,16.98,0,1
+CUST100775,67,41,One year,Fiber optic,Southern,55.75,2040.98,Electronic check,Yes,Yes,No,Yes,0,1,6.3,22.1,2.03,0,1
+CUST100776,73,4,One year,Fiber optic,Central,52.76,197.64,Electronic check,No,Yes,No,No,0,0,6.9,36.0,10.25,0,0
+CUST100777,42,68,Month-to-month,Fiber optic,Western,41.41,2558.2,Electronic check,Yes,No,No,Yes,0,1,8.1,98.8,0.0,1,1
+CUST100778,24,25,One year,Fiber optic,Western,74.28,1593.32,Electronic check,No,Yes,Yes,Yes,1,0,6.1,59.1,18.65,0,1
+CUST100779,33,5,Month-to-month,Fiber optic,Western,42.53,216.06,Electronic check,Yes,Yes,No,Yes,1,1,5.9,57.3,9.57,1,1
+CUST100780,67,58,One year,DSL,Eastern,20.0,1229.57,Credit card,Yes,No,No,Yes,2,0,6.1,,17.44,0,1
+CUST100781,68,48,Month-to-month,Fiber optic,Central,62.89,3152.53,Credit card,No,Yes,Yes,Yes,1,0,4.7,33.0,7.23,1,1
+CUST100782,54,45,Month-to-month,Fiber optic,Central,28.73,1249.49,Mailed check,No,Yes,No,No,2,0,7.7,2.0,0.0,0,1
+CUST100783,25,4,Month-to-month,No,Central,53.95,219.35,Bank transfer,Yes,Yes,No,Yes,0,2,7.1,35.1,26.46,0,1
+CUST100784,25,55,One year,Fiber optic,North Central,50.18,2423.9,Electronic check,No,Yes,No,Yes,2,0,7.4,73.5,8.92,1,1
+CUST100785,45,46,Month-to-month,Fiber optic,North Western,51.09,2106.44,Mailed check,Yes,No,No,Yes,0,0,6.5,56.3,1.0,0,1
+CUST100786,52,58,One year,Fiber optic,Sabaragamuwa,120.02,7863.1,Credit card,No,No,Yes,No,0,1,6.3,10.4,16.02,0,1
+CUST100787,19,60,One year,Fiber optic,Central,73.35,4746.52,Bank transfer,No,No,No,Yes,1,0,8.7,100.6,22.25,0,1
+CUST100788,57,16,One year,DSL,Central,77.89,1404.27,Electronic check,Yes,No,Yes,No,1,4,8.4,70.7,6.58,0,1
+CUST100789,49,16,Month-to-month,No,Eastern,29.37,528.6,Electronic check,No,No,Yes,No,1,2,9.1,78.6,7.31,0,1
+CUST100790,18,67,Month-to-month,No,North Western,56.3,3941.5,Bank transfer,No,No,No,No,1,0,7.3,79.7,9.67,0,1
+CUST100791,23,39,Month-to-month,Fiber optic,Central,77.17,3396.16,Bank transfer,No,No,No,Yes,1,0,,19.6,0.22,0,1
+CUST100792,44,32,One year,Fiber optic,Central,47.41,1479.25,Electronic check,Yes,No,Yes,No,2,3,5.9,,3.17,0,1
+CUST100793,59,21,Two year,DSL,Northern,93.79,1676.35,Mailed check,No,No,Yes,No,0,1,6.2,96.8,20.47,1,1
+CUST100794,65,47,Month-to-month,Fiber optic,Western,43.14,1761.31,Bank transfer,Yes,No,No,Yes,1,0,8.8,,7.07,0,1
+CUST100795,43,55,Two year,Fiber optic,Northern,65.13,3162.35,Credit card,Yes,No,Yes,No,0,2,8.1,90.2,2.14,0,1
+CUST100796,35,1,Month-to-month,Fiber optic,North Central,57.93,50.9,Electronic check,No,Yes,Yes,No,2,0,6.1,83.0,4.84,0,1
+CUST100797,74,40,Month-to-month,DSL,Eastern,75.94,,Credit card,Yes,No,Yes,Yes,1,0,4.7,4.2,15.51,0,0
+CUST100798,44,72,Month-to-month,Fiber optic,Northern,56.63,4323.42,Credit card,No,Yes,No,Yes,5,1,6.2,64.5,0.0,0,1
+CUST100799,36,21,One year,DSL,Eastern,65.5,1495.4,Electronic check,No,No,No,No,0,1,5.4,31.5,9.78,0,1
+CUST100800,43,21,Month-to-month,Fiber optic,Sabaragamuwa,66.33,1430.69,Credit card,Yes,No,Yes,Yes,0,0,9.7,109.9,25.24,0,1
+CUST100801,18,64,Month-to-month,Fiber optic,Eastern,54.37,3110.86,Credit card,No,No,Yes,No,1,0,8.0,104.6,22.22,0,1
+CUST100802,35,5,One year,DSL,Eastern,83.64,449.31,Credit card,Yes,Yes,No,Yes,1,2,5.2,31.7,12.01,1,1
+CUST100803,47,29,Month-to-month,Fiber optic,Sabaragamuwa,,2155.74,Electronic check,Yes,No,No,Yes,1,0,4.7,63.4,17.22,0,1
+CUST100804,71,33,Month-to-month,Fiber optic,Central,69.87,1968.93,Mailed check,Yes,No,No,Yes,2,2,,73.7,17.15,0,1
+CUST100805,60,58,Month-to-month,Fiber optic,Western,61.67,3341.36,Bank transfer,Yes,No,Yes,No,1,0,,96.5,7.12,0,1
+CUST100806,63,10,Month-to-month,DSL,Eastern,91.12,864.87,Electronic check,No,No,No,No,2,2,6.3,6.4,14.47,1,1
+CUST100807,49,32,Month-to-month,Fiber optic,Southern,66.34,1979.1,Electronic check,Yes,No,No,No,0,0,8.6,2.0,20.52,0,1
+CUST100808,24,11,Month-to-month,DSL,Central,64.64,777.56,Electronic check,No,No,No,No,0,0,4.9,66.3,0.0,0,1
+CUST100809,40,57,One year,Fiber optic,Central,74.51,4578.41,Electronic check,No,No,Yes,No,0,0,10.0,2.0,12.04,0,0
+CUST100810,75,46,Month-to-month,Fiber optic,Uva,112.72,5489.21,Bank transfer,No,No,No,No,1,0,4.9,70.6,10.53,0,1
+CUST100811,20,36,One year,DSL,North Western,39.83,1278.64,Credit card,Yes,Yes,Yes,Yes,4,0,4.1,85.7,8.72,0,1
+CUST100812,68,29,Month-to-month,Fiber optic,North Central,90.48,2866.13,Electronic check,No,Yes,Yes,Yes,3,0,9.6,108.3,8.1,0,1
+CUST100813,57,12,Month-to-month,Fiber optic,Central,26.56,335.71,Mailed check,Yes,Yes,Yes,No,0,0,9.0,43.2,9.62,1,1
+CUST100814,34,67,Month-to-month,Fiber optic,Northern,77.21,4699.76,Electronic check,No,No,No,No,2,1,6.3,70.6,10.21,0,1
+CUST100815,63,47,Month-to-month,DSL,North Western,109.8,5389.97,Credit card,Yes,No,Yes,No,1,1,7.3,87.8,15.83,0,1
+CUST100816,66,23,Month-to-month,DSL,Eastern,83.73,1916.22,Mailed check,No,No,No,No,1,3,7.3,23.8,11.34,1,0
+CUST100817,20,30,Month-to-month,Fiber optic,North Central,76.1,2241.31,Credit card,Yes,No,No,No,0,0,6.8,97.0,6.75,0,1
+CUST100818,24,53,Two year,DSL,North Central,58.55,2742.02,Credit card,Yes,No,No,Yes,0,1,4.3,74.6,2.12,0,1
+CUST100819,56,52,Two year,Fiber optic,Northern,72.75,3803.52,Credit card,No,Yes,Yes,No,0,0,2.1,43.8,4.69,0,0
+CUST100820,75,34,Month-to-month,DSL,Uva,65.95,1973.19,Electronic check,Yes,Yes,No,No,0,0,5.1,69.9,9.83,0,1
+CUST100821,19,22,One year,DSL,Southern,53.14,1051.26,Electronic check,No,No,Yes,No,0,2,9.9,60.1,3.06,0,1
+CUST100822,56,48,One year,Fiber optic,Western,65.04,2777.9,Bank transfer,No,No,No,Yes,0,2,9.9,92.3,14.62,0,1
+CUST100823,25,48,One year,DSL,Sabaragamuwa,76.76,4186.49,Electronic check,Yes,No,Yes,Yes,1,0,6.1,52.4,11.01,0,0
+CUST100824,55,44,Month-to-month,Fiber optic,Western,53.59,2205.64,Bank transfer,Yes,Yes,Yes,No,1,0,4.9,72.9,16.0,0,1
+CUST100825,54,6,Month-to-month,DSL,Southern,52.65,302.17,Electronic check,Yes,No,No,No,0,3,7.1,43.3,3.53,0,1
+CUST100826,23,35,Month-to-month,Fiber optic,Central,39.35,1303.88,Mailed check,No,No,Yes,No,4,0,7.4,32.2,2.18,0,1
+CUST100827,57,45,Month-to-month,Fiber optic,Southern,81.38,4099.5,Mailed check,No,No,Yes,No,1,3,7.7,71.0,15.95,0,1
+CUST100828,70,69,Month-to-month,Fiber optic,Northern,85.09,5981.96,Credit card,Yes,Yes,No,Yes,3,0,2.1,33.6,8.91,0,1
+CUST100829,68,38,Two year,Fiber optic,Central,77.56,3317.89,Credit card,No,No,Yes,Yes,0,0,,93.0,6.58,0,1
+CUST100830,19,25,Two year,Fiber optic,Eastern,95.16,2236.3,Electronic check,Yes,No,Yes,No,0,0,8.6,85.7,12.89,0,1
+CUST100831,32,41,Month-to-month,Fiber optic,Sabaragamuwa,74.11,2687.37,Electronic check,Yes,No,Yes,Yes,0,3,6.2,38.2,12.63,0,1
+CUST100832,31,13,Month-to-month,DSL,Central,81.41,1076.16,Credit card,No,No,Yes,No,2,0,5.3,72.5,0.0,0,1
+CUST100833,44,7,Month-to-month,Fiber optic,Sabaragamuwa,79.29,529.32,Credit card,No,No,No,No,1,0,8.4,38.1,17.69,0,1
+CUST100834,26,49,Month-to-month,DSL,Northern,69.8,3730.14,Bank transfer,Yes,No,Yes,Yes,1,2,7.5,8.8,5.13,0,1
+CUST100835,67,72,Month-to-month,Fiber optic,North Western,59.26,4752.41,Bank transfer,Yes,No,No,Yes,1,1,6.8,44.1,19.9,1,1
+CUST100836,63,61,Month-to-month,DSL,Northern,125.14,7570.71,Bank transfer,Yes,No,No,Yes,2,0,7.4,63.2,0.0,0,1
+CUST100837,64,43,Two year,No,Southern,61.15,3001.43,Electronic check,Yes,Yes,Yes,Yes,1,0,6.4,83.2,10.22,0,1
+CUST100838,29,3,Two year,Fiber optic,Western,56.02,170.73,Electronic check,Yes,Yes,No,No,0,0,7.3,70.2,6.7,0,1
+CUST100839,18,72,One year,Fiber optic,North Western,82.42,5526.16,Bank transfer,No,No,No,Yes,1,0,7.9,96.8,0.0,0,1
+CUST100840,70,33,One year,Fiber optic,Sabaragamuwa,78.04,2566.95,Credit card,Yes,Yes,Yes,Yes,1,1,,30.7,12.61,0,0
+CUST100841,34,21,Month-to-month,DSL,Eastern,38.29,692.39,Mailed check,Yes,Yes,Yes,Yes,1,1,7.1,51.8,0.0,0,1
+CUST100842,56,65,Month-to-month,DSL,North Western,98.94,7017.92,Bank transfer,No,No,Yes,Yes,1,2,9.1,122.6,5.96,0,1
+CUST100843,70,54,Month-to-month,No,North Western,69.74,3315.63,Credit card,Yes,No,Yes,No,3,1,,2.0,15.73,0,1
+CUST100844,20,54,One year,Fiber optic,Northern,45.34,2307.76,Credit card,Yes,Yes,No,No,2,1,5.2,49.2,4.29,1,0
+CUST100845,18,20,Month-to-month,DSL,Central,100.53,,Electronic check,No,No,No,No,0,0,6.6,27.5,1.67,0,1
+CUST100846,18,72,One year,Fiber optic,Eastern,87.02,5406.17,Credit card,Yes,No,No,No,0,0,5.3,58.2,13.6,0,1
+CUST100847,27,33,Month-to-month,Fiber optic,Uva,41.65,1201.02,Bank transfer,Yes,No,Yes,Yes,3,2,5.9,49.8,6.25,1,1
+CUST100848,20,39,Month-to-month,DSL,Southern,114.65,4734.52,Bank transfer,Yes,No,Yes,No,0,0,8.9,,5.16,0,1
+CUST100849,65,55,Month-to-month,Fiber optic,Uva,87.81,4209.17,Electronic check,Yes,No,No,Yes,1,1,6.3,73.9,16.92,0,1
+CUST100850,53,48,Two year,DSL,Uva,71.76,3420.57,Mailed check,Yes,Yes,No,No,0,0,3.3,19.3,0.0,0,1
+CUST100851,74,13,Month-to-month,DSL,Southern,110.17,1362.84,Mailed check,Yes,No,Yes,Yes,0,1,5.8,44.4,4.78,1,1
+CUST100852,64,22,Month-to-month,Fiber optic,North Western,,,Electronic check,Yes,Yes,No,No,0,1,6.7,65.0,14.07,0,1
+CUST100853,73,27,Month-to-month,DSL,North Central,71.33,1746.0,Electronic check,No,No,No,Yes,0,0,6.7,90.9,0.0,0,1
+CUST100854,31,69,One year,No,Eastern,56.15,4180.72,Electronic check,Yes,Yes,No,No,1,2,7.6,150.2,20.43,0,1
+CUST100855,34,52,Two year,Fiber optic,North Central,85.96,5075.69,Credit card,Yes,Yes,No,Yes,0,1,7.5,89.6,6.48,0,1
+CUST100856,67,27,Month-to-month,Fiber optic,Sabaragamuwa,83.44,2009.65,Credit card,Yes,Yes,No,No,2,1,6.4,29.6,14.12,1,1
+CUST100857,32,53,Two year,Fiber optic,North Western,72.35,4363.49,Electronic check,No,No,Yes,Yes,1,0,4.5,61.7,14.11,1,1
+CUST100858,21,54,Month-to-month,No,Uva,53.04,2945.6,Credit card,Yes,Yes,Yes,No,1,1,5.8,71.3,6.93,0,1
+CUST100859,56,29,One year,Fiber optic,Uva,,2271.01,Bank transfer,No,Yes,No,No,0,1,5.5,46.8,4.65,0,1
+CUST100860,64,30,Month-to-month,Fiber optic,Uva,70.32,2242.61,Bank transfer,Yes,Yes,Yes,Yes,1,0,6.1,81.5,7.7,0,1
+CUST100861,74,65,Month-to-month,Fiber optic,Uva,40.0,2758.98,Bank transfer,No,No,Yes,Yes,0,3,7.8,2.0,12.99,0,0
+CUST100862,71,41,One year,No,Southern,36.68,1648.01,Bank transfer,Yes,No,No,Yes,0,0,7.3,84.4,1.1,0,1
+CUST100863,24,11,Month-to-month,DSL,Western,85.56,936.53,Bank transfer,Yes,No,No,No,0,0,8.1,48.3,0.0,0,1
+CUST100864,62,52,Month-to-month,Fiber optic,Central,20.0,1050.41,Electronic check,Yes,No,No,No,0,0,5.9,61.2,18.39,0,1
+CUST100865,67,43,One year,Fiber optic,Southern,,3133.15,Bank transfer,Yes,No,No,Yes,1,1,9.3,116.3,2.86,1,1
+CUST100866,58,37,Two year,Fiber optic,North Central,60.53,1974.26,Mailed check,No,No,No,Yes,0,0,7.8,,10.48,0,0
+CUST100867,65,53,Month-to-month,No,Eastern,103.4,5750.76,Bank transfer,Yes,Yes,Yes,Yes,0,1,6.8,74.5,6.58,0,1
+CUST100868,66,66,One year,Fiber optic,Eastern,60.16,3414.83,Mailed check,No,No,No,Yes,0,1,7.7,,6.89,1,1
+CUST100869,43,24,One year,DSL,Western,87.83,1965.98,Bank transfer,Yes,No,No,No,1,0,5.4,71.0,18.01,0,1
+CUST100870,20,31,Month-to-month,Fiber optic,North Central,62.47,1700.94,Credit card,No,Yes,No,Yes,0,0,2.8,8.5,7.4,0,1
+CUST100871,44,14,Two year,Fiber optic,Northern,74.73,949.15,Electronic check,Yes,No,Yes,Yes,0,0,5.5,112.3,5.5,0,1
+CUST100872,29,47,Month-to-month,DSL,North Central,89.68,4390.58,Credit card,No,Yes,Yes,No,1,1,7.9,57.6,6.11,0,1
+CUST100873,24,29,One year,DSL,Central,60.9,1834.13,Electronic check,No,No,No,No,0,2,6.7,46.5,4.48,0,1
+CUST100874,25,25,Month-to-month,DSL,Southern,95.92,2341.14,Electronic check,Yes,No,Yes,No,2,2,6.4,54.1,3.31,0,1
+CUST100875,58,51,Month-to-month,Fiber optic,Western,48.15,2153.79,Electronic check,No,No,Yes,Yes,0,1,5.1,51.6,4.5,0,1
+CUST100876,47,30,Month-to-month,No,Southern,79.07,2324.69,Electronic check,Yes,No,No,No,0,1,3.1,23.3,19.64,0,1
+CUST100877,49,34,Month-to-month,Fiber optic,Sabaragamuwa,94.14,3059.47,Mailed check,Yes,No,No,No,1,4,9.2,70.8,12.98,0,1
+CUST100878,61,32,Two year,DSL,Eastern,87.84,2996.82,Mailed check,Yes,No,Yes,No,1,1,6.2,44.1,5.58,0,1
+CUST100879,49,19,Two year,Fiber optic,Northern,117.99,2295.05,Credit card,No,Yes,Yes,Yes,0,0,5.8,88.5,14.87,0,1
+CUST100880,54,10,Month-to-month,Fiber optic,Southern,53.68,535.42,Electronic check,Yes,No,Yes,No,0,0,5.4,83.1,0.0,0,1
+CUST100881,22,60,Month-to-month,Fiber optic,Southern,38.9,2324.91,Mailed check,Yes,No,No,No,3,2,8.9,121.9,17.63,0,1
+CUST100882,67,7,Month-to-month,DSL,North Central,48.14,384.09,Credit card,No,No,No,No,1,2,8.2,57.6,17.07,1,0
+CUST100883,44,24,Month-to-month,DSL,Sabaragamuwa,87.85,2270.53,Electronic check,Yes,No,Yes,No,0,1,4.9,36.9,23.65,0,1
+CUST100884,27,49,Month-to-month,No,North Central,83.95,4109.83,Bank transfer,No,Yes,Yes,No,2,1,8.7,13.6,15.08,0,0
+CUST100885,65,10,Two year,Fiber optic,North Central,74.45,739.9,Credit card,Yes,Yes,Yes,No,0,1,6.3,141.8,11.06,0,1
+CUST100886,60,48,One year,DSL,Eastern,45.05,1855.18,Electronic check,Yes,Yes,Yes,No,0,1,5.5,88.2,17.04,0,1
+CUST100887,21,53,Month-to-month,Fiber optic,Western,90.4,5427.53,Bank transfer,No,Yes,Yes,Yes,0,0,6.1,40.8,3.62,0,1
+CUST100888,29,48,Month-to-month,DSL,North Central,42.61,1934.2,Credit card,Yes,No,No,Yes,0,0,5.2,124.3,5.23,0,1
+CUST100889,18,22,One year,DSL,Uva,99.81,2035.14,Electronic check,Yes,No,Yes,No,1,1,4.2,112.5,7.55,0,1
+CUST100890,33,2,Month-to-month,Fiber optic,Eastern,140.58,323.28,Bank transfer,Yes,No,Yes,No,1,0,8.0,17.7,17.58,0,1
+CUST100891,23,64,Month-to-month,Fiber optic,Western,80.79,5510.11,Bank transfer,No,No,No,No,0,0,6.2,38.6,2.01,1,1
+CUST100892,59,24,Month-to-month,Fiber optic,North Central,85.99,1783.62,Credit card,Yes,No,No,No,0,1,7.7,60.4,1.27,0,1
+CUST100893,48,58,Month-to-month,No,Sabaragamuwa,60.17,3031.24,Mailed check,No,No,Yes,No,0,0,7.1,,9.66,0,0
+CUST100894,74,15,Month-to-month,Fiber optic,Southern,28.55,367.35,Credit card,Yes,No,Yes,No,1,0,7.6,61.6,13.02,1,1
+CUST100895,61,12,One year,DSL,Central,57.53,711.05,Credit card,Yes,No,Yes,Yes,1,1,2.9,89.9,3.08,0,1
+CUST100896,53,57,Month-to-month,Fiber optic,North Central,45.77,2273.59,Credit card,Yes,No,Yes,No,2,0,5.0,16.9,12.69,0,0
+CUST100897,47,68,One year,Fiber optic,Southern,37.27,2864.01,Credit card,Yes,No,No,Yes,3,2,7.6,75.3,17.58,0,1
+CUST100898,21,62,Month-to-month,Fiber optic,North Central,113.34,7947.9,Bank transfer,Yes,No,Yes,No,1,2,4.3,105.9,16.4,0,1
+CUST100899,22,55,Two year,No,North Central,78.55,4379.87,Electronic check,Yes,Yes,No,No,2,4,7.3,79.0,10.47,0,1
+CUST100900,53,18,Month-to-month,Fiber optic,Southern,81.11,1511.11,Credit card,Yes,No,No,Yes,1,2,4.1,62.4,7.37,1,1
+CUST100901,18,66,Month-to-month,DSL,Western,64.58,3996.39,Credit card,Yes,No,Yes,Yes,0,0,6.6,41.6,20.15,0,1
+CUST100902,20,49,Month-to-month,DSL,North Western,67.85,2889.8,Bank transfer,Yes,No,Yes,Yes,2,0,9.5,94.1,8.11,0,1
+CUST100903,30,13,Month-to-month,Fiber optic,Northern,95.15,1325.06,Mailed check,Yes,No,Yes,No,1,2,8.0,23.8,14.58,0,1
+CUST100904,69,10,Month-to-month,No,Uva,71.22,627.15,Credit card,Yes,No,Yes,No,2,1,3.3,73.5,21.71,1,1
+CUST100905,44,63,One year,DSL,Northern,84.74,4674.67,Bank transfer,Yes,No,No,Yes,0,1,8.1,65.9,13.85,1,1
+CUST100906,59,20,Month-to-month,DSL,Southern,67.3,1269.69,Electronic check,Yes,No,Yes,No,0,1,9.9,104.4,1.02,0,1
+CUST100907,41,56,Month-to-month,Fiber optic,Uva,63.79,3049.68,Electronic check,No,No,No,Yes,1,0,10.0,44.6,0.0,0,1
+CUST100908,28,10,Month-to-month,DSL,North Central,38.23,374.77,Bank transfer,Yes,No,No,No,0,0,7.5,47.6,5.92,0,1
+CUST100909,39,21,One year,DSL,North Western,24.53,547.31,Bank transfer,No,Yes,No,No,2,2,4.1,21.5,12.97,1,1
+CUST100910,23,21,Two year,No,Sabaragamuwa,65.72,1504.95,Electronic check,Yes,No,No,Yes,2,1,7.4,80.3,11.11,0,1
+CUST100911,62,21,One year,Fiber optic,Uva,73.36,1588.68,Electronic check,No,No,No,Yes,2,0,9.5,50.2,23.45,0,1
+CUST100912,28,49,Month-to-month,No,Uva,41.13,2225.25,Electronic check,Yes,Yes,No,No,0,1,6.3,34.8,11.05,0,1
+CUST100913,39,66,One year,Fiber optic,Uva,71.17,4565.63,Credit card,Yes,No,No,No,0,0,8.5,38.2,5.71,0,0
+CUST100914,74,66,One year,DSL,Northern,73.29,5343.26,Credit card,Yes,Yes,Yes,Yes,1,1,,83.8,0.07,0,1
+CUST100915,52,54,Month-to-month,No,Western,20.26,1095.94,Bank transfer,Yes,Yes,Yes,No,1,0,7.3,26.4,16.26,1,1
+CUST100916,44,15,Month-to-month,DSL,North Western,50.04,688.19,Electronic check,No,No,Yes,No,1,0,2.1,29.5,7.96,0,1
+CUST100917,49,70,One year,DSL,North Central,81.77,6486.92,Electronic check,Yes,Yes,Yes,Yes,1,1,4.9,96.4,0.0,0,1
+CUST100918,63,40,Month-to-month,No,Sabaragamuwa,81.29,3032.07,Electronic check,Yes,No,No,No,0,0,6.6,59.2,8.16,0,1
+CUST100919,32,40,One year,Fiber optic,North Central,44.31,1520.53,Bank transfer,Yes,No,Yes,No,0,2,5.9,98.4,1.03,0,1
+CUST100920,54,51,Month-to-month,No,North Western,75.8,3567.5,Electronic check,No,No,No,Yes,1,0,4.3,52.4,5.02,0,1
+CUST100921,68,56,Month-to-month,DSL,North Western,96.54,5189.9,Electronic check,No,Yes,No,No,0,1,5.7,65.0,8.04,0,1
+CUST100922,51,69,Month-to-month,No,Central,90.65,5975.9,Mailed check,No,No,Yes,Yes,0,2,7.2,70.5,1.66,0,1
+CUST100923,43,42,One year,Fiber optic,Western,69.71,2949.62,Bank transfer,No,Yes,No,Yes,0,1,6.4,113.6,4.59,0,1
+CUST100924,26,44,Two year,Fiber optic,Western,60.77,2981.14,Credit card,No,No,Yes,Yes,1,2,6.7,110.7,2.79,0,1
+CUST100925,32,54,Month-to-month,No,Sabaragamuwa,56.9,2880.97,Electronic check,Yes,No,No,No,0,0,7.9,105.4,2.98,0,1
+CUST100926,72,19,Month-to-month,Fiber optic,Uva,83.23,1591.18,Electronic check,Yes,No,No,No,1,1,6.0,43.0,0.94,1,1
+CUST100927,49,23,Month-to-month,Fiber optic,Southern,76.68,1679.11,Mailed check,Yes,No,Yes,No,0,0,9.0,30.5,4.62,0,1
+CUST100928,35,46,Month-to-month,Fiber optic,Northern,87.11,4393.65,Bank transfer,Yes,No,No,Yes,0,0,4.8,91.6,1.74,0,1
+CUST100929,42,5,Two year,Fiber optic,Eastern,75.16,337.22,Credit card,No,Yes,Yes,No,2,0,10.0,113.2,12.11,1,1
+CUST100930,51,24,Month-to-month,No,Southern,91.65,1937.97,Mailed check,Yes,No,No,No,3,1,8.6,105.7,9.41,1,1
+CUST100931,49,52,Month-to-month,Fiber optic,Northern,74.27,,Bank transfer,Yes,No,No,Yes,1,0,6.0,65.5,16.36,0,1
+CUST100932,58,71,Month-to-month,DSL,Northern,90.83,6781.67,Electronic check,No,No,Yes,Yes,0,0,6.1,90.5,21.21,0,1
+CUST100933,32,38,Two year,DSL,North Central,92.9,3843.17,Bank transfer,Yes,Yes,No,No,2,2,7.0,91.1,12.74,0,1
+CUST100934,55,29,Month-to-month,No,North Central,52.69,1569.13,Electronic check,Yes,Yes,No,Yes,4,2,7.7,70.2,11.15,0,1
+CUST100935,43,32,One year,No,Western,28.6,990.55,Electronic check,Yes,No,No,No,2,0,8.6,71.7,13.18,0,1
+CUST100936,72,50,Month-to-month,No,Eastern,109.04,5276.7,Electronic check,No,Yes,No,No,0,0,4.2,68.4,11.27,0,1
+CUST100937,27,40,Month-to-month,DSL,Sabaragamuwa,78.16,2688.26,Mailed check,Yes,No,No,Yes,1,0,7.4,37.4,8.35,0,1
+CUST100938,26,2,One year,Fiber optic,Uva,30.85,54.6,Credit card,Yes,No,Yes,No,0,1,2.8,41.0,7.79,0,1
+CUST100939,44,39,Month-to-month,Fiber optic,Uva,54.87,1843.74,Electronic check,Yes,No,No,No,0,1,6.3,40.4,0.85,0,1
+CUST100940,47,29,One year,Fiber optic,North Central,90.52,2490.51,Electronic check,No,No,No,No,0,1,9.2,9.0,13.87,0,1
+CUST100941,58,51,Month-to-month,DSL,Western,65.29,3325.17,Credit card,Yes,Yes,Yes,No,0,0,4.0,70.0,7.78,0,1
+CUST100942,41,64,One year,Fiber optic,Sabaragamuwa,59.71,3656.75,Mailed check,Yes,No,Yes,No,2,0,3.7,63.6,18.15,0,1
+CUST100943,70,70,One year,DSL,North Central,105.62,7527.89,Electronic check,No,No,Yes,No,0,1,7.0,91.7,14.41,0,1
+CUST100944,45,44,One year,Fiber optic,Uva,46.87,2050.07,Electronic check,No,Yes,Yes,Yes,0,2,9.1,109.1,3.62,0,1
+CUST100945,25,27,Month-to-month,DSL,Sabaragamuwa,,1502.96,Credit card,Yes,No,Yes,No,0,1,,111.4,16.73,0,1
+CUST100946,24,32,One year,DSL,Southern,77.07,2589.88,Mailed check,Yes,No,Yes,Yes,2,0,3.2,114.6,0.0,1,1
+CUST100947,74,13,Two year,DSL,Western,81.37,1000.09,Mailed check,Yes,Yes,No,No,1,0,3.6,38.5,21.51,1,1
+CUST100948,25,68,Month-to-month,No,North Western,83.91,5442.78,Electronic check,No,No,Yes,No,0,1,6.8,14.9,0.0,0,0
+CUST100949,72,62,Month-to-month,Fiber optic,Eastern,,5968.59,Electronic check,Yes,Yes,Yes,Yes,1,2,,97.6,11.47,1,1
+CUST100950,34,62,One year,No,Western,76.77,4897.18,Bank transfer,No,No,No,No,1,2,6.8,113.4,10.99,0,1
+CUST100951,23,24,Month-to-month,Fiber optic,Southern,83.75,1898.16,Electronic check,No,No,Yes,Yes,1,0,7.0,119.5,15.87,0,1
+CUST100952,35,24,One year,Fiber optic,Sabaragamuwa,65.78,1498.33,Mailed check,Yes,No,No,Yes,0,0,5.7,82.0,5.7,0,1
+CUST100953,53,62,One year,Fiber optic,Northern,73.5,4822.59,Electronic check,Yes,No,No,Yes,0,0,9.9,2.0,0.0,0,0
+CUST100954,42,40,Month-to-month,Fiber optic,Southern,74.58,,Credit card,No,Yes,No,No,2,1,7.7,77.8,5.71,0,1
+CUST100955,63,51,Month-to-month,Fiber optic,North Western,77.16,3504.43,Mailed check,No,No,No,Yes,0,0,8.8,84.4,6.47,0,1
+CUST100956,53,36,One year,Fiber optic,North Western,90.54,3201.82,Mailed check,No,Yes,Yes,No,0,3,8.3,108.8,0.0,1,1
+CUST100957,41,32,Month-to-month,Fiber optic,Southern,85.32,3052.02,Credit card,Yes,No,Yes,No,0,1,6.3,115.0,8.32,1,1
+CUST100958,54,46,Two year,No,Uva,73.06,2893.3,Mailed check,No,Yes,No,Yes,1,1,6.2,96.8,0.47,1,1
+CUST100959,74,59,Month-to-month,DSL,North Western,52.58,3432.82,Electronic check,No,Yes,No,No,0,0,6.1,44.4,12.54,0,1
+CUST100960,41,25,Month-to-month,Fiber optic,Central,73.62,1654.62,Bank transfer,No,Yes,No,Yes,1,2,7.8,29.0,6.28,1,1
+CUST100961,26,59,Two year,DSL,Southern,71.33,4217.48,Electronic check,Yes,Yes,No,No,0,1,5.4,83.7,21.73,0,1
+CUST100962,41,18,Month-to-month,DSL,Uva,76.64,1348.14,Mailed check,Yes,Yes,Yes,Yes,0,0,9.7,37.3,6.21,0,1
+CUST100963,66,30,One year,Fiber optic,Western,124.96,3197.79,Mailed check,Yes,Yes,No,No,0,0,5.3,116.6,11.01,0,1
+CUST100964,30,66,Month-to-month,Fiber optic,Western,59.43,4411.14,Electronic check,No,No,No,No,1,0,7.0,5.3,6.51,1,0
+CUST100965,73,69,Month-to-month,Fiber optic,North Western,82.13,5590.67,Electronic check,No,No,No,Yes,1,0,6.2,84.8,0.0,0,1
+CUST100966,52,67,Month-to-month,DSL,Northern,97.64,7433.65,Bank transfer,Yes,Yes,Yes,Yes,2,0,5.8,76.2,6.57,0,1
+CUST100967,52,23,One year,No,Southern,74.35,1600.69,Electronic check,Yes,No,No,Yes,0,1,10.0,57.8,13.27,1,1
+CUST100968,36,61,One year,No,Eastern,128.11,8673.3,Credit card,Yes,No,Yes,Yes,0,2,5.8,32.6,12.21,0,0
+CUST100969,71,68,Two year,Fiber optic,Central,62.93,4821.27,Electronic check,Yes,No,No,No,1,1,6.1,2.0,5.95,0,0
+CUST100970,20,71,Two year,No,Northern,79.78,5760.82,Credit card,No,No,Yes,No,1,1,5.4,46.4,0.0,0,1
+CUST100971,35,2,One year,DSL,Southern,52.83,96.23,Bank transfer,Yes,No,No,No,0,0,,47.0,12.51,0,0
+CUST100972,42,54,One year,Fiber optic,North Western,63.56,3623.18,Bank transfer,Yes,No,Yes,No,1,0,6.4,103.9,10.94,0,1
+CUST100973,45,72,Month-to-month,No,North Central,77.97,5696.65,Electronic check,No,Yes,No,No,2,1,4.6,37.6,13.9,0,1
+CUST100974,45,56,Two year,Fiber optic,Sabaragamuwa,92.31,5858.82,Mailed check,Yes,No,No,No,1,1,5.8,80.8,6.08,0,1
+CUST100975,26,17,One year,Fiber optic,Western,79.66,1329.52,Credit card,Yes,No,Yes,Yes,3,1,7.7,19.8,0.0,0,1
+CUST100976,31,55,Two year,Fiber optic,Southern,102.22,5231.6,Bank transfer,Yes,No,No,Yes,1,0,8.4,81.8,11.74,0,1
+CUST100977,23,8,Month-to-month,Fiber optic,Southern,69.72,497.24,Bank transfer,Yes,No,No,Yes,0,0,6.6,2.0,7.94,0,1
+CUST100978,51,35,Month-to-month,Fiber optic,North Western,64.03,2374.52,Mailed check,Yes,No,No,Yes,1,0,6.7,138.3,17.74,0,1
+CUST100979,38,46,One year,DSL,Eastern,136.9,7192.87,Credit card,Yes,No,Yes,Yes,0,2,6.0,60.1,8.2,0,1
+CUST100980,50,33,Month-to-month,DSL,Uva,81.46,2307.86,Credit card,Yes,Yes,No,Yes,0,1,5.7,2.0,7.68,0,0
+CUST100981,52,51,Month-to-month,Fiber optic,Sabaragamuwa,54.73,2992.71,Credit card,Yes,Yes,No,Yes,2,4,4.9,39.9,10.92,0,1
+CUST100982,58,18,Two year,Fiber optic,North Central,55.34,1123.65,Mailed check,Yes,No,No,No,0,0,3.8,34.4,3.82,0,1
+CUST100983,49,44,Month-to-month,Fiber optic,Central,49.38,1895.39,Electronic check,Yes,Yes,No,Yes,1,1,5.3,42.0,3.48,1,1
+CUST100984,55,47,Month-to-month,No,Western,94.48,3921.14,Credit card,Yes,No,No,Yes,0,0,8.2,52.2,7.31,0,1
+CUST100985,52,46,Month-to-month,Fiber optic,Sabaragamuwa,63.25,3077.29,Bank transfer,Yes,Yes,Yes,Yes,0,0,5.8,41.8,1.56,0,1
+CUST100986,55,21,Month-to-month,Fiber optic,Sabaragamuwa,75.06,1646.16,Credit card,Yes,No,Yes,No,1,3,6.0,,6.4,0,1
+CUST100987,53,22,One year,Fiber optic,Southern,70.48,1349.91,Mailed check,No,No,Yes,No,2,0,5.9,24.4,21.58,0,0
+CUST100988,36,19,Two year,Fiber optic,Western,89.56,1872.27,Mailed check,Yes,No,Yes,No,1,0,8.8,93.8,15.3,0,1
+CUST100989,32,34,Two year,Fiber optic,North Central,51.68,1769.4,Bank transfer,Yes,No,Yes,Yes,0,1,4.9,107.0,10.16,1,1
+CUST100990,63,43,One year,Fiber optic,North Western,46.19,2228.62,Bank transfer,Yes,No,Yes,Yes,0,2,7.1,56.1,18.86,0,1
+CUST100991,37,27,One year,Fiber optic,Uva,77.38,2326.27,Mailed check,Yes,No,No,Yes,2,1,6.5,64.4,2.23,0,1
+CUST100992,49,30,Month-to-month,Fiber optic,North Western,86.42,,Mailed check,Yes,No,No,Yes,1,1,6.7,25.6,25.43,0,1
+CUST100993,29,21,Two year,Fiber optic,North Central,79.98,1687.61,Credit card,Yes,No,Yes,No,1,2,7.0,67.5,4.78,0,1
+CUST100994,43,16,Month-to-month,Fiber optic,Uva,52.57,778.51,Electronic check,Yes,Yes,No,No,0,0,6.7,73.0,22.03,0,1
+CUST100995,48,48,Month-to-month,DSL,Western,88.26,4244.06,Electronic check,No,No,No,Yes,1,4,8.0,57.3,22.0,0,1
+CUST100996,54,59,Two year,Fiber optic,Central,54.15,2812.11,Mailed check,Yes,No,No,Yes,0,0,6.5,78.9,0.0,0,1
+CUST100997,48,21,Two year,Fiber optic,Uva,59.48,1308.67,Credit card,Yes,No,No,No,0,1,9.7,75.8,18.27,0,1
+CUST100998,38,62,Month-to-month,DSL,Central,49.35,2723.45,Credit card,No,No,No,No,0,1,6.7,28.1,6.01,0,0
+CUST100999,73,42,One year,Fiber optic,Central,103.23,4350.1,Credit card,Yes,No,No,Yes,1,0,3.5,106.8,4.02,0,1
+CUST101000,47,13,Month-to-month,Fiber optic,North Central,87.2,982.08,Bank transfer,Yes,No,No,Yes,1,0,7.7,,11.67,0,1
+CUST101001,64,27,Month-to-month,Fiber optic,Central,86.52,2195.53,Bank transfer,Yes,No,No,No,1,3,7.3,123.6,0.94,0,1
+CUST101002,60,1,Month-to-month,Fiber optic,Central,101.93,93.74,Credit card,Yes,No,Yes,Yes,1,1,6.7,79.7,11.51,0,1
+CUST101003,50,3,Month-to-month,DSL,Western,139.5,433.58,Electronic check,No,No,No,No,1,0,6.1,134.0,1.41,0,1
+CUST101004,69,25,Month-to-month,DSL,Eastern,30.98,841.1,Credit card,Yes,Yes,No,No,1,1,2.8,106.1,9.24,0,1
+CUST101005,25,33,Month-to-month,Fiber optic,North Western,54.28,1553.32,Credit card,Yes,No,No,Yes,0,1,3.1,73.0,17.35,0,1
+CUST101006,71,58,Month-to-month,Fiber optic,North Central,57.21,3666.99,Credit card,No,Yes,No,No,1,0,9.6,39.7,10.71,1,1
+CUST101007,67,10,Month-to-month,Fiber optic,Sabaragamuwa,51.58,571.63,Electronic check,Yes,Yes,Yes,Yes,0,1,5.5,40.4,5.48,0,1
+CUST101008,47,61,Two year,Fiber optic,North Western,46.14,2681.24,Credit card,Yes,Yes,Yes,Yes,1,0,8.3,83.7,11.79,0,1
+CUST101009,60,17,One year,Fiber optic,North Central,64.81,1154.3,Electronic check,Yes,No,No,Yes,0,0,3.7,70.0,0.0,0,1
+CUST101010,48,10,Two year,DSL,Central,42.8,415.51,Electronic check,Yes,Yes,No,No,1,0,,44.4,2.13,0,1
+CUST101011,33,51,Month-to-month,Fiber optic,Northern,80.04,3658.6,Bank transfer,Yes,Yes,No,Yes,0,1,7.8,94.2,4.99,0,1
+CUST101012,64,56,One year,DSL,Southern,73.24,4136.75,Electronic check,Yes,Yes,No,Yes,0,1,6.4,66.4,13.51,0,1
+CUST101013,32,44,Two year,Fiber optic,Western,83.54,3219.81,Mailed check,Yes,No,No,No,0,1,7.6,94.4,10.84,0,1
+CUST101014,36,9,Month-to-month,DSL,Sabaragamuwa,84.19,843.7,Mailed check,No,No,No,Yes,0,2,6.6,30.9,11.75,0,1
+CUST101015,48,9,Month-to-month,Fiber optic,Southern,86.47,877.31,Electronic check,No,No,Yes,No,1,1,6.2,,7.81,0,1
+CUST101016,66,29,Month-to-month,Fiber optic,Eastern,,2004.49,Credit card,No,No,No,No,0,1,5.4,82.5,2.48,0,1
+CUST101017,40,33,Month-to-month,Fiber optic,Northern,122.91,4132.03,Bank transfer,Yes,Yes,Yes,No,1,0,4.5,106.9,18.42,0,1
+CUST101018,46,72,Month-to-month,DSL,Western,77.63,5685.67,Credit card,No,No,No,No,0,0,9.1,,3.12,0,1
+CUST101019,20,21,Month-to-month,DSL,Sabaragamuwa,27.3,656.66,Mailed check,Yes,Yes,Yes,No,0,0,9.4,62.0,10.93,1,0
+CUST101020,24,14,Month-to-month,Fiber optic,Central,47.94,620.44,Bank transfer,No,No,No,Yes,0,0,4.7,59.2,7.22,0,1
+CUST101021,21,69,One year,Fiber optic,Western,30.23,1820.39,Electronic check,No,No,Yes,No,0,1,4.6,127.4,11.94,0,1
+CUST101022,22,12,Month-to-month,DSL,Northern,72.42,885.14,Electronic check,Yes,No,Yes,No,0,2,,54.8,3.76,0,1
+CUST101023,68,2,Month-to-month,No,Central,69.08,131.06,Bank transfer,Yes,Yes,No,No,3,0,7.2,91.2,15.37,0,1
+CUST101024,66,31,One year,Fiber optic,Sabaragamuwa,60.76,1783.1,Mailed check,No,Yes,No,No,1,0,6.3,51.7,17.65,0,1
+CUST101025,65,29,Month-to-month,Fiber optic,Central,120.26,2971.88,Bank transfer,No,No,Yes,No,0,1,7.5,2.0,14.94,1,1
+CUST101026,21,45,Month-to-month,DSL,Southern,85.18,3943.56,Bank transfer,Yes,No,No,No,2,0,6.5,22.0,9.1,0,1
+CUST101027,22,64,Month-to-month,Fiber optic,Southern,89.43,5318.14,Electronic check,No,No,Yes,Yes,1,2,6.4,79.2,4.95,0,1
+CUST101028,34,68,Month-to-month,DSL,Western,49.65,3060.31,Mailed check,Yes,No,Yes,No,0,2,10.0,89.5,27.75,0,1
+CUST101029,50,21,Month-to-month,DSL,Western,48.02,869.4,Electronic check,Yes,No,Yes,No,0,0,5.7,79.3,1.06,0,1
+CUST101030,37,71,Month-to-month,Fiber optic,Eastern,72.88,4964.15,Credit card,Yes,Yes,No,No,0,1,9.6,105.1,14.17,0,1
+CUST101031,46,46,Month-to-month,Fiber optic,Southern,76.15,3901.26,Credit card,No,No,No,Yes,2,1,9.2,78.7,10.33,0,1
+CUST101032,28,6,Two year,No,Western,27.45,156.62,Electronic check,Yes,Yes,No,No,5,3,7.5,37.9,7.56,0,1
+CUST101033,60,68,Two year,No,Southern,67.67,4848.95,Electronic check,Yes,No,No,No,0,0,3.1,85.8,9.3,0,1
+CUST101034,36,10,Month-to-month,DSL,Southern,72.34,779.05,Bank transfer,Yes,No,No,No,1,0,6.7,70.9,4.43,0,1
+CUST101035,21,43,Month-to-month,DSL,Northern,66.84,2725.76,Electronic check,Yes,No,No,No,0,1,5.7,44.9,10.99,0,1
+CUST101036,61,57,Month-to-month,Fiber optic,Sabaragamuwa,52.48,3279.92,Credit card,Yes,No,No,No,0,0,6.6,81.5,10.22,1,1
+CUST101037,70,18,Two year,No,Southern,59.05,1124.11,Credit card,Yes,Yes,Yes,Yes,0,1,4.7,67.8,26.74,0,1
+CUST101038,18,20,One year,No,North Central,67.76,1379.19,Electronic check,No,No,Yes,Yes,2,0,8.0,43.8,15.5,0,0
+CUST101039,43,35,Month-to-month,DSL,North Central,74.18,2207.6,Bank transfer,Yes,No,Yes,No,1,2,8.4,58.8,11.61,1,1
+CUST101040,65,64,Month-to-month,DSL,Western,86.51,4764.7,Electronic check,Yes,No,No,No,1,0,8.7,114.5,12.03,0,1
+CUST101041,58,17,Month-to-month,DSL,Eastern,97.94,1910.18,Electronic check,Yes,No,No,No,0,2,5.9,113.3,20.88,0,1
+CUST101042,67,48,Two year,Fiber optic,Eastern,64.94,,Credit card,Yes,No,Yes,Yes,1,2,4.7,71.6,1.21,0,1
+CUST101043,42,33,Two year,Fiber optic,Eastern,61.05,2279.2,Credit card,Yes,Yes,No,Yes,0,0,7.2,67.0,6.72,0,0
+CUST101044,39,9,Month-to-month,Fiber optic,Central,82.5,832.15,Credit card,Yes,No,No,Yes,0,1,9.8,14.8,0.0,1,0
+CUST101045,59,52,One year,Fiber optic,Eastern,86.66,3858.02,Electronic check,Yes,No,Yes,No,0,0,6.7,125.2,11.91,0,1
+CUST101046,26,60,Month-to-month,DSL,Central,61.58,4018.24,Bank transfer,Yes,Yes,Yes,No,1,0,7.4,101.3,13.94,0,1
+CUST101047,31,42,One year,Fiber optic,Sabaragamuwa,90.97,3764.72,Bank transfer,Yes,No,Yes,No,0,1,6.2,91.3,1.03,0,1
+CUST101048,52,13,Two year,DSL,North Western,95.51,1349.49,Mailed check,No,No,Yes,No,2,2,5.7,2.0,18.05,0,1
+CUST101049,56,12,Month-to-month,Fiber optic,Western,103.0,1053.1,Credit card,Yes,Yes,No,No,1,2,7.8,66.4,2.97,0,1
+CUST101050,24,31,Month-to-month,Fiber optic,Eastern,114.68,3329.18,Mailed check,Yes,Yes,No,Yes,0,3,6.4,60.6,5.6,0,1
+CUST101051,47,37,One year,Fiber optic,Sabaragamuwa,51.21,2037.47,Electronic check,Yes,No,Yes,No,1,2,7.3,88.9,8.84,0,1
+CUST101052,39,40,Month-to-month,DSL,North Central,72.33,3147.69,Bank transfer,Yes,No,No,No,0,0,7.5,49.2,19.16,0,1
+CUST101053,47,18,One year,Fiber optic,Southern,,1347.59,Credit card,Yes,Yes,Yes,No,4,1,7.2,56.9,1.99,0,1
+CUST101054,73,37,Month-to-month,Fiber optic,Sabaragamuwa,69.65,2423.27,Bank transfer,No,Yes,Yes,No,1,0,7.6,86.7,10.04,0,1
+CUST101055,22,22,Two year,DSL,Central,56.42,1170.58,Credit card,Yes,Yes,Yes,Yes,1,0,5.1,37.9,13.42,0,1
+CUST101056,75,50,Month-to-month,DSL,Southern,36.35,2071.8,Bank transfer,Yes,Yes,No,Yes,0,2,5.0,44.9,11.98,0,1
+CUST101057,44,58,Month-to-month,Fiber optic,Central,74.22,4226.5,Mailed check,Yes,No,No,No,0,0,6.5,71.8,12.24,0,1
+CUST101058,62,47,Month-to-month,DSL,Sabaragamuwa,53.56,2477.36,Electronic check,Yes,Yes,No,No,1,0,6.6,111.8,13.33,0,1
+CUST101059,42,1,Month-to-month,DSL,North Central,74.06,75.23,Mailed check,No,Yes,Yes,Yes,2,0,5.7,93.3,4.12,0,1
+CUST101060,36,72,Month-to-month,DSL,Eastern,52.94,3708.4,Bank transfer,Yes,Yes,No,No,0,1,7.0,102.6,19.81,1,1
+CUST101061,62,2,One year,DSL,North Central,45.61,92.66,Bank transfer,Yes,No,Yes,Yes,0,1,8.2,67.2,7.22,1,1
+CUST101062,57,72,Month-to-month,Fiber optic,Southern,77.62,5475.42,Bank transfer,Yes,No,Yes,No,2,0,,117.3,6.29,0,1
+CUST101063,26,3,Month-to-month,Fiber optic,Western,75.62,249.1,Electronic check,Yes,No,No,No,1,1,9.1,4.1,17.43,0,1
+CUST101064,58,38,Month-to-month,DSL,Uva,,3664.89,Mailed check,Yes,No,No,Yes,0,0,4.2,135.8,3.59,1,1
+CUST101065,61,8,Month-to-month,Fiber optic,Sabaragamuwa,124.46,1124.76,Mailed check,Yes,No,Yes,No,0,0,4.5,140.3,10.24,0,1
+CUST101066,40,7,Two year,DSL,Western,78.65,561.2,Mailed check,Yes,No,No,No,0,1,6.1,81.0,2.94,0,1
+CUST101067,71,50,Two year,DSL,Western,83.64,4109.52,Mailed check,Yes,No,No,No,0,3,6.7,94.1,25.63,0,1
+CUST101068,55,53,Month-to-month,DSL,North Western,46.14,2595.91,Credit card,Yes,No,No,Yes,1,2,6.2,63.7,24.16,0,1
+CUST101069,37,9,One year,Fiber optic,Western,41.11,407.58,Bank transfer,Yes,Yes,No,Yes,2,2,5.6,57.7,7.23,0,1
+CUST101070,18,71,One year,No,North Central,109.99,7956.69,Credit card,Yes,No,Yes,No,0,1,6.1,43.6,11.64,0,1
+CUST101071,57,24,Two year,Fiber optic,Sabaragamuwa,49.84,1267.83,Electronic check,No,No,No,No,1,1,7.5,63.3,8.04,0,0
+CUST101072,30,23,Month-to-month,DSL,Southern,46.95,1160.64,Credit card,Yes,No,Yes,No,1,0,4.2,84.5,5.56,0,1
+CUST101073,61,22,Month-to-month,DSL,Southern,71.06,1646.09,Bank transfer,No,Yes,Yes,No,1,0,10.0,,8.84,0,1
+CUST101074,48,34,Month-to-month,DSL,Uva,69.84,2549.73,Credit card,No,No,No,No,1,0,6.6,134.5,7.72,0,1
+CUST101075,45,13,Two year,Fiber optic,Northern,50.34,597.22,Bank transfer,Yes,No,No,Yes,0,0,8.5,68.5,0.0,1,1
+CUST101076,27,31,One year,DSL,Southern,64.68,2004.12,Bank transfer,Yes,Yes,Yes,No,1,0,5.6,12.9,9.84,0,0
+CUST101077,59,16,Month-to-month,No,Western,101.51,1667.09,Electronic check,No,Yes,No,No,1,1,7.6,122.6,7.7,0,1
+CUST101078,27,4,Month-to-month,Fiber optic,Uva,52.66,179.19,Bank transfer,Yes,Yes,No,Yes,1,2,6.8,22.3,10.19,0,0
+CUST101079,42,27,One year,Fiber optic,Sabaragamuwa,38.55,1152.06,Bank transfer,Yes,No,No,Yes,2,0,8.1,45.4,7.46,0,0
+CUST101080,66,49,Two year,Fiber optic,Western,94.62,4789.53,Electronic check,Yes,No,Yes,No,1,0,6.2,74.5,5.48,0,1
+CUST101081,71,55,Month-to-month,DSL,Uva,83.82,4096.95,Electronic check,Yes,No,Yes,No,0,0,9.4,79.6,14.12,0,1
+CUST101082,75,26,One year,Fiber optic,Central,57.11,1625.71,Credit card,No,No,Yes,No,0,1,3.9,14.4,11.73,0,0
+CUST101083,73,24,Month-to-month,DSL,Central,34.03,869.85,Electronic check,No,No,Yes,Yes,0,1,8.3,38.9,17.77,1,0
+CUST101084,50,57,Month-to-month,Fiber optic,Northern,54.13,3324.44,Credit card,No,No,Yes,No,1,1,6.8,,11.46,0,0
+CUST101085,29,50,Month-to-month,Fiber optic,Northern,70.69,3419.89,Electronic check,No,Yes,Yes,Yes,1,2,4.8,86.8,6.62,0,1
+CUST101086,66,60,One year,DSL,Uva,99.98,6635.98,Bank transfer,Yes,Yes,Yes,Yes,1,2,10.0,106.4,12.32,1,1
+CUST101087,64,66,Two year,Fiber optic,North Central,47.12,3029.84,Electronic check,Yes,No,Yes,No,2,0,9.9,22.2,0.0,0,0
+CUST101088,75,60,Month-to-month,DSL,Central,69.97,4287.1,Bank transfer,No,Yes,No,No,0,1,2.9,99.8,22.73,0,1
+CUST101089,55,68,Month-to-month,DSL,North Western,88.2,5099.32,Bank transfer,No,Yes,No,No,0,0,6.9,97.6,9.92,0,1
+CUST101090,26,30,Month-to-month,Fiber optic,Uva,20.0,626.08,Credit card,No,No,Yes,No,1,1,7.9,41.9,23.29,1,1
+CUST101091,47,29,Month-to-month,Fiber optic,North Western,96.81,2991.27,Bank transfer,No,No,No,No,0,0,7.4,2.0,1.91,0,1
+CUST101092,43,24,Month-to-month,No,Southern,43.62,1067.99,Bank transfer,Yes,Yes,Yes,Yes,0,1,9.3,27.5,0.18,0,0
+CUST101093,66,17,Month-to-month,Fiber optic,Central,79.97,1358.05,Electronic check,Yes,No,Yes,Yes,0,1,9.0,44.2,10.56,0,1
+CUST101094,40,54,Month-to-month,Fiber optic,Eastern,77.92,4598.94,Bank transfer,No,No,No,No,0,0,7.1,119.0,10.54,0,1
+CUST101095,37,52,Month-to-month,DSL,Eastern,98.03,5374.93,Bank transfer,Yes,No,No,No,1,2,10.0,60.9,10.37,0,1
+CUST101096,22,58,Month-to-month,DSL,Northern,85.22,4613.8,Credit card,Yes,No,Yes,Yes,1,3,8.3,29.8,9.3,0,1
+CUST101097,66,13,One year,No,Western,20.0,295.81,Bank transfer,Yes,Yes,Yes,Yes,0,0,6.0,70.2,3.6,0,0
+CUST101098,61,36,Month-to-month,DSL,Central,53.17,2032.96,Credit card,Yes,Yes,No,Yes,2,2,5.6,19.7,0.0,1,0
+CUST101099,20,16,One year,Fiber optic,Eastern,75.32,1381.47,Bank transfer,Yes,Yes,No,Yes,0,0,8.8,83.0,9.98,0,1
+CUST101100,43,65,Two year,DSL,Sabaragamuwa,67.32,4994.48,Electronic check,Yes,No,Yes,No,1,1,5.2,30.8,0.0,0,0
+CUST101101,45,20,One year,DSL,North Western,83.46,1879.03,Electronic check,Yes,No,No,Yes,0,0,5.9,35.9,0.0,0,1
+CUST101102,45,11,Month-to-month,Fiber optic,Northern,90.94,1077.03,Electronic check,Yes,No,Yes,No,1,1,6.2,78.1,5.34,0,1
+CUST101103,71,42,Month-to-month,Fiber optic,Sabaragamuwa,86.6,3756.73,Bank transfer,Yes,No,No,No,0,1,7.2,126.3,11.01,0,1
+CUST101104,26,64,One year,Fiber optic,North Central,66.86,3858.05,Credit card,Yes,No,Yes,No,2,2,6.3,141.9,21.91,0,1
+CUST101105,35,66,Month-to-month,No,North Central,27.69,1851.17,Credit card,No,Yes,No,No,1,1,4.2,28.6,14.85,0,0
+CUST101106,28,7,Month-to-month,DSL,North Western,61.07,461.51,Bank transfer,Yes,Yes,No,Yes,2,0,8.7,44.1,18.03,0,1
+CUST101107,32,24,Month-to-month,Fiber optic,North Central,81.99,1980.14,Electronic check,Yes,No,Yes,Yes,0,2,5.9,83.0,12.58,0,1
+CUST101108,70,12,Month-to-month,DSL,Eastern,45.83,610.71,Credit card,Yes,No,No,Yes,1,1,10.0,105.9,10.57,0,1
+CUST101109,72,23,Month-to-month,Fiber optic,North Western,87.15,1769.73,Electronic check,Yes,No,Yes,Yes,1,0,7.1,2.0,25.54,0,0
+CUST101110,20,39,One year,DSL,North Western,93.8,3527.59,Bank transfer,No,Yes,Yes,Yes,2,0,8.9,68.1,0.0,0,1
+CUST101111,54,21,Month-to-month,Fiber optic,North Central,75.04,1578.76,Credit card,Yes,No,No,Yes,1,2,7.7,47.9,5.11,0,1
+CUST101112,31,5,Month-to-month,DSL,Sabaragamuwa,20.0,97.97,Bank transfer,Yes,Yes,No,Yes,4,0,,2.0,5.65,1,1
+CUST101113,29,37,One year,Fiber optic,Southern,41.33,1349.51,Electronic check,No,No,No,Yes,1,0,7.6,18.2,14.25,0,0
+CUST101114,34,4,Month-to-month,Fiber optic,North Central,117.27,420.32,Electronic check,Yes,Yes,No,No,1,1,7.0,45.1,1.15,0,1
+CUST101115,29,17,One year,No,Western,58.88,1102.4,Credit card,No,No,Yes,Yes,0,0,8.6,67.1,13.34,0,0
+CUST101116,46,1,Month-to-month,DSL,Eastern,24.38,24.27,Electronic check,No,Yes,Yes,Yes,0,0,10.0,100.3,12.06,0,1
+CUST101117,75,7,Month-to-month,No,Sabaragamuwa,101.65,615.19,Credit card,Yes,Yes,No,No,1,1,6.1,77.4,13.69,0,1
+CUST101118,52,32,Two year,DSL,North Western,72.32,1978.57,Bank transfer,No,No,Yes,Yes,0,1,8.0,98.2,13.57,0,1
+CUST101119,59,62,Month-to-month,DSL,Southern,98.52,6059.55,Electronic check,Yes,No,Yes,No,0,1,6.6,65.9,18.77,0,1
+CUST101120,46,56,Month-to-month,DSL,North Western,78.65,3960.79,Electronic check,Yes,No,No,No,2,1,7.5,40.3,7.66,1,1
+CUST101121,18,8,Two year,DSL,Northern,83.01,704.91,Credit card,Yes,No,No,No,2,0,6.7,,11.71,0,1
+CUST101122,22,3,One year,Fiber optic,Northern,80.71,263.59,Bank transfer,Yes,No,No,Yes,0,1,2.7,89.3,2.84,1,1
+CUST101123,33,25,One year,DSL,Southern,88.74,2037.66,Credit card,Yes,Yes,Yes,No,0,1,6.2,101.1,1.25,0,1
+CUST101124,32,47,Month-to-month,Fiber optic,North Western,126.66,6117.56,Bank transfer,Yes,No,Yes,No,0,0,8.4,59.8,20.35,0,1
+CUST101125,66,54,Month-to-month,Fiber optic,Central,95.3,4612.91,Electronic check,Yes,No,No,Yes,1,1,5.2,32.5,2.32,1,1
+CUST101126,66,60,One year,Fiber optic,Northern,34.07,1923.85,Bank transfer,Yes,No,No,Yes,2,0,8.3,76.7,12.49,0,1
+CUST101127,67,25,Month-to-month,Fiber optic,Sabaragamuwa,82.72,2309.21,Bank transfer,Yes,No,Yes,Yes,5,1,6.9,81.7,11.72,0,1
+CUST101128,54,13,Month-to-month,Fiber optic,North Central,99.4,1309.24,Bank transfer,Yes,No,Yes,No,1,1,6.3,108.1,16.22,0,1
+CUST101129,50,2,One year,DSL,Northern,100.86,225.08,Credit card,Yes,Yes,Yes,Yes,1,2,8.2,41.2,0.0,0,1
+CUST101130,55,11,Month-to-month,Fiber optic,Sabaragamuwa,61.76,623.38,Mailed check,Yes,No,No,Yes,0,1,7.8,41.6,14.24,1,1
+CUST101131,41,5,Month-to-month,DSL,Western,99.96,474.31,Credit card,No,No,No,No,0,1,7.4,91.5,7.59,0,1
+CUST101132,56,62,Month-to-month,DSL,Sabaragamuwa,94.27,5793.55,Credit card,Yes,No,No,No,0,4,8.4,,3.8,0,1
+CUST101133,64,20,Month-to-month,DSL,Northern,133.74,2658.82,Bank transfer,No,No,Yes,Yes,0,2,,49.3,6.24,0,1
+CUST101134,62,60,One year,Fiber optic,Uva,54.0,3723.71,Credit card,Yes,Yes,No,Yes,0,1,3.6,108.9,15.26,0,1
+CUST101135,53,40,Two year,Fiber optic,Sabaragamuwa,59.82,2116.12,Electronic check,Yes,Yes,No,No,0,1,5.9,17.0,13.12,0,0
+CUST101136,21,39,Month-to-month,Fiber optic,North Western,64.65,2787.71,Credit card,No,No,Yes,No,2,2,3.4,137.0,7.1,0,1
+CUST101137,60,33,Month-to-month,Fiber optic,North Western,60.23,2204.62,Credit card,Yes,No,Yes,No,0,0,7.8,43.6,0.03,0,1
+CUST101138,39,59,Month-to-month,Fiber optic,North Central,50.64,3035.41,Electronic check,Yes,No,No,No,1,1,8.2,95.3,0.52,0,1
+CUST101139,61,4,Month-to-month,Fiber optic,Southern,20.0,76.26,Mailed check,Yes,No,Yes,Yes,0,1,8.3,61.2,13.27,0,1
+CUST101140,49,7,Month-to-month,DSL,Central,61.57,433.46,Credit card,Yes,No,No,Yes,1,1,7.5,74.5,0.0,0,1
+CUST101141,69,31,Two year,Fiber optic,Northern,80.86,2350.73,Bank transfer,Yes,No,No,Yes,3,1,8.3,55.8,7.17,0,1
+CUST101142,37,29,Month-to-month,Fiber optic,Eastern,60.16,1901.28,Mailed check,Yes,No,Yes,Yes,1,3,3.8,95.0,26.77,0,1
+CUST101143,72,40,Month-to-month,Fiber optic,North Central,118.45,4735.52,Electronic check,Yes,Yes,No,No,0,0,6.4,52.8,11.22,0,1
+CUST101144,66,54,Two year,DSL,Southern,72.32,4404.25,Electronic check,No,No,No,No,2,2,4.1,44.9,13.2,1,1
+CUST101145,37,43,Month-to-month,Fiber optic,North Western,102.98,4591.34,Bank transfer,Yes,No,Yes,Yes,0,1,6.0,128.5,0.57,0,1
+CUST101146,45,19,Two year,DSL,Western,78.27,1493.6,Bank transfer,Yes,Yes,No,No,0,0,9.5,66.0,0.0,0,1
+CUST101147,48,24,Month-to-month,DSL,Western,91.83,2343.57,Bank transfer,No,Yes,Yes,Yes,0,3,8.6,41.4,13.57,0,1
+CUST101148,62,55,Month-to-month,DSL,Sabaragamuwa,78.7,4333.71,Mailed check,Yes,No,Yes,No,0,1,7.8,12.8,6.02,0,0
+CUST101149,57,15,Two year,Fiber optic,Uva,104.85,1763.62,Electronic check,No,No,No,Yes,1,1,6.3,130.3,16.22,0,1
+CUST101150,67,37,Month-to-month,DSL,Uva,73.34,2456.78,Electronic check,Yes,No,No,No,0,1,4.8,45.7,9.0,0,1
+CUST101151,39,39,Month-to-month,Fiber optic,Southern,83.91,3737.06,Credit card,Yes,No,Yes,Yes,0,2,6.9,137.2,32.89,0,1
+CUST101152,47,55,Month-to-month,DSL,Eastern,80.79,4859.73,Electronic check,No,Yes,Yes,No,1,0,8.6,79.0,4.69,0,1
+CUST101153,42,52,One year,Fiber optic,North Central,65.08,3750.46,Credit card,Yes,No,No,No,0,1,7.3,70.0,10.72,0,1
+CUST101154,70,34,One year,DSL,Southern,81.72,2764.22,Bank transfer,No,No,Yes,No,2,0,3.7,70.9,2.44,0,1
+CUST101155,35,23,Month-to-month,Fiber optic,North Central,125.63,3181.67,Mailed check,Yes,No,No,No,1,0,6.8,142.6,15.92,0,1
+CUST101156,52,27,One year,Fiber optic,North Central,65.51,1666.25,Credit card,No,No,No,Yes,1,1,3.2,2.0,11.78,0,1
+CUST101157,24,30,One year,Fiber optic,Northern,82.07,2655.49,Electronic check,Yes,No,No,No,4,1,8.0,72.5,1.97,1,1
+CUST101158,67,16,Month-to-month,DSL,Northern,102.19,1458.63,Electronic check,Yes,No,Yes,Yes,1,0,5.4,55.7,6.48,0,1
+CUST101159,40,46,Month-to-month,Fiber optic,Southern,99.37,,Electronic check,Yes,No,No,No,0,1,4.4,57.5,18.3,0,1
+CUST101160,37,16,Month-to-month,No,Uva,72.28,1137.67,Mailed check,No,Yes,Yes,Yes,1,1,8.1,70.2,17.46,1,1
+CUST101161,51,47,Month-to-month,No,Sabaragamuwa,20.0,889.89,Credit card,Yes,No,Yes,Yes,2,0,7.6,55.7,0.0,0,1
+CUST101162,46,55,Month-to-month,DSL,Sabaragamuwa,84.4,4484.71,Bank transfer,Yes,No,Yes,No,3,0,7.0,71.6,5.44,0,1
+CUST101163,67,70,Month-to-month,Fiber optic,North Central,20.0,1534.44,Electronic check,No,No,Yes,Yes,1,1,10.0,64.2,21.45,1,1
+CUST101164,48,9,Month-to-month,Fiber optic,Northern,107.28,895.03,Mailed check,Yes,No,No,No,1,0,7.7,19.0,7.53,1,1
+CUST101165,47,55,Month-to-month,DSL,Uva,76.07,4491.56,Electronic check,Yes,Yes,No,Yes,0,0,5.4,78.3,9.98,0,1
+CUST101166,24,7,One year,Fiber optic,Southern,95.99,586.01,Credit card,Yes,No,No,No,0,1,7.5,90.1,15.89,0,1
+CUST101167,19,25,Month-to-month,Fiber optic,Sabaragamuwa,50.35,1359.08,Credit card,Yes,Yes,No,No,0,2,,46.0,0.0,0,1
+CUST101168,41,13,Two year,Fiber optic,Southern,34.74,491.18,Electronic check,Yes,Yes,No,No,1,1,8.9,130.4,2.12,0,1
+CUST101169,75,12,Two year,Fiber optic,Northern,78.26,911.4,Bank transfer,Yes,No,No,Yes,0,3,7.1,111.7,6.43,1,1
+CUST101170,71,13,One year,DSL,Western,71.19,987.29,Electronic check,Yes,No,No,Yes,1,3,7.3,94.5,17.13,0,1
+CUST101171,54,4,Two year,Fiber optic,Western,60.2,270.8,Bank transfer,Yes,No,No,Yes,0,2,4.0,94.1,15.84,1,1
+CUST101172,54,60,Two year,Fiber optic,Northern,74.03,4842.63,Mailed check,Yes,No,No,Yes,1,3,6.7,66.1,13.74,0,1
+CUST101173,40,5,Month-to-month,DSL,Eastern,138.42,669.35,Credit card,Yes,Yes,Yes,No,3,1,6.5,104.9,7.73,0,1
+CUST101174,28,29,One year,Fiber optic,Western,92.03,2656.19,Credit card,No,No,No,Yes,1,0,4.8,120.0,16.61,0,1
+CUST101175,18,51,Month-to-month,No,Uva,97.19,5371.98,Bank transfer,Yes,No,Yes,Yes,1,2,6.2,93.3,7.63,0,1
+CUST101176,37,72,One year,Fiber optic,Central,92.25,6229.03,Electronic check,Yes,No,Yes,Yes,0,1,7.4,45.0,12.75,1,1
+CUST101177,36,62,Month-to-month,DSL,Sabaragamuwa,107.51,7273.09,Credit card,Yes,No,No,No,0,2,6.6,63.6,15.08,0,1
+CUST101178,29,10,Month-to-month,Fiber optic,Southern,67.44,639.6,Bank transfer,Yes,No,Yes,Yes,2,1,4.1,85.1,20.58,0,1
+CUST101179,33,72,Month-to-month,No,Northern,22.69,1783.31,Electronic check,No,No,Yes,Yes,1,0,6.1,94.3,8.31,0,1
+CUST101180,19,48,Two year,No,Central,67.47,2837.27,Bank transfer,Yes,No,Yes,No,1,1,5.8,62.3,6.16,0,1
+CUST101181,53,13,Month-to-month,Fiber optic,Uva,91.48,1026.71,Credit card,No,No,No,Yes,2,0,6.9,45.2,17.77,0,1
+CUST101182,71,33,Month-to-month,Fiber optic,North Central,,1847.98,Credit card,No,No,No,No,1,0,6.8,120.4,18.3,1,1
+CUST101183,58,67,Month-to-month,Fiber optic,Western,67.77,5043.65,Electronic check,No,No,No,Yes,0,2,5.9,27.5,4.9,0,1
+CUST101184,43,29,Month-to-month,Fiber optic,Western,55.4,,Mailed check,No,No,No,No,1,0,5.8,32.1,0.96,0,1
+CUST101185,42,14,Two year,No,North Western,108.05,1717.47,Bank transfer,Yes,No,No,No,2,0,6.7,18.6,17.23,0,1
+CUST101186,35,64,One year,Fiber optic,Uva,89.99,5652.59,Electronic check,No,No,No,No,1,0,8.3,32.0,0.0,0,0
+CUST101187,26,69,Month-to-month,Fiber optic,Western,87.64,5660.25,Electronic check,No,No,No,No,0,0,7.1,108.7,0.0,1,1
+CUST101188,52,71,Month-to-month,DSL,Central,86.92,5486.25,Credit card,Yes,No,Yes,No,1,1,9.2,109.8,6.82,0,1
+CUST101189,50,69,Month-to-month,Fiber optic,Eastern,71.11,4908.09,Bank transfer,Yes,No,No,No,0,0,8.6,,8.72,1,1
+CUST101190,18,63,Month-to-month,DSL,Western,76.74,4428.66,Bank transfer,Yes,Yes,Yes,No,1,2,9.3,82.4,0.58,0,1
+CUST101191,42,33,One year,DSL,Southern,43.56,1625.14,Electronic check,Yes,Yes,Yes,No,0,0,9.1,64.6,9.55,0,1
+CUST101192,34,14,One year,Fiber optic,Western,20.0,238.34,Credit card,Yes,No,No,No,0,1,9.4,23.3,9.87,1,0
+CUST101193,27,45,Month-to-month,Fiber optic,Eastern,75.6,3037.92,Credit card,No,No,Yes,No,1,3,4.5,142.6,4.64,1,1
+CUST101194,58,16,One year,Fiber optic,North Central,79.78,1179.33,Electronic check,Yes,No,No,Yes,1,0,7.8,113.1,22.23,0,1
+CUST101195,48,35,Month-to-month,Fiber optic,Northern,101.02,3216.46,Mailed check,Yes,No,No,Yes,0,1,8.8,77.4,11.01,0,1
+CUST101196,54,48,One year,Fiber optic,Southern,109.71,4832.95,Electronic check,Yes,No,Yes,Yes,0,0,9.1,35.0,15.9,0,0
+CUST101197,59,69,Month-to-month,Fiber optic,Northern,109.68,7922.2,Electronic check,Yes,No,No,Yes,0,1,5.2,57.1,0.0,0,1
+CUST101198,74,21,One year,Fiber optic,Eastern,48.05,956.78,Credit card,Yes,Yes,No,No,1,2,7.8,40.8,0.0,1,1
+CUST101199,64,19,Month-to-month,DSL,Central,63.55,1249.03,Credit card,No,Yes,No,Yes,0,1,6.7,68.4,11.22,0,1
+CUST101200,53,53,Two year,Fiber optic,Central,83.53,4945.29,Electronic check,Yes,No,Yes,No,0,1,9.9,75.8,20.98,0,1
