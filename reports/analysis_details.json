@@ -1,0 +1,2240 @@
+{
+  "data_quality_audit": [
+    {
+      "column": "customer_id",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 1200
+    },
+    {
+      "column": "age",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 58
+    },
+    {
+      "column": "tenure_months",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 72
+    },
+    {
+      "column": "contract_type",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 3
+    },
+    {
+      "column": "internet_service",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 3
+    },
+    {
+      "column": "region",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 9
+    },
+    {
+      "column": "monthly_charges",
+      "dtype": "float64",
+      "missing_count": 30,
+      "missing_pct": 2.5,
+      "unique_count": 1067
+    },
+    {
+      "column": "total_charges",
+      "dtype": "float64",
+      "missing_count": 24,
+      "missing_pct": 2.0,
+      "unique_count": 1176
+    },
+    {
+      "column": "payment_method",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 4
+    },
+    {
+      "column": "paperless_billing",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 2
+    },
+    {
+      "column": "dependents",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 2
+    },
+    {
+      "column": "support_plan",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 2
+    },
+    {
+      "column": "tech_support",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 2
+    },
+    {
+      "column": "complaints_last_12m",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 6
+    },
+    {
+      "column": "late_payments_last_12m",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 5
+    },
+    {
+      "column": "satisfaction_score",
+      "dtype": "float64",
+      "missing_count": 48,
+      "missing_pct": 4.0,
+      "unique_count": 82
+    },
+    {
+      "column": "monthly_usage_gb",
+      "dtype": "float64",
+      "missing_count": 36,
+      "missing_pct": 3.0,
+      "unique_count": 721
+    },
+    {
+      "column": "discount_pct",
+      "dtype": "float64",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 834
+    },
+    {
+      "column": "senior_citizen",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 2
+    },
+    {
+      "column": "churn",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_pct": 0.0,
+      "unique_count": 2
+    }
+  ],
+  "model_comparison": [
+    {
+      "model": "RandomForest",
+      "baseline_cv_ap_mean": 0.9716875352,
+      "baseline_cv_ap_std": 0.0033971787,
+      "tuned_cv_ap_mean": 0.9774790405,
+      "best_params": "{'model__max_depth': 8, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__n_estimators': 250}"
+    },
+    {
+      "model": "HistGradientBoosting",
+      "baseline_cv_ap_mean": 0.9723238475,
+      "baseline_cv_ap_std": 0.0061661109,
+      "tuned_cv_ap_mean": 0.9749570687,
+      "best_params": "{'model__l2_regularization': 0.0, 'model__learning_rate': 0.05, 'model__max_leaf_nodes': 15}"
+    },
+    {
+      "model": "LogisticRegression",
+      "baseline_cv_ap_mean": 0.9721310927,
+      "baseline_cv_ap_std": 0.0041562409,
+      "tuned_cv_ap_mean": 0.9741492232,
+      "best_params": "{'model__C': 0.1}"
+    }
+  ],
+  "threshold_metrics": [
+    {
+      "threshold": 0.1,
+      "precision": 0.8633333333,
+      "recall": 1.0,
+      "contact_rate": 1.0,
+      "f1": 0.9266547406
+    },
+    {
+      "threshold": 0.2,
+      "precision": 0.8633333333,
+      "recall": 1.0,
+      "contact_rate": 1.0,
+      "f1": 0.9266547406
+    },
+    {
+      "threshold": 0.3,
+      "precision": 0.8614864865,
+      "recall": 0.9845559846,
+      "contact_rate": 0.9866666667,
+      "f1": 0.9189189189
+    },
+    {
+      "threshold": 0.4,
+      "precision": 0.8630136986,
+      "recall": 0.972972973,
+      "contact_rate": 0.9733333333,
+      "f1": 0.9147005445
+    },
+    {
+      "threshold": 0.5,
+      "precision": 0.8913043478,
+      "recall": 0.9498069498,
+      "contact_rate": 0.92,
+      "f1": 0.9196261682
+    },
+    {
+      "threshold": 0.6,
+      "precision": 0.9437751004,
+      "recall": 0.9073359073,
+      "contact_rate": 0.83,
+      "f1": 0.9251968504
+    },
+    {
+      "threshold": 0.7,
+      "precision": 0.9598214286,
+      "recall": 0.8301158301,
+      "contact_rate": 0.7466666667,
+      "f1": 0.8902691511
+    },
+    {
+      "threshold": 0.8,
+      "precision": 0.9742268041,
+      "recall": 0.7297297297,
+      "contact_rate": 0.6466666667,
+      "f1": 0.8344370861
+    },
+    {
+      "threshold": 0.9,
+      "precision": 1.0,
+      "recall": 0.528957529,
+      "contact_rate": 0.4566666667,
+      "f1": 0.6919191919
+    },
+    {
+      "threshold": 0.9382243284,
+      "precision": 1.0,
+      "recall": 0.277992278,
+      "contact_rate": 0.24,
+      "f1": 0.4350453172
+    }
+  ],
+  "permutation_importance": [
+    {
+      "feature": "monthly_usage_gb",
+      "importance_mean": 0.1022033381,
+      "importance_std": 0.0110577807
+    },
+    {
+      "feature": "contract_type",
+      "importance_mean": 0.0099447865,
+      "importance_std": 0.0024828255
+    },
+    {
+      "feature": "satisfaction_score",
+      "importance_mean": 0.0043400531,
+      "importance_std": 0.0012149203
+    },
+    {
+      "feature": "late_payments_last_12m",
+      "importance_mean": 0.0019249935,
+      "importance_std": 0.0009532794
+    },
+    {
+      "feature": "tenure_months",
+      "importance_mean": 0.0011031429,
+      "importance_std": 0.0011270997
+    },
+    {
+      "feature": "monthly_charges",
+      "importance_mean": 0.0007452158,
+      "importance_std": 0.0010965893
+    },
+    {
+      "feature": "total_charges",
+      "importance_mean": 0.0003919864,
+      "importance_std": 0.0006255229
+    },
+    {
+      "feature": "tech_support",
+      "importance_mean": 0.0002244371,
+      "importance_std": 0.0002641491
+    },
+    {
+      "feature": "support_plan",
+      "importance_mean": 0.0001666278,
+      "importance_std": 0.0001531022
+    },
+    {
+      "feature": "region",
+      "importance_mean": 0.000149258,
+      "importance_std": 0.0003478327
+    },
+    {
+      "feature": "senior_citizen",
+      "importance_mean": 1.82906e-05,
+      "importance_std": 0.0001794164
+    },
+    {
+      "feature": "paperless_billing",
+      "importance_mean": 1.79841e-05,
+      "importance_std": 0.0001482998
+    },
+    {
+      "feature": "dependents",
+      "importance_mean": -7.77367e-05,
+      "importance_std": 0.0001063546
+    },
+    {
+      "feature": "discount_pct",
+      "importance_mean": -0.0001170646,
+      "importance_std": 0.0002505558
+    },
+    {
+      "feature": "age",
+      "importance_mean": -0.0001477722,
+      "importance_std": 0.000482035
+    },
+    {
+      "feature": "payment_method",
+      "importance_mean": -0.0001775505,
+      "importance_std": 0.0002341154
+    },
+    {
+      "feature": "internet_service",
+      "importance_mean": -0.00023777,
+      "importance_std": 0.0001771121
+    },
+    {
+      "feature": "complaints_last_12m",
+      "importance_mean": -0.0003326548,
+      "importance_std": 0.0005896525
+    }
+  ],
+  "individual_explanations": [
+    {
+      "customer_id": "CUST100035",
+      "actual_churn": 1,
+      "predicted_probability": 0.979970786,
+      "feature": "monthly_usage_gb",
+      "probability_change_if_set_to_train_typical": 0.019867327
+    },
+    {
+      "customer_id": "CUST100035",
+      "actual_churn": 1,
+      "predicted_probability": 0.979970786,
+      "feature": "tenure_months",
+      "probability_change_if_set_to_train_typical": 0.0128287904
+    },
+    {
+      "customer_id": "CUST100035",
+      "actual_churn": 1,
+      "predicted_probability": 0.979970786,
+      "feature": "satisfaction_score",
+      "probability_change_if_set_to_train_typical": 0.0083716528
+    },
+    {
+      "customer_id": "CUST100035",
+      "actual_churn": 1,
+      "predicted_probability": 0.979970786,
+      "feature": "late_payments_last_12m",
+      "probability_change_if_set_to_train_typical": 0.0039045279
+    },
+    {
+      "customer_id": "CUST100035",
+      "actual_churn": 1,
+      "predicted_probability": 0.979970786,
+      "feature": "age",
+      "probability_change_if_set_to_train_typical": 0.0030590992
+    },
+    {
+      "customer_id": "CUST100928",
+      "actual_churn": 1,
+      "predicted_probability": 0.9731157642,
+      "feature": "monthly_usage_gb",
+      "probability_change_if_set_to_train_typical": 0.0332595116
+    },
+    {
+      "customer_id": "CUST100928",
+      "actual_churn": 1,
+      "predicted_probability": 0.9731157642,
+      "feature": "total_charges",
+      "probability_change_if_set_to_train_typical": 0.0191254166
+    },
+    {
+      "customer_id": "CUST100928",
+      "actual_churn": 1,
+      "predicted_probability": 0.9731157642,
+      "feature": "tenure_months",
+      "probability_change_if_set_to_train_typical": 0.0103313925
+    },
+    {
+      "customer_id": "CUST100928",
+      "actual_churn": 1,
+      "predicted_probability": 0.9731157642,
+      "feature": "payment_method",
+      "probability_change_if_set_to_train_typical": -0.0100993246
+    },
+    {
+      "customer_id": "CUST100928",
+      "actual_churn": 1,
+      "predicted_probability": 0.9731157642,
+      "feature": "satisfaction_score",
+      "probability_change_if_set_to_train_typical": -0.0046737101
+    },
+    {
+      "customer_id": "CUST100805",
+      "actual_churn": 1,
+      "predicted_probability": 0.9728579381,
+      "feature": "monthly_usage_gb",
+      "probability_change_if_set_to_train_typical": 0.1122813358
+    },
+    {
+      "customer_id": "CUST100805",
+      "actual_churn": 1,
+      "predicted_probability": 0.9728579381,
+      "feature": "total_charges",
+      "probability_change_if_set_to_train_typical": 0.0140711724
+    },
+    {
+      "customer_id": "CUST100805",
+      "actual_churn": 1,
+      "predicted_probability": 0.9728579381,
+      "feature": "monthly_charges",
+      "probability_change_if_set_to_train_typical": -0.008811244
+    },
+    {
+      "customer_id": "CUST100805",
+      "actual_churn": 1,
+      "predicted_probability": 0.9728579381,
+      "feature": "region",
+      "probability_change_if_set_to_train_typical": 0.008009349
+    },
+    {
+      "customer_id": "CUST100805",
+      "actual_churn": 1,
+      "predicted_probability": 0.9728579381,
+      "feature": "tenure_months",
+      "probability_change_if_set_to_train_typical": -0.0070882202
+    }
+  ],
+  "test_customer_risk_scores": [
+    {
+      "customer_id": "CUST100035",
+      "actual_churn": 1,
+      "churn_probability": 0.979970786,
+      "contact_rank": 1
+    },
+    {
+      "customer_id": "CUST100928",
+      "actual_churn": 1,
+      "churn_probability": 0.9731157642,
+      "contact_rank": 2
+    },
+    {
+      "customer_id": "CUST100805",
+      "actual_churn": 1,
+      "churn_probability": 0.9728579381,
+      "contact_rank": 3
+    },
+    {
+      "customer_id": "CUST100568",
+      "actual_churn": 1,
+      "churn_probability": 0.9724775185,
+      "contact_rank": 4
+    },
+    {
+      "customer_id": "CUST100260",
+      "actual_churn": 1,
+      "churn_probability": 0.9709343028,
+      "contact_rank": 5
+    },
+    {
+      "customer_id": "CUST101027",
+      "actual_churn": 1,
+      "churn_probability": 0.9705134597,
+      "contact_rank": 6
+    },
+    {
+      "customer_id": "CUST100720",
+      "actual_churn": 1,
+      "churn_probability": 0.9676346941,
+      "contact_rank": 7
+    },
+    {
+      "customer_id": "CUST101017",
+      "actual_churn": 1,
+      "churn_probability": 0.9673127152,
+      "contact_rank": 8
+    },
+    {
+      "customer_id": "CUST100662",
+      "actual_churn": 1,
+      "churn_probability": 0.9671953216,
+      "contact_rank": 9
+    },
+    {
+      "customer_id": "CUST100661",
+      "actual_churn": 1,
+      "churn_probability": 0.9669796149,
+      "contact_rank": 10
+    },
+    {
+      "customer_id": "CUST100593",
+      "actual_churn": 1,
+      "churn_probability": 0.9658670545,
+      "contact_rank": 11
+    },
+    {
+      "customer_id": "CUST100853",
+      "actual_churn": 1,
+      "churn_probability": 0.9639708847,
+      "contact_rank": 12
+    },
+    {
+      "customer_id": "CUST101138",
+      "actual_churn": 1,
+      "churn_probability": 0.9632954083,
+      "contact_rank": 13
+    },
+    {
+      "customer_id": "CUST101134",
+      "actual_churn": 1,
+      "churn_probability": 0.9632278051,
+      "contact_rank": 14
+    },
+    {
+      "customer_id": "CUST100060",
+      "actual_churn": 1,
+      "churn_probability": 0.9609218167,
+      "contact_rank": 15
+    },
+    {
+      "customer_id": "CUST101128",
+      "actual_churn": 1,
+      "churn_probability": 0.9608906368,
+      "contact_rank": 16
+    },
+    {
+      "customer_id": "CUST100817",
+      "actual_churn": 1,
+      "churn_probability": 0.9606518263,
+      "contact_rank": 17
+    },
+    {
+      "customer_id": "CUST100459",
+      "actual_churn": 1,
+      "churn_probability": 0.9598446661,
+      "contact_rank": 18
+    },
+    {
+      "customer_id": "CUST101193",
+      "actual_churn": 1,
+      "churn_probability": 0.9595076064,
+      "contact_rank": 19
+    },
+    {
+      "customer_id": "CUST100131",
+      "actual_churn": 1,
+      "churn_probability": 0.9586209128,
+      "contact_rank": 20
+    },
+    {
+      "customer_id": "CUST100285",
+      "actual_churn": 1,
+      "churn_probability": 0.9580415097,
+      "contact_rank": 21
+    },
+    {
+      "customer_id": "CUST100057",
+      "actual_churn": 1,
+      "churn_probability": 0.9576428787,
+      "contact_rank": 22
+    },
+    {
+      "customer_id": "CUST100585",
+      "actual_churn": 1,
+      "churn_probability": 0.9572193854,
+      "contact_rank": 23
+    },
+    {
+      "customer_id": "CUST100284",
+      "actual_churn": 1,
+      "churn_probability": 0.9569512363,
+      "contact_rank": 24
+    },
+    {
+      "customer_id": "CUST100024",
+      "actual_churn": 1,
+      "churn_probability": 0.9567988201,
+      "contact_rank": 25
+    },
+    {
+      "customer_id": "CUST101011",
+      "actual_churn": 1,
+      "churn_probability": 0.95656281,
+      "contact_rank": 26
+    },
+    {
+      "customer_id": "CUST101169",
+      "actual_churn": 1,
+      "churn_probability": 0.9556556943,
+      "contact_rank": 27
+    },
+    {
+      "customer_id": "CUST100764",
+      "actual_churn": 1,
+      "churn_probability": 0.9553975769,
+      "contact_rank": 28
+    },
+    {
+      "customer_id": "CUST100065",
+      "actual_churn": 1,
+      "churn_probability": 0.9550356571,
+      "contact_rank": 29
+    },
+    {
+      "customer_id": "CUST100767",
+      "actual_churn": 1,
+      "churn_probability": 0.9549609955,
+      "contact_rank": 30
+    },
+    {
+      "customer_id": "CUST100212",
+      "actual_churn": 1,
+      "churn_probability": 0.9547821598,
+      "contact_rank": 31
+    },
+    {
+      "customer_id": "CUST100858",
+      "actual_churn": 1,
+      "churn_probability": 0.9545557085,
+      "contact_rank": 32
+    },
+    {
+      "customer_id": "CUST100577",
+      "actual_churn": 1,
+      "churn_probability": 0.9543289336,
+      "contact_rank": 33
+    },
+    {
+      "customer_id": "CUST100832",
+      "actual_churn": 1,
+      "churn_probability": 0.9535063977,
+      "contact_rank": 34
+    },
+    {
+      "customer_id": "CUST100461",
+      "actual_churn": 1,
+      "churn_probability": 0.9526378663,
+      "contact_rank": 35
+    },
+    {
+      "customer_id": "CUST101005",
+      "actual_churn": 1,
+      "churn_probability": 0.9512809089,
+      "contact_rank": 36
+    },
+    {
+      "customer_id": "CUST101067",
+      "actual_churn": 1,
+      "churn_probability": 0.9511679195,
+      "contact_rank": 37
+    },
+    {
+      "customer_id": "CUST100540",
+      "actual_churn": 1,
+      "churn_probability": 0.9507612419,
+      "contact_rank": 38
+    },
+    {
+      "customer_id": "CUST100954",
+      "actual_churn": 1,
+      "churn_probability": 0.9503607182,
+      "contact_rank": 39
+    },
+    {
+      "customer_id": "CUST100435",
+      "actual_churn": 1,
+      "churn_probability": 0.9500957856,
+      "contact_rank": 40
+    },
+    {
+      "customer_id": "CUST100842",
+      "actual_churn": 1,
+      "churn_probability": 0.9496873071,
+      "contact_rank": 41
+    },
+    {
+      "customer_id": "CUST100946",
+      "actual_churn": 1,
+      "churn_probability": 0.9492568918,
+      "contact_rank": 42
+    },
+    {
+      "customer_id": "CUST100445",
+      "actual_churn": 1,
+      "churn_probability": 0.9491142137,
+      "contact_rank": 43
+    },
+    {
+      "customer_id": "CUST100191",
+      "actual_churn": 1,
+      "churn_probability": 0.9490774499,
+      "contact_rank": 44
+    },
+    {
+      "customer_id": "CUST100206",
+      "actual_churn": 1,
+      "churn_probability": 0.9472993944,
+      "contact_rank": 45
+    },
+    {
+      "customer_id": "CUST101031",
+      "actual_churn": 1,
+      "churn_probability": 0.9472856167,
+      "contact_rank": 46
+    },
+    {
+      "customer_id": "CUST101072",
+      "actual_churn": 1,
+      "churn_probability": 0.9467778249,
+      "contact_rank": 47
+    },
+    {
+      "customer_id": "CUST101045",
+      "actual_churn": 1,
+      "churn_probability": 0.9467720885,
+      "contact_rank": 48
+    },
+    {
+      "customer_id": "CUST100801",
+      "actual_churn": 1,
+      "churn_probability": 0.9465102513,
+      "contact_rank": 49
+    },
+    {
+      "customer_id": "CUST100234",
+      "actual_churn": 1,
+      "churn_probability": 0.946338981,
+      "contact_rank": 50
+    },
+    {
+      "customer_id": "CUST101136",
+      "actual_churn": 1,
+      "churn_probability": 0.9460047065,
+      "contact_rank": 51
+    },
+    {
+      "customer_id": "CUST101036",
+      "actual_churn": 1,
+      "churn_probability": 0.9456766719,
+      "contact_rank": 52
+    },
+    {
+      "customer_id": "CUST100788",
+      "actual_churn": 1,
+      "churn_probability": 0.9455739268,
+      "contact_rank": 53
+    },
+    {
+      "customer_id": "CUST100754",
+      "actual_churn": 1,
+      "churn_probability": 0.9453587113,
+      "contact_rank": 54
+    },
+    {
+      "customer_id": "CUST100478",
+      "actual_churn": 1,
+      "churn_probability": 0.9450475262,
+      "contact_rank": 55
+    },
+    {
+      "customer_id": "CUST101170",
+      "actual_churn": 1,
+      "churn_probability": 0.9450170918,
+      "contact_rank": 56
+    },
+    {
+      "customer_id": "CUST100180",
+      "actual_churn": 1,
+      "churn_probability": 0.9443538864,
+      "contact_rank": 57
+    },
+    {
+      "customer_id": "CUST100328",
+      "actual_churn": 1,
+      "churn_probability": 0.9438801414,
+      "contact_rank": 58
+    },
+    {
+      "customer_id": "CUST100178",
+      "actual_churn": 1,
+      "churn_probability": 0.9432996316,
+      "contact_rank": 59
+    },
+    {
+      "customer_id": "CUST100044",
+      "actual_churn": 1,
+      "churn_probability": 0.9431238867,
+      "contact_rank": 60
+    },
+    {
+      "customer_id": "CUST100895",
+      "actual_churn": 1,
+      "churn_probability": 0.9430157733,
+      "contact_rank": 61
+    },
+    {
+      "customer_id": "CUST100516",
+      "actual_churn": 1,
+      "churn_probability": 0.9424188226,
+      "contact_rank": 62
+    },
+    {
+      "customer_id": "CUST100827",
+      "actual_churn": 1,
+      "churn_probability": 0.9423384691,
+      "contact_rank": 63
+    },
+    {
+      "customer_id": "CUST100672",
+      "actual_churn": 1,
+      "churn_probability": 0.9412735061,
+      "contact_rank": 64
+    },
+    {
+      "customer_id": "CUST100215",
+      "actual_churn": 1,
+      "churn_probability": 0.9406447806,
+      "contact_rank": 65
+    },
+    {
+      "customer_id": "CUST100119",
+      "actual_churn": 1,
+      "churn_probability": 0.9404079206,
+      "contact_rank": 66
+    },
+    {
+      "customer_id": "CUST100554",
+      "actual_churn": 1,
+      "churn_probability": 0.9403686009,
+      "contact_rank": 67
+    },
+    {
+      "customer_id": "CUST100105",
+      "actual_churn": 1,
+      "churn_probability": 0.9400858679,
+      "contact_rank": 68
+    },
+    {
+      "customer_id": "CUST100961",
+      "actual_churn": 1,
+      "churn_probability": 0.9392825377,
+      "contact_rank": 69
+    },
+    {
+      "customer_id": "CUST100951",
+      "actual_churn": 1,
+      "churn_probability": 0.9391922901,
+      "contact_rank": 70
+    },
+    {
+      "customer_id": "CUST100351",
+      "actual_churn": 1,
+      "churn_probability": 0.9387273162,
+      "contact_rank": 71
+    },
+    {
+      "customer_id": "CUST100723",
+      "actual_churn": 1,
+      "churn_probability": 0.9386776949,
+      "contact_rank": 72
+    },
+    {
+      "customer_id": "CUST100093",
+      "actual_churn": 1,
+      "churn_probability": 0.9378629695,
+      "contact_rank": 73
+    },
+    {
+      "customer_id": "CUST100302",
+      "actual_churn": 1,
+      "churn_probability": 0.9373950734,
+      "contact_rank": 74
+    },
+    {
+      "customer_id": "CUST101158",
+      "actual_churn": 1,
+      "churn_probability": 0.9371580307,
+      "contact_rank": 75
+    },
+    {
+      "customer_id": "CUST100202",
+      "actual_churn": 1,
+      "churn_probability": 0.9371106518,
+      "contact_rank": 76
+    },
+    {
+      "customer_id": "CUST100544",
+      "actual_churn": 1,
+      "churn_probability": 0.9368844475,
+      "contact_rank": 77
+    },
+    {
+      "customer_id": "CUST100345",
+      "actual_churn": 1,
+      "churn_probability": 0.9366815628,
+      "contact_rank": 78
+    },
+    {
+      "customer_id": "CUST100976",
+      "actual_churn": 1,
+      "churn_probability": 0.9362333305,
+      "contact_rank": 79
+    },
+    {
+      "customer_id": "CUST100719",
+      "actual_churn": 1,
+      "churn_probability": 0.9358073502,
+      "contact_rank": 80
+    },
+    {
+      "customer_id": "CUST100717",
+      "actual_churn": 1,
+      "churn_probability": 0.9354939123,
+      "contact_rank": 81
+    },
+    {
+      "customer_id": "CUST100736",
+      "actual_churn": 1,
+      "churn_probability": 0.9345624553,
+      "contact_rank": 82
+    },
+    {
+      "customer_id": "CUST100153",
+      "actual_churn": 1,
+      "churn_probability": 0.9340744692,
+      "contact_rank": 83
+    },
+    {
+      "customer_id": "CUST100448",
+      "actual_churn": 1,
+      "churn_probability": 0.93361463,
+      "contact_rank": 84
+    },
+    {
+      "customer_id": "CUST101086",
+      "actual_churn": 1,
+      "churn_probability": 0.9336051791,
+      "contact_rank": 85
+    },
+    {
+      "customer_id": "CUST100433",
+      "actual_churn": 1,
+      "churn_probability": 0.9334501653,
+      "contact_rank": 86
+    },
+    {
+      "customer_id": "CUST100223",
+      "actual_churn": 1,
+      "churn_probability": 0.9334028386,
+      "contact_rank": 87
+    },
+    {
+      "customer_id": "CUST100986",
+      "actual_churn": 1,
+      "churn_probability": 0.9329006297,
+      "contact_rank": 88
+    },
+    {
+      "customer_id": "CUST100010",
+      "actual_churn": 1,
+      "churn_probability": 0.9326163209,
+      "contact_rank": 89
+    },
+    {
+      "customer_id": "CUST100900",
+      "actual_churn": 1,
+      "churn_probability": 0.9317614154,
+      "contact_rank": 90
+    },
+    {
+      "customer_id": "CUST100453",
+      "actual_churn": 1,
+      "churn_probability": 0.9315099876,
+      "contact_rank": 91
+    },
+    {
+      "customer_id": "CUST100447",
+      "actual_churn": 1,
+      "churn_probability": 0.9311463181,
+      "contact_rank": 92
+    },
+    {
+      "customer_id": "CUST101065",
+      "actual_churn": 1,
+      "churn_probability": 0.9311153346,
+      "contact_rank": 93
+    },
+    {
+      "customer_id": "CUST100047",
+      "actual_churn": 1,
+      "churn_probability": 0.9309012851,
+      "contact_rank": 94
+    },
+    {
+      "customer_id": "CUST100411",
+      "actual_churn": 1,
+      "churn_probability": 0.9302895818,
+      "contact_rank": 95
+    },
+    {
+      "customer_id": "CUST101003",
+      "actual_churn": 1,
+      "churn_probability": 0.9295366851,
+      "contact_rank": 96
+    },
+    {
+      "customer_id": "CUST100185",
+      "actual_churn": 1,
+      "churn_probability": 0.9290634008,
+      "contact_rank": 97
+    },
+    {
+      "customer_id": "CUST100675",
+      "actual_churn": 1,
+      "churn_probability": 0.928969357,
+      "contact_rank": 98
+    },
+    {
+      "customer_id": "CUST100113",
+      "actual_churn": 1,
+      "churn_probability": 0.9288066798,
+      "contact_rank": 99
+    },
+    {
+      "customer_id": "CUST100972",
+      "actual_churn": 1,
+      "churn_probability": 0.9272394069,
+      "contact_rank": 100
+    },
+    {
+      "customer_id": "CUST100326",
+      "actual_churn": 1,
+      "churn_probability": 0.9269935619,
+      "contact_rank": 101
+    },
+    {
+      "customer_id": "CUST100818",
+      "actual_churn": 1,
+      "churn_probability": 0.9263047338,
+      "contact_rank": 102
+    },
+    {
+      "customer_id": "CUST100381",
+      "actual_churn": 1,
+      "churn_probability": 0.9237019171,
+      "contact_rank": 103
+    },
+    {
+      "customer_id": "CUST100734",
+      "actual_churn": 1,
+      "churn_probability": 0.9235095105,
+      "contact_rank": 104
+    },
+    {
+      "customer_id": "CUST100158",
+      "actual_churn": 1,
+      "churn_probability": 0.9226920179,
+      "contact_rank": 105
+    },
+    {
+      "customer_id": "CUST100693",
+      "actual_churn": 1,
+      "churn_probability": 0.9222331437,
+      "contact_rank": 106
+    },
+    {
+      "customer_id": "CUST100798",
+      "actual_churn": 1,
+      "churn_probability": 0.9215381894,
+      "contact_rank": 107
+    },
+    {
+      "customer_id": "CUST101195",
+      "actual_churn": 1,
+      "churn_probability": 0.9214239294,
+      "contact_rank": 108
+    },
+    {
+      "customer_id": "CUST101077",
+      "actual_churn": 1,
+      "churn_probability": 0.9208336433,
+      "contact_rank": 109
+    },
+    {
+      "customer_id": "CUST100370",
+      "actual_churn": 1,
+      "churn_probability": 0.920420494,
+      "contact_rank": 110
+    },
+    {
+      "customer_id": "CUST100027",
+      "actual_churn": 1,
+      "churn_probability": 0.9203060321,
+      "contact_rank": 111
+    },
+    {
+      "customer_id": "CUST100735",
+      "actual_churn": 1,
+      "churn_probability": 0.916935921,
+      "contact_rank": 112
+    },
+    {
+      "customer_id": "CUST101000",
+      "actual_churn": 1,
+      "churn_probability": 0.9168653652,
+      "contact_rank": 113
+    },
+    {
+      "customer_id": "CUST100684",
+      "actual_churn": 1,
+      "churn_probability": 0.9167121419,
+      "contact_rank": 114
+    },
+    {
+      "customer_id": "CUST100019",
+      "actual_churn": 1,
+      "churn_probability": 0.9154244824,
+      "contact_rank": 115
+    },
+    {
+      "customer_id": "CUST100820",
+      "actual_churn": 1,
+      "churn_probability": 0.9151633909,
+      "contact_rank": 116
+    },
+    {
+      "customer_id": "CUST101050",
+      "actual_churn": 1,
+      "churn_probability": 0.9144791401,
+      "contact_rank": 117
+    },
+    {
+      "customer_id": "CUST100140",
+      "actual_churn": 1,
+      "churn_probability": 0.9143128297,
+      "contact_rank": 118
+    },
+    {
+      "customer_id": "CUST100406",
+      "actual_churn": 1,
+      "churn_probability": 0.9140676908,
+      "contact_rank": 119
+    },
+    {
+      "customer_id": "CUST100923",
+      "actual_churn": 1,
+      "churn_probability": 0.9127533612,
+      "contact_rank": 120
+    },
+    {
+      "customer_id": "CUST101066",
+      "actual_churn": 1,
+      "churn_probability": 0.9122813956,
+      "contact_rank": 121
+    },
+    {
+      "customer_id": "CUST101021",
+      "actual_churn": 1,
+      "churn_probability": 0.9118350923,
+      "contact_rank": 122
+    },
+    {
+      "customer_id": "CUST100218",
+      "actual_churn": 1,
+      "churn_probability": 0.9111624792,
+      "contact_rank": 123
+    },
+    {
+      "customer_id": "CUST100225",
+      "actual_churn": 1,
+      "churn_probability": 0.9088542976,
+      "contact_rank": 124
+    },
+    {
+      "customer_id": "CUST100270",
+      "actual_churn": 1,
+      "churn_probability": 0.9085679028,
+      "contact_rank": 125
+    },
+    {
+      "customer_id": "CUST100678",
+      "actual_churn": 1,
+      "churn_probability": 0.90744655,
+      "contact_rank": 126
+    },
+    {
+      "customer_id": "CUST100931",
+      "actual_churn": 1,
+      "churn_probability": 0.9067823863,
+      "contact_rank": 127
+    },
+    {
+      "customer_id": "CUST100595",
+      "actual_churn": 1,
+      "churn_probability": 0.9066296096,
+      "contact_rank": 128
+    },
+    {
+      "customer_id": "CUST100926",
+      "actual_churn": 1,
+      "churn_probability": 0.9061443893,
+      "contact_rank": 129
+    },
+    {
+      "customer_id": "CUST100291",
+      "actual_churn": 1,
+      "churn_probability": 0.9041560754,
+      "contact_rank": 130
+    },
+    {
+      "customer_id": "CUST100600",
+      "actual_churn": 1,
+      "churn_probability": 0.9034170995,
+      "contact_rank": 131
+    },
+    {
+      "customer_id": "CUST100308",
+      "actual_churn": 1,
+      "churn_probability": 0.9024444672,
+      "contact_rank": 132
+    },
+    {
+      "customer_id": "CUST100394",
+      "actual_churn": 1,
+      "churn_probability": 0.9022787368,
+      "contact_rank": 133
+    },
+    {
+      "customer_id": "CUST100512",
+      "actual_churn": 1,
+      "churn_probability": 0.9020927215,
+      "contact_rank": 134
+    },
+    {
+      "customer_id": "CUST101108",
+      "actual_churn": 1,
+      "churn_probability": 0.9020621548,
+      "contact_rank": 135
+    },
+    {
+      "customer_id": "CUST100130",
+      "actual_churn": 1,
+      "churn_probability": 0.9018281057,
+      "contact_rank": 136
+    },
+    {
+      "customer_id": "CUST100485",
+      "actual_churn": 1,
+      "churn_probability": 0.9006829498,
+      "contact_rank": 137
+    },
+    {
+      "customer_id": "CUST100721",
+      "actual_churn": 1,
+      "churn_probability": 0.899118628,
+      "contact_rank": 138
+    },
+    {
+      "customer_id": "CUST100877",
+      "actual_churn": 1,
+      "churn_probability": 0.8990488379,
+      "contact_rank": 139
+    },
+    {
+      "customer_id": "CUST100349",
+      "actual_churn": 1,
+      "churn_probability": 0.8987427811,
+      "contact_rank": 140
+    },
+    {
+      "customer_id": "CUST100168",
+      "actual_churn": 1,
+      "churn_probability": 0.8979680099,
+      "contact_rank": 141
+    },
+    {
+      "customer_id": "CUST100803",
+      "actual_churn": 1,
+      "churn_probability": 0.8968030582,
+      "contact_rank": 142
+    },
+    {
+      "customer_id": "CUST100886",
+      "actual_churn": 1,
+      "churn_probability": 0.8956699099,
+      "contact_rank": 143
+    },
+    {
+      "customer_id": "CUST100041",
+      "actual_churn": 1,
+      "churn_probability": 0.8923575105,
+      "contact_rank": 144
+    },
+    {
+      "customer_id": "CUST100558",
+      "actual_churn": 1,
+      "churn_probability": 0.8913299167,
+      "contact_rank": 145
+    },
+    {
+      "customer_id": "CUST100423",
+      "actual_churn": 1,
+      "churn_probability": 0.8908936887,
+      "contact_rank": 146
+    },
+    {
+      "customer_id": "CUST100602",
+      "actual_churn": 1,
+      "churn_probability": 0.8897188573,
+      "contact_rank": 147
+    },
+    {
+      "customer_id": "CUST100956",
+      "actual_churn": 1,
+      "churn_probability": 0.8896308601,
+      "contact_rank": 148
+    },
+    {
+      "customer_id": "CUST100751",
+      "actual_churn": 1,
+      "churn_probability": 0.8889943672,
+      "contact_rank": 149
+    },
+    {
+      "customer_id": "CUST101181",
+      "actual_churn": 1,
+      "churn_probability": 0.8885086137,
+      "contact_rank": 150
+    },
+    {
+      "customer_id": "CUST100646",
+      "actual_churn": 1,
+      "churn_probability": 0.8859876372,
+      "contact_rank": 151
+    },
+    {
+      "customer_id": "CUST100480",
+      "actual_churn": 1,
+      "churn_probability": 0.8850052931,
+      "contact_rank": 152
+    },
+    {
+      "customer_id": "CUST100020",
+      "actual_churn": 1,
+      "churn_probability": 0.8847815451,
+      "contact_rank": 153
+    },
+    {
+      "customer_id": "CUST100922",
+      "actual_churn": 1,
+      "churn_probability": 0.8845199882,
+      "contact_rank": 154
+    },
+    {
+      "customer_id": "CUST100374",
+      "actual_churn": 1,
+      "churn_probability": 0.8832937867,
+      "contact_rank": 155
+    },
+    {
+      "customer_id": "CUST100779",
+      "actual_churn": 1,
+      "churn_probability": 0.8822730697,
+      "contact_rank": 156
+    },
+    {
+      "customer_id": "CUST100488",
+      "actual_churn": 1,
+      "churn_probability": 0.8812895126,
+      "contact_rank": 157
+    },
+    {
+      "customer_id": "CUST100228",
+      "actual_churn": 1,
+      "churn_probability": 0.8769808775,
+      "contact_rank": 158
+    },
+    {
+      "customer_id": "CUST100696",
+      "actual_churn": 0,
+      "churn_probability": 0.873414199,
+      "contact_rank": 159
+    },
+    {
+      "customer_id": "CUST100576",
+      "actual_churn": 1,
+      "churn_probability": 0.8728180359,
+      "contact_rank": 160
+    },
+    {
+      "customer_id": "CUST100152",
+      "actual_churn": 1,
+      "churn_probability": 0.8710407168,
+      "contact_rank": 161
+    },
+    {
+      "customer_id": "CUST100789",
+      "actual_churn": 1,
+      "churn_probability": 0.869743681,
+      "contact_rank": 162
+    },
+    {
+      "customer_id": "CUST100266",
+      "actual_churn": 1,
+      "churn_probability": 0.8692581885,
+      "contact_rank": 163
+    },
+    {
+      "customer_id": "CUST100607",
+      "actual_churn": 1,
+      "churn_probability": 0.8691800069,
+      "contact_rank": 164
+    },
+    {
+      "customer_id": "CUST100641",
+      "actual_churn": 1,
+      "churn_probability": 0.8686025584,
+      "contact_rank": 165
+    },
+    {
+      "customer_id": "CUST101132",
+      "actual_churn": 1,
+      "churn_probability": 0.8680099273,
+      "contact_rank": 166
+    },
+    {
+      "customer_id": "CUST101179",
+      "actual_churn": 1,
+      "churn_probability": 0.8670703286,
+      "contact_rank": 167
+    },
+    {
+      "customer_id": "CUST100513",
+      "actual_churn": 1,
+      "churn_probability": 0.8659209623,
+      "contact_rank": 168
+    },
+    {
+      "customer_id": "CUST100149",
+      "actual_churn": 1,
+      "churn_probability": 0.865356321,
+      "contact_rank": 169
+    },
+    {
+      "customer_id": "CUST101189",
+      "actual_churn": 1,
+      "churn_probability": 0.8646276602,
+      "contact_rank": 170
+    },
+    {
+      "customer_id": "CUST101177",
+      "actual_churn": 1,
+      "churn_probability": 0.8621029715,
+      "contact_rank": 171
+    },
+    {
+      "customer_id": "CUST100774",
+      "actual_churn": 1,
+      "churn_probability": 0.8610621299,
+      "contact_rank": 172
+    },
+    {
+      "customer_id": "CUST100993",
+      "actual_churn": 1,
+      "churn_probability": 0.8596303459,
+      "contact_rank": 173
+    },
+    {
+      "customer_id": "CUST101111",
+      "actual_churn": 1,
+      "churn_probability": 0.8595623211,
+      "contact_rank": 174
+    },
+    {
+      "customer_id": "CUST100454",
+      "actual_churn": 1,
+      "churn_probability": 0.8578361559,
+      "contact_rank": 175
+    },
+    {
+      "customer_id": "CUST100738",
+      "actual_churn": 1,
+      "churn_probability": 0.857321759,
+      "contact_rank": 176
+    },
+    {
+      "customer_id": "CUST100046",
+      "actual_churn": 1,
+      "churn_probability": 0.8570641831,
+      "contact_rank": 177
+    },
+    {
+      "customer_id": "CUST101121",
+      "actual_churn": 1,
+      "churn_probability": 0.843364925,
+      "contact_rank": 178
+    },
+    {
+      "customer_id": "CUST100295",
+      "actual_churn": 1,
+      "churn_probability": 0.8406017085,
+      "contact_rank": 179
+    },
+    {
+      "customer_id": "CUST100891",
+      "actual_churn": 1,
+      "churn_probability": 0.8376099323,
+      "contact_rank": 180
+    },
+    {
+      "customer_id": "CUST100981",
+      "actual_churn": 1,
+      "churn_probability": 0.8366290176,
+      "contact_rank": 181
+    },
+    {
+      "customer_id": "CUST100340",
+      "actual_churn": 1,
+      "churn_probability": 0.8358227758,
+      "contact_rank": 182
+    },
+    {
+      "customer_id": "CUST100276",
+      "actual_churn": 0,
+      "churn_probability": 0.8344762102,
+      "contact_rank": 183
+    },
+    {
+      "customer_id": "CUST101073",
+      "actual_churn": 1,
+      "churn_probability": 0.8344198643,
+      "contact_rank": 184
+    },
+    {
+      "customer_id": "CUST100358",
+      "actual_churn": 0,
+      "churn_probability": 0.8342989499,
+      "contact_rank": 185
+    },
+    {
+      "customer_id": "CUST101084",
+      "actual_churn": 0,
+      "churn_probability": 0.8336231148,
+      "contact_rank": 186
+    },
+    {
+      "customer_id": "CUST101172",
+      "actual_churn": 1,
+      "churn_probability": 0.8303425132,
+      "contact_rank": 187
+    },
+    {
+      "customer_id": "CUST100373",
+      "actual_churn": 0,
+      "churn_probability": 0.826620746,
+      "contact_rank": 188
+    },
+    {
+      "customer_id": "CUST100188",
+      "actual_churn": 1,
+      "churn_probability": 0.8232568695,
+      "contact_rank": 189
+    },
+    {
+      "customer_id": "CUST100973",
+      "actual_churn": 1,
+      "churn_probability": 0.8220765746,
+      "contact_rank": 190
+    },
+    {
+      "customer_id": "CUST100242",
+      "actual_churn": 1,
+      "churn_probability": 0.8218372361,
+      "contact_rank": 191
+    },
+    {
+      "customer_id": "CUST100045",
+      "actual_churn": 1,
+      "churn_probability": 0.8157925092,
+      "contact_rank": 192
+    },
+    {
+      "customer_id": "CUST100550",
+      "actual_churn": 1,
+      "churn_probability": 0.8079892195,
+      "contact_rank": 193
+    },
+    {
+      "customer_id": "CUST100175",
+      "actual_churn": 1,
+      "churn_probability": 0.8052746667,
+      "contact_rank": 194
+    },
+    {
+      "customer_id": "CUST100402",
+      "actual_churn": 1,
+      "churn_probability": 0.7969759244,
+      "contact_rank": 195
+    },
+    {
+      "customer_id": "CUST101163",
+      "actual_churn": 1,
+      "churn_probability": 0.7967002467,
+      "contact_rank": 196
+    },
+    {
+      "customer_id": "CUST100831",
+      "actual_churn": 1,
+      "churn_probability": 0.7942825733,
+      "contact_rank": 197
+    },
+    {
+      "customer_id": "CUST101071",
+      "actual_churn": 0,
+      "churn_probability": 0.7923441427,
+      "contact_rank": 198
+    },
+    {
+      "customer_id": "CUST100752",
+      "actual_churn": 1,
+      "churn_probability": 0.7908410543,
+      "contact_rank": 199
+    },
+    {
+      "customer_id": "CUST100875",
+      "actual_churn": 1,
+      "churn_probability": 0.7906116304,
+      "contact_rank": 200
+    },
+    {
+      "customer_id": "CUST100465",
+      "actual_churn": 1,
+      "churn_probability": 0.7905532783,
+      "contact_rank": 201
+    },
+    {
+      "customer_id": "CUST100064",
+      "actual_churn": 1,
+      "churn_probability": 0.7873935325,
+      "contact_rank": 202
+    },
+    {
+      "customer_id": "CUST100616",
+      "actual_churn": 1,
+      "churn_probability": 0.7830822123,
+      "contact_rank": 203
+    },
+    {
+      "customer_id": "CUST100664",
+      "actual_churn": 1,
+      "churn_probability": 0.7796711313,
+      "contact_rank": 204
+    },
+    {
+      "customer_id": "CUST100552",
+      "actual_churn": 1,
+      "churn_probability": 0.7782213178,
+      "contact_rank": 205
+    },
+    {
+      "customer_id": "CUST101037",
+      "actual_churn": 1,
+      "churn_probability": 0.7767826686,
+      "contact_rank": 206
+    },
+    {
+      "customer_id": "CUST101106",
+      "actual_churn": 1,
+      "churn_probability": 0.7681522545,
+      "contact_rank": 207
+    },
+    {
+      "customer_id": "CUST100172",
+      "actual_churn": 1,
+      "churn_probability": 0.7608854463,
+      "contact_rank": 208
+    },
+    {
+      "customer_id": "CUST100530",
+      "actual_churn": 1,
+      "churn_probability": 0.7596963325,
+      "contact_rank": 209
+    },
+    {
+      "customer_id": "CUST100144",
+      "actual_churn": 1,
+      "churn_probability": 0.7591649053,
+      "contact_rank": 210
+    },
+    {
+      "customer_id": "CUST101052",
+      "actual_churn": 1,
+      "churn_probability": 0.7590701675,
+      "contact_rank": 211
+    },
+    {
+      "customer_id": "CUST100905",
+      "actual_churn": 1,
+      "churn_probability": 0.7556693866,
+      "contact_rank": 212
+    },
+    {
+      "customer_id": "CUST100632",
+      "actual_churn": 1,
+      "churn_probability": 0.7544555727,
+      "contact_rank": 213
+    },
+    {
+      "customer_id": "CUST100760",
+      "actual_churn": 1,
+      "churn_probability": 0.7491967194,
+      "contact_rank": 214
+    },
+    {
+      "customer_id": "CUST100937",
+      "actual_churn": 1,
+      "churn_probability": 0.745152413,
+      "contact_rank": 215
+    },
+    {
+      "customer_id": "CUST100908",
+      "actual_churn": 1,
+      "churn_probability": 0.736033094,
+      "contact_rank": 216
+    },
+    {
+      "customer_id": "CUST100107",
+      "actual_churn": 0,
+      "churn_probability": 0.734400075,
+      "contact_rank": 217
+    },
+    {
+      "customer_id": "CUST100126",
+      "actual_churn": 0,
+      "churn_probability": 0.734164584,
+      "contact_rank": 218
+    },
+    {
+      "customer_id": "CUST101147",
+      "actual_churn": 1,
+      "churn_probability": 0.7307141307,
+      "contact_rank": 219
+    },
+    {
+      "customer_id": "CUST100432",
+      "actual_churn": 0,
+      "churn_probability": 0.7217151053,
+      "contact_rank": 220
+    },
+    {
+      "customer_id": "CUST100143",
+      "actual_churn": 1,
+      "churn_probability": 0.7130423585,
+      "contact_rank": 221
+    },
+    {
+      "customer_id": "CUST101144",
+      "actual_churn": 1,
+      "churn_probability": 0.7123780857,
+      "contact_rank": 222
+    },
+    {
+      "customer_id": "CUST101125",
+      "actual_churn": 1,
+      "churn_probability": 0.7113895251,
+      "contact_rank": 223
+    },
+    {
+      "customer_id": "CUST100781",
+      "actual_churn": 1,
+      "churn_probability": 0.7061654601,
+      "contact_rank": 224
+    },
+    {
+      "customer_id": "CUST101075",
+      "actual_churn": 1,
+      "churn_probability": 0.6982781025,
+      "contact_rank": 225
+    },
+    {
+      "customer_id": "CUST100990",
+      "actual_churn": 1,
+      "churn_probability": 0.6905887379,
+      "contact_rank": 226
+    },
+    {
+      "customer_id": "CUST100150",
+      "actual_churn": 0,
+      "churn_probability": 0.6886996818,
+      "contact_rank": 227
+    },
+    {
+      "customer_id": "CUST100176",
+      "actual_churn": 1,
+      "churn_probability": 0.6868132684,
+      "contact_rank": 228
+    },
+    {
+      "customer_id": "CUST100749",
+      "actual_churn": 1,
+      "churn_probability": 0.682891761,
+      "contact_rank": 229
+    },
+    {
+      "customer_id": "CUST100254",
+      "actual_churn": 1,
+      "churn_probability": 0.6819356174,
+      "contact_rank": 230
+    },
+    {
+      "customer_id": "CUST101024",
+      "actual_churn": 1,
+      "churn_probability": 0.675428713,
+      "contact_rank": 231
+    },
+    {
+      "customer_id": "CUST100753",
+      "actual_churn": 1,
+      "churn_probability": 0.6746757076,
+      "contact_rank": 232
+    },
+    {
+      "customer_id": "CUST100743",
+      "actual_churn": 1,
+      "churn_probability": 0.6730910147,
+      "contact_rank": 233
+    },
+    {
+      "customer_id": "CUST100062",
+      "actual_churn": 1,
+      "churn_probability": 0.6721194017,
+      "contact_rank": 234
+    },
+    {
+      "customer_id": "CUST100802",
+      "actual_churn": 1,
+      "churn_probability": 0.6716444292,
+      "contact_rank": 235
+    },
+    {
+      "customer_id": "CUST100780",
+      "actual_churn": 1,
+      "churn_probability": 0.6627904974,
+      "contact_rank": 236
+    },
+    {
+      "customer_id": "CUST100261",
+      "actual_churn": 1,
+      "churn_probability": 0.6608031047,
+      "contact_rank": 237
+    },
+    {
+      "customer_id": "CUST101026",
+      "actual_churn": 1,
+      "churn_probability": 0.6586619737,
+      "contact_rank": 238
+    },
+    {
+      "customer_id": "CUST101038",
+      "actual_churn": 0,
+      "churn_probability": 0.6573781074,
+      "contact_rank": 239
+    },
+    {
+      "customer_id": "CUST100758",
+      "actual_churn": 0,
+      "churn_probability": 0.6536602319,
+      "contact_rank": 240
+    },
+    {
+      "customer_id": "CUST100320",
+      "actual_churn": 1,
+      "churn_probability": 0.6498360038,
+      "contact_rank": 241
+    },
+    {
+      "customer_id": "CUST100471",
+      "actual_churn": 1,
+      "churn_probability": 0.6477790242,
+      "contact_rank": 242
+    },
+    {
+      "customer_id": "CUST100376",
+      "actual_churn": 1,
+      "churn_probability": 0.6470723764,
+      "contact_rank": 243
+    },
+    {
+      "customer_id": "CUST100609",
+      "actual_churn": 1,
+      "churn_probability": 0.6440231764,
+      "contact_rank": 244
+    },
+    {
+      "customer_id": "CUST101176",
+      "actual_churn": 1,
+      "churn_probability": 0.6345323735,
+      "contact_rank": 245
+    },
+    {
+      "customer_id": "CUST100462",
+      "actual_churn": 1,
+      "churn_probability": 0.6301829085,
+      "contact_rank": 246
+    },
+    {
+      "customer_id": "CUST100590",
+      "actual_churn": 0,
+      "churn_probability": 0.6187442703,
+      "contact_rank": 247
+    },
+    {
+      "customer_id": "CUST100167",
+      "actual_churn": 1,
+      "churn_probability": 0.6162610907,
+      "contact_rank": 248
+    },
+    {
+      "customer_id": "CUST100361",
+      "actual_churn": 0,
+      "churn_probability": 0.6100784935,
+      "contact_rank": 249
+    },
+    {
+      "customer_id": "CUST100118",
+      "actual_churn": 0,
+      "churn_probability": 0.5993392515,
+      "contact_rank": 250
+    },
+    {
+      "customer_id": "CUST100323",
+      "actual_churn": 1,
+      "churn_probability": 0.5973926388,
+      "contact_rank": 251
+    },
+    {
+      "customer_id": "CUST101112",
+      "actual_churn": 1,
+      "churn_probability": 0.5968421434,
+      "contact_rank": 252
+    },
+    {
+      "customer_id": "CUST100427",
+      "actual_churn": 0,
+      "churn_probability": 0.5902193001,
+      "contact_rank": 253
+    },
+    {
+      "customer_id": "CUST100378",
+      "actual_churn": 0,
+      "churn_probability": 0.5840962216,
+      "contact_rank": 254
+    },
+    {
+      "customer_id": "CUST100012",
+      "actual_churn": 0,
+      "churn_probability": 0.5825327333,
+      "contact_rank": 255
+    },
+    {
+      "customer_id": "CUST100237",
+      "actual_churn": 1,
+      "churn_probability": 0.5801526731,
+      "contact_rank": 256
+    },
+    {
+      "customer_id": "CUST100224",
+      "actual_churn": 1,
+      "churn_probability": 0.5786481802,
+      "contact_rank": 257
+    },
+    {
+      "customer_id": "CUST100509",
+      "actual_churn": 0,
+      "churn_probability": 0.5740184693,
+      "contact_rank": 258
+    },
+    {
+      "customer_id": "CUST100769",
+      "actual_churn": 1,
+      "churn_probability": 0.5705844873,
+      "contact_rank": 259
+    },
+    {
+      "customer_id": "CUST101115",
+      "actual_churn": 0,
+      "churn_probability": 0.5681645927,
+      "contact_rank": 260
+    },
+    {
+      "customer_id": "CUST101186",
+      "actual_churn": 0,
+      "churn_probability": 0.5663976619,
+      "contact_rank": 261
+    },
+    {
+      "customer_id": "CUST100859",
+      "actual_churn": 1,
+      "churn_probability": 0.563764591,
+      "contact_rank": 262
+    },
+    {
+      "customer_id": "CUST100980",
+      "actual_churn": 0,
+      "churn_probability": 0.5631408528,
+      "contact_rank": 263
+    },
+    {
+      "customer_id": "CUST100915",
+      "actual_churn": 1,
+      "churn_probability": 0.5625051428,
+      "contact_rank": 264
+    },
+    {
+      "customer_id": "CUST100948",
+      "actual_churn": 0,
+      "churn_probability": 0.5599831788,
+      "contact_rank": 265
+    },
+    {
+      "customer_id": "CUST100840",
+      "actual_churn": 0,
+      "churn_probability": 0.5539814689,
+      "contact_rank": 266
+    },
+    {
+      "customer_id": "CUST100464",
+      "actual_churn": 1,
+      "churn_probability": 0.5489654672,
+      "contact_rank": 267
+    },
+    {
+      "customer_id": "CUST100171",
+      "actual_churn": 1,
+      "churn_probability": 0.5441559708,
+      "contact_rank": 268
+    },
+    {
+      "customer_id": "CUST101183",
+      "actual_churn": 1,
+      "churn_probability": 0.5425204773,
+      "contact_rank": 269
+    },
+    {
+      "customer_id": "CUST100870",
+      "actual_churn": 1,
+      "churn_probability": 0.5399852529,
+      "contact_rank": 270
+    },
+    {
+      "customer_id": "CUST100626",
+      "actual_churn": 0,
+      "churn_probability": 0.5326967131,
+      "contact_rank": 271
+    },
+    {
+      "customer_id": "CUST100414",
+      "actual_churn": 0,
+      "churn_probability": 0.5264554417,
+      "contact_rank": 272
+    },
+    {
+      "customer_id": "CUST100669",
+      "actual_churn": 0,
+      "churn_probability": 0.521350184,
+      "contact_rank": 273
+    },
+    {
+      "customer_id": "CUST100580",
+      "actual_churn": 0,
+      "churn_probability": 0.5195739916,
+      "contact_rank": 274
+    },
+    {
+      "customer_id": "CUST100681",
+      "actual_churn": 0,
+      "churn_probability": 0.5194054653,
+      "contact_rank": 275
+    },
+    {
+      "customer_id": "CUST100673",
+      "actual_churn": 0,
+      "churn_probability": 0.5156562617,
+      "contact_rank": 276
+    },
+    {
+      "customer_id": "CUST100479",
+      "actual_churn": 0,
+      "churn_probability": 0.4972712554,
+      "contact_rank": 277
+    },
+    {
+      "customer_id": "CUST100002",
+      "actual_churn": 1,
+      "churn_probability": 0.4880800913,
+      "contact_rank": 278
+    },
+    {
+      "customer_id": "CUST100518",
+      "actual_churn": 0,
+      "churn_probability": 0.4848656675,
+      "contact_rank": 279
+    },
+    {
+      "customer_id": "CUST101100",
+      "actual_churn": 0,
+      "churn_probability": 0.4793128029,
+      "contact_rank": 280
+    },
+    {
+      "customer_id": "CUST100023",
+      "actual_churn": 0,
+      "churn_probability": 0.4762910739,
+      "contact_rank": 281
+    },
+    {
+      "customer_id": "CUST100262",
+      "actual_churn": 1,
+      "churn_probability": 0.475071181,
+      "contact_rank": 282
+    },
+    {
+      "customer_id": "CUST100797",
+      "actual_churn": 0,
+      "churn_probability": 0.4744466945,
+      "contact_rank": 283
+    },
+    {
+      "customer_id": "CUST100700",
+      "actual_churn": 0,
+      "churn_probability": 0.4509808202,
+      "contact_rank": 284
+    },
+    {
+      "customer_id": "CUST100913",
+      "actual_churn": 0,
+      "churn_probability": 0.4427965519,
+      "contact_rank": 285
+    },
+    {
+      "customer_id": "CUST100231",
+      "actual_churn": 1,
+      "churn_probability": 0.4408340329,
+      "contact_rank": 286
+    },
+    {
+      "customer_id": "CUST100189",
+      "actual_churn": 1,
+      "churn_probability": 0.4394846523,
+      "contact_rank": 287
+    },
+    {
+      "customer_id": "CUST101196",
+      "actual_churn": 0,
+      "churn_probability": 0.4369746834,
+      "contact_rank": 288
+    },
+    {
+      "customer_id": "CUST100147",
+      "actual_churn": 0,
+      "churn_probability": 0.4332954833,
+      "contact_rank": 289
+    },
+    {
+      "customer_id": "CUST101101",
+      "actual_churn": 1,
+      "churn_probability": 0.4144054619,
+      "contact_rank": 290
+    },
+    {
+      "customer_id": "CUST100506",
+      "actual_churn": 0,
+      "churn_probability": 0.4132169228,
+      "contact_rank": 291
+    },
+    {
+      "customer_id": "CUST100332",
+      "actual_churn": 1,
+      "churn_probability": 0.4076135976,
+      "contact_rank": 292
+    },
+    {
+      "customer_id": "CUST100799",
+      "actual_churn": 1,
+      "churn_probability": 0.3920261932,
+      "contact_rank": 293
+    },
+    {
+      "customer_id": "CUST100786",
+      "actual_churn": 1,
+      "churn_probability": 0.3896461438,
+      "contact_rank": 294
+    },
+    {
+      "customer_id": "CUST101087",
+      "actual_churn": 0,
+      "churn_probability": 0.3698576407,
+      "contact_rank": 295
+    },
+    {
+      "customer_id": "CUST100136",
+      "actual_churn": 1,
+      "churn_probability": 0.3053531187,
+      "contact_rank": 296
+    },
+    {
+      "customer_id": "CUST100775",
+      "actual_churn": 1,
+      "churn_probability": 0.2978495323,
+      "contact_rank": 297
+    },
+    {
+      "customer_id": "CUST100850",
+      "actual_churn": 1,
+      "churn_probability": 0.289268187,
+      "contact_rank": 298
+    },
+    {
+      "customer_id": "CUST100292",
+      "actual_churn": 1,
+      "churn_probability": 0.2655356947,
+      "contact_rank": 299
+    },
+    {
+      "customer_id": "CUST100601",
+      "actual_churn": 1,
+      "churn_probability": 0.2502181767,
+      "contact_rank": 300
+    }
+  ]
+}

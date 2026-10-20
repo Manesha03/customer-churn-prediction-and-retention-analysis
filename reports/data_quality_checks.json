@@ -1,0 +1,12 @@
+{
+  "age_out_of_range": 0,
+  "tenure_out_of_range": 0,
+  "satisfaction_out_of_range": 0,
+  "negative_charges": 0,
+  "negative_complaints_or_late_payments": 0,
+  "discount_out_of_range": 0,
+  "unexpected_binary_labels": 0,
+  "target_invalid": 0,
+  "duplicate_rows": 0,
+  "duplicate_customer_ids": 0
+}

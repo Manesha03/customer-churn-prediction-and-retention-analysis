@@ -1,0 +1,15 @@
+{
+  "test_customers": 300,
+  "top_20pct_contacts": 60,
+  "actual_test_churners": 259,
+  "churners_captured": 60,
+  "capture_rate": 0.23166023166023167,
+  "random_expected_churners_captured": 51.800000000000004,
+  "lift_vs_random": 1.1583011583011582,
+  "assumed_cost": 8.0,
+  "assumed_retained_value": 180.0,
+  "assumed_save_rate": 0.25,
+  "simulated_net_value": 2220.0,
+  "simulated_net_value_random_expected": 1851.0,
+  "interpretation": "Retained value and save rate are assumptions; observed test churn is not evidence that contact causes retention."
+}

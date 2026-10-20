@@ -1,0 +1,29 @@
+{
+  "model": "RandomForest",
+  "threshold": 0.9382243283758706,
+  "precision": 1.0,
+  "recall": 0.277992277992278,
+  "f1": 0.4350453172205438,
+  "roc_auc": 0.8901968170260852,
+  "pr_auc": 0.9822555313908838,
+  "brier_score": 0.09209890377478487,
+  "confusion_matrix": [
+    [
+      41,
+      0
+    ],
+    [
+      187,
+      72
+    ]
+  ],
+  "positive_rate": 0.8633333333333333,
+  "test_rows": 300,
+  "contact_cost": 8.0,
+  "retained_customer_value": 180.0,
+  "assumed_save_rate": 0.25,
+  "contact_capacity": 0.2,
+  "oof_expected_net_value": 6570.0,
+  "oof_contacts": 180,
+  "oof_true_positives": 178
+}
